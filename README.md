@@ -121,6 +121,11 @@ There are 20 kaandas in atharvaveda which are present in [Atharavaveda Repo](./A
 ## Usage
 To use this dataset, simply clone the repository and refer to the individual JSON files as needed. The files are named in a way that should be self-explanatory, with each file corresponding to a specific chapter or काण्ड.
 
+## Applications
+Projects and applications built using this dataset
+
+- **[Dharmik](https://github.com/shub39/Dharmik)** - App to browse bhagavad gita with audio transcriptions
+
 ## Upcoming Additions
 We plan to expand this collection by including the following texts:
 
