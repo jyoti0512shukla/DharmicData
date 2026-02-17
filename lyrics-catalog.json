@@ -1240,5 +1240,14 @@
     "category": "shaiva",
     "type": "mantra",
     "source": "remote"
+  },
+  {
+    "id": "shiva-tandava-stotram",
+    "name": "शिव तांडव स्तोत्रम्",
+    "nameEn": "Shiva Tandava Stotram",
+    "deity": "Shiva",
+    "category": "god",
+    "type": "stotra",
+    "source": "remote"
   }
 ]

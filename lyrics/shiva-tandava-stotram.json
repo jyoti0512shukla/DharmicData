@@ -1,0 +1,66 @@
+{
+  "id": "shiva-tandava-stotram",
+  "name": "शिव तांडव स्तोत्रम्",
+  "nameEn": "Shiva Tandava Stotram",
+  "deity": "Shiva",
+  "category": "god",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Shiva_Tandava_Stotram",
+  "sourceName": "Ravana Rachit",
+  "sections": [
+    {
+      "id": "shloka-1",
+      "title": "श्लोक १",
+      "titleEn": "Shloka 1",
+      "verses": [
+        { "lineHindi": "जटाटवीगलज्जलप्रवाहपावितस्थले", "lineEn": "Jatatavee-galajjala-pravaha-pavitasthale" },
+        { "lineHindi": "गलेऽवलम्ब्य लम्बितां भुजङ्गतुङ्गमालिकाम्।", "lineEn": "Gale-avalambya lambitaam bhujanga-tunga-malikaam" },
+        { "lineHindi": "डमड्डमड्डमड्डमन्निनादवड्डमर्वयं", "lineEn": "Damad-damad-damad-daman-ninaada-vaddamarvayam" },
+        { "lineHindi": "चकार चण्डताण्डवं तनोतु नः शिवः शिवम्॥१॥", "lineEn": "Chakara chandtaandavam tanotu nah Shivah Shivam" }
+      ]
+    },
+    {
+      "id": "shloka-2",
+      "title": "श्लोक २",
+      "titleEn": "Shloka 2",
+      "verses": [
+        { "lineHindi": "जटाकटाहसम्भ्रमभ्रमन्निलिम्पनिर्झरी-", "lineEn": "Jata-kataha-sambhrama-bhraman-nilimpa-nirjhari" },
+        { "lineHindi": "विलोलवीचिवल्लरीविराजमानमूर्धनि।", "lineEn": "Vilola-veechi-vallari-virajamana-moordhani" },
+        { "lineHindi": "धगद्धगद्धगज्ज्वलल्ललाटपट्टपावके", "lineEn": "Dhagad-dhagad-dhagaj-jvalal-lalata-patta-pavake" },
+        { "lineHindi": "किशोरचन्द्रशेखरे रतिः प्रतिक्षणं मम॥२॥", "lineEn": "Kishora-chandra-shekhare ratih pratikshanam mama" }
+      ]
+    },
+    {
+      "id": "shloka-3",
+      "title": "श्लोक ३",
+      "titleEn": "Shloka 3",
+      "verses": [
+        { "lineHindi": "धराधरेन्द्रनन्दिनीविलासबन्धुबन्धुर-", "lineEn": "Dharadharendra-nandini-vilasa-bandhu-bandhura" },
+        { "lineHindi": "स्फुरद्दिगन्तसन्ततिप्रमोदमानमानसे।", "lineEn": "Sphurad-diganta-santati-pramodamana-manase" },
+        { "lineHindi": "कृपाकटाक्षधोरणीनिरुद्धदुर्धरापदि", "lineEn": "Krupa-kataksha-dhorani-niruddha-durdharapadi" },
+        { "lineHindi": "क्वचिद्दिगम्बरे मनो विनोदमेतु वस्तुनि॥३॥", "lineEn": "Kvachid-digambare mano vinodametu vastuni" }
+      ]
+    },
+    {
+      "id": "shloka-4",
+      "title": "श्लोक ४",
+      "titleEn": "Shloka 4",
+      "verses": [
+        { "lineHindi": "जटाभुजङ्गपिङ्गलस्फुरत्फणामणिप्रभा-", "lineEn": "Jata-bhujanga-pingala-sphurat-phana-mani-prabha" },
+        { "lineHindi": "कदम्बकुङ्कुमद्रवप्रलिप्तदिग्वधूमुखे।", "lineEn": "Kadamba-kumkuma-drava-pralipta-digvadhu-mukhe" },
+        { "lineHindi": "मदान्धसिन्धुरस्फुरत्त्वगुत्तरीयमेदुरे", "lineEn": "Madandha-sindhura-sphurat-tvag-uttareeya-medure" },
+        { "lineHindi": "मनो विनोदमद्भुतं बिभर्तु भूतभर्तरि॥४॥", "lineEn": "Mano vinodam-adbhutam bibhartu bhootabhartari" }
+      ]
+    },
+    {
+      "id": "shloka-5",
+      "title": "श्लोक ५",
+      "titleEn": "Shloka 5",
+      "verses": [
+        { "lineHindi": "सहस्रलोचनप्रभृत्यशेषलेखशेखर-", "lineEn": "Sahasra-lochana-prabhritya-shesha-lekha-shekhara" },
+        { "lineHindi": "प्रसूनधूलिधोरणी विधूसराङ्घ्रिपीठभूः।", "lineEn": "Prasoona-dhooli-dhorani-vidhusaranghri-peethabhuh" },
+        { "lineHindi": "भुजङ्गराजमालया निबद्धजाटजूटक", "lineEn": "Bhujangaraja-malaya nibaddha-jata-jootaka" },
+        { "lineHindi": "श्रियै चिराय जायतां चकोरबन्धुशेखरः॥५॥", "lineEn": "Shriyai chiraya jayataam chakora-bandhu-shekharah" }
+      ]
+    }
+  ]
+}

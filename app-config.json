@@ -1,12 +1,33 @@
 {
   "image_cache_days": 7,
   "lyrics_type_labels": {
-    "aarti": { "hi": "आरती", "en": "Aarti" },
-    "chalisa": { "hi": "चालीसा", "en": "Chalisa" },
-    "bhajan": { "hi": "भजन", "en": "Bhajan" },
-    "mantra": { "hi": "मंत्र", "en": "Mantra" }
+    "aarti": {
+      "hi": "आरती",
+      "en": "Aarti"
+    },
+    "chalisa": {
+      "hi": "चालीसा",
+      "en": "Chalisa"
+    },
+    "bhajan": {
+      "hi": "भजन",
+      "en": "Bhajan"
+    },
+    "mantra": {
+      "hi": "मंत्र",
+      "en": "Mantra"
+    },
+    "stotra": {
+      "hi": "स्तोत्र",
+      "en": "Stotra"
+    }
   },
-  "lyrics_type_order": ["aarti", "chalisa", "bhajan", "mantra"],
+  "lyrics_type_order": [
+    "aarti",
+    "chalisa",
+    "bhajan",
+    "mantra",
+    "stotra"
+  ],
   "lyrics_remote_base_url": "https://raw.githubusercontent.com/jyoti0512shukla/DharmicData/main/lyrics/"
-  
 }
