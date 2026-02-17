@@ -1,0 +1,49 @@
+{
+  "id": "mahamrityunjaya-mantra",
+  "name": "महामृत्युंजय मंत्र",
+  "nameEn": "Mahamrityunjaya Mantra",
+  "deity": "Shiva",
+  "category": "vedic",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Mahamrityunjaya_Mantra",
+  "sourceName": "Rigveda 7.59.12",
+  "sections": [
+    {
+      "id": "mantra",
+      "title": "मंत्र",
+      "titleEn": "Mantra",
+      "verses": [
+        {
+          "lineHindi": "ॐ त्र्यम्बकं यजामहे",
+          "lineEn": "Om Tryambakam Yajamahe"
+        },
+        {
+          "lineHindi": "सुगन्धिं पुष्टिवर्धनम्",
+          "lineEn": "Sugandhim Pushtivardhanam"
+        },
+        {
+          "lineHindi": "उर्वारुकमिव बन्धनान्",
+          "lineEn": "Urvarukamiva Bandhanan"
+        },
+        {
+          "lineHindi": "मृत्योर्मुक्षीय मामृतात्॥",
+          "lineEn": "Mrityor Mukshiya Maamritat"
+        }
+      ]
+    },
+    {
+      "id": "meaning",
+      "title": "अर्थ",
+      "titleEn": "Meaning",
+      "verses": [
+        {
+          "lineHindi": "हम तीन नेत्रों वाले भगवान शिव की पूजा करते हैं, जो सुगंधित हैं और सभी प्राणियों का पोषण करते हैं।",
+          "lineEn": "We worship the three-eyed Lord Shiva, who is fragrant and nourishes all beings."
+        },
+        {
+          "lineHindi": "जैसे ककड़ी अपनी लता के बंधन से मुक्त होती है, वैसे ही हमें मृत्यु से मुक्त कर अमरता प्रदान करें।",
+          "lineEn": "As a cucumber is freed from its vine, may we be liberated from death and granted immortality."
+        }
+      ]
+    }
+  ]
+}

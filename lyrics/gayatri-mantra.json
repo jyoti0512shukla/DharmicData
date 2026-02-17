@@ -1,0 +1,49 @@
+{
+  "id": "gayatri-mantra",
+  "name": "गायत्री मंत्र",
+  "nameEn": "Gayatri Mantra",
+  "deity": "Savitri",
+  "category": "vedic",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Gayatri_Mantra",
+  "sourceName": "Rigveda 3.62.10",
+  "sections": [
+    {
+      "id": "mantra",
+      "title": "मंत्र",
+      "titleEn": "Mantra",
+      "verses": [
+        {
+          "lineHindi": "ॐ भूर्भुवः स्वः",
+          "lineEn": "Om Bhur Bhuvah Svah"
+        },
+        {
+          "lineHindi": "तत्सवितुर्वरेण्यं",
+          "lineEn": "Tat Savitur Varenyam"
+        },
+        {
+          "lineHindi": "भर्गो देवस्य धीमहि",
+          "lineEn": "Bhargo Devasya Dheemahi"
+        },
+        {
+          "lineHindi": "धियो यो नः प्रचोदयात्॥",
+          "lineEn": "Dhiyo Yo Nah Prachodayaat"
+        }
+      ]
+    },
+    {
+      "id": "meaning",
+      "title": "अर्थ",
+      "titleEn": "Meaning",
+      "verses": [
+        {
+          "lineHindi": "हम उस प्रकाशमान देव (सविता) के उत्तम तेज का ध्यान करते हैं,",
+          "lineEn": "We meditate upon the glorious splendor of the divine light (Savitri),"
+        },
+        {
+          "lineHindi": "वह हमारी बुद्धि को सन्मार्ग पर प्रेरित करें।",
+          "lineEn": "May that inspire and illuminate our intellect."
+        }
+      ]
+    }
+  ]
+}

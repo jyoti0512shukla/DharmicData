@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "aarti-kijai-narsingh-kunwarki",
+    "name": "आरती श्री नृसिंह भगवान जी की",
+    "nameEn": "Aarti Kijai Narsingh Kunwarki",
+    "deity": "Narasimha",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "ahoi-mata-aarti",
+    "name": "आरती अहोई माता की",
+    "nameEn": "Ahoi Mata Aarti",
+    "deity": "Ahoi Mata",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "ambe-mata-aarti",
+    "name": "आरती श्री अम्बा जी",
+    "nameEn": "Ambe Mata Aarti",
+    "deity": "Durga",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "annapurna-mata-aarti",
+    "name": "श्री अन्नपूर्णा माता जी की आरती",
+    "nameEn": "Annapurna Mata Aarti",
+    "deity": "Annapurna",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "baba-gangaram-aarti",
+    "name": "बाबा गंगाराम आरती",
+    "nameEn": "Baba Gangaram Aarti",
+    "deity": "Baba Gangaram",
+    "category": "saint",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "bagalamukhi-mata-aarti",
+    "name": "श्री बगलामुखी माता जी की आरती",
+    "nameEn": "Bagalamukhi Mata Aarti",
+    "deity": "Bagalamukhi",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "batuka-bhairava-aarti",
+    "name": "श्री भैरव आरती",
+    "nameEn": "Batuka Bhairava Aarti",
+    "deity": "Bhairava",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "bhagavad-gita-aarti",
+    "name": "श्रीमद भगवद गीता आरती",
+    "nameEn": "Bhagavad Gita Aarti",
+    "deity": "Krishna",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "devi-radhika-aarti",
+    "name": "देवी राधिका आरती",
+    "nameEn": "Devi Radhika Aarti",
+    "deity": "Radha",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "durga-mata-aarti",
+    "name": "आरती श्री दुर्गाजी",
+    "nameEn": "Durga Mata Aarti",
+    "deity": "Durga",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "ekadashi-aarti",
+    "name": "एकादशी माता की आरती",
+    "nameEn": "Ekadashi Aarti",
+    "deity": "Ekadashi",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "gajavadan-vinayaka-aarti",
+    "name": "आरती गजबदन विनायक की",
+    "nameEn": "Gajavadan Vinayaka Aarti",
+    "deity": "Ganesha",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "ganapati-seva-aarti",
+    "name": "आरती श्री गणपति जी",
+    "nameEn": "Ganapati Seva Aarti",
+    "deity": "Ganesha",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "jay-ganesh-aarti",
+    "name": "श्री गणेशजी की आरती",
+    "nameEn": "Jay Ganesh Aarti",
+    "deity": "Ganesha",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "ganga-bhagiratha-nandini-aarti",
+    "name": "गंगा माता आरती",
+    "nameEn": "Ganga Bhagiratha Nandini Aarti",
+    "deity": "Ganga",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "ganga-mata-aarti",
+    "name": "आरती श्री गंगाजी",
+    "nameEn": "Ganga Mata Aarti",
+    "deity": "Ganga",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "gau-mata-aarti",
+    "name": "श्री गौमाताजी की आरती",
+    "nameEn": "Gau Mata Aarti",
+    "deity": "Gau Mata",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "gayatri-mata-aarti",
+    "name": "श्री गायत्रीजी की आरती",
+    "nameEn": "Gayatri Mata Aarti",
+    "deity": "Gayatri",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "jai-jagdish-aarti",
+    "name": "आरती श्री जगदीशजी",
+    "nameEn": "Jai Jagdish Aarti",
+    "deity": "Vishnu",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "janaki-mata-aarti",
+    "name": "जानकी माता आरती",
+    "nameEn": "Janaki Mata Aarti",
+    "deity": "Sita",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "kunj-bihari-aarti",
+    "name": "आरती कुंजबिहारी की, श्री गिरिधर कृष्ण मुरारी की",
+    "nameEn": "Kunj Bihari Aarti",
+    "deity": "Krishna",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "lakshmi-mata-aarti",
+    "name": "आरती श्री लक्ष्मी जी",
+    "nameEn": "Lakshmi Mata Aarti",
+    "deity": "Lakshmi",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "lalita-mata-aarti",
+    "name": "आरती ललिता माता की",
+    "nameEn": "Lalita Mata Aarti",
+    "deity": "Lalita",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "lord-badarinatha-aarti",
+    "name": "भगवान बदरीनाथ आरती",
+    "nameEn": "Lord Badarinatha Aarti",
+    "deity": "Vishnu",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "lord-chitragupta-aarti",
+    "name": "श्री चित्रगुप्त जी की आरती",
+    "nameEn": "Lord Chitragupta Aarti",
+    "deity": "Chitragupta",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "lord-dhanvantari-aarti",
+    "name": "आरती श्री धन्वन्तरि जी की",
+    "nameEn": "Lord Dhanvantari Aarti",
+    "deity": "Dhanvantari",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "lord-gangadhara-aarti",
+    "name": "भगवान गङ्गाधर आरती",
+    "nameEn": "Lord Gangadhara Aarti",
+    "deity": "Shiva",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "lord-giridhari-aarti",
+    "name": "भगवान गिरिधारी आरती",
+    "nameEn": "Lord Giridhari Aarti",
+    "deity": "Krishna",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "lord-kailasavasi-aarti",
+    "name": "भगवान कैलासवासी आरती",
+    "nameEn": "Lord Kailasavasi Aarti",
+    "deity": "Shiva",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "lord-kubera-aarti",
+    "name": "आरती श्री कुबेर जी की",
+    "nameEn": "Lord Kubera Aarti",
+    "deity": "Kubera",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "lord-natavara-aarti",
+    "name": "भगवान नटवर आरती",
+    "nameEn": "Lord Natavara Aarti",
+    "deity": "Krishna",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "lord-purushottam-aarti",
+    "name": "श्री पुरुषोत्तम देव की आरती",
+    "nameEn": "Lord Purushottam Aarti",
+    "deity": "Vishnu",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "lord-shankara-aarti",
+    "name": "भगवान शंकर आरती",
+    "nameEn": "Lord Shankara Aarti",
+    "deity": "Shiva",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "mahadev-aarti",
+    "name": "श्री शिवशंकरजी की आरती",
+    "nameEn": "Mahadev Aarti",
+    "deity": "Shiva",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "mahakali-mata-aarti",
+    "name": "श्री महाकाली माता जी की आरती",
+    "nameEn": "Mahakali Mata Aarti",
+    "deity": "Kali",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "narmada-mata-aarti",
+    "name": "श्री नर्मदा माता जी की आरती",
+    "nameEn": "Narmada Mata Aarti",
+    "deity": "Narmada",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "om-jai-narsingh-hare",
+    "name": "श्री नृसिंह भगवान की आरती",
+    "nameEn": "Om Jai Narsingh Hare",
+    "deity": "Narasimha",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "parvati-mata-aarti",
+    "name": "श्री पार्वती माता की आरती",
+    "nameEn": "Parvati Mata Aarti",
+    "deity": "Parvati",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "sai-baba-aarti",
+    "name": "श्री साईं बाबा आरती",
+    "nameEn": "Sai Baba Aarti",
+    "deity": "Sai Baba",
+    "category": "saint",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "santoshi-mata-aarti",
+    "name": "आरती श्री सन्तोषी माँ",
+    "nameEn": "Santoshi Mata Aarti",
+    "deity": "Santoshi Mata",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "saraswati-mata-aarti",
+    "name": "आरती श्री सरस्वती जी",
+    "nameEn": "Saraswati Mata Aarti",
+    "deity": "Saraswati",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shakambhari-mata-aarti",
+    "name": "श्री शाकम्भरी माता जी की आरती",
+    "nameEn": "Shakambhari Mata Aarti",
+    "deity": "Shakambhari",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "sharda-mata-aarti",
+    "name": "श्री शारदा माता जी की आरती",
+    "nameEn": "Sharda Mata Aarti",
+    "deity": "Saraswati",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shitala-mata-aarti",
+    "name": "श्री शीतला माता की आरती",
+    "nameEn": "Shitala Mata Aarti",
+    "deity": "Shitala Mata",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shiva-aarti",
+    "name": "शिवजी की आरती",
+    "nameEn": "Shiva Aarti",
+    "deity": "Shiva",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shree-hanuman-aarti",
+    "name": "आरती श्री हनुमानजी",
+    "nameEn": "Shree Hanuman Aarti",
+    "deity": "Hanuman",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shree-rama-aarti",
+    "name": "आरती श्री रामचन्द्रजी",
+    "nameEn": "Shree Rama Aarti",
+    "deity": "Rama",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shree-ramayan-aarti",
+    "name": "श्री रामायणजी की आरती",
+    "nameEn": "Shree Ramayan Aarti",
+    "deity": "Rama",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shree-satyanarayan-aarti",
+    "name": "आरती श्री सत्यनारायणजी",
+    "nameEn": "Shree Satyanarayan Aarti",
+    "deity": "Vishnu",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-balaji-aarti",
+    "name": "श्री बालाजी आरती",
+    "nameEn": "Shri Balaji Aarti",
+    "deity": "Hanuman",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-banke-bihari-aarti",
+    "name": "श्री बाँकेबिहारी की आरती",
+    "nameEn": "Shri Banke Bihari Aarti",
+    "deity": "Krishna",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-bhairava-aarti",
+    "name": "श्री भैरव आरती",
+    "nameEn": "Shri Bhairava Aarti",
+    "deity": "Bhairava",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-brahma-aarti",
+    "name": "आरती श्री ब्रह्मा जी",
+    "nameEn": "Shri Brahma Aarti",
+    "deity": "Brahma",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-giriraj-aarti",
+    "name": "श्री गिरिराज आरती",
+    "nameEn": "Shri Giriraj Aarti",
+    "deity": "Krishna",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-gopala-aarti",
+    "name": "श्री गोपाल की आरती",
+    "nameEn": "Shri Gopala Aarti",
+    "deity": "Krishna",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-gorakha-aarti",
+    "name": "गोरख आरती",
+    "nameEn": "Shri Gorakha Aarti",
+    "deity": "Gorakhnath",
+    "category": "saint",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-govardhan-aarti",
+    "name": "आरती श्री गोवर्धन महाराज की",
+    "nameEn": "Shri Govardhan Aarti",
+    "deity": "Krishna",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-jaharveer-aarti",
+    "name": "आरती श्री जाहरवीर जी की",
+    "nameEn": "Shri Jaharveer Aarti",
+    "deity": "Jaharveer",
+    "category": "saint",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-janakinatha-aarti",
+    "name": "श्री जानकीनाथ आरती",
+    "nameEn": "Shri Janakinatha Aarti",
+    "deity": "Rama",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-krishna-kanhaiya-aarti",
+    "name": "आरती श्रीकृष्ण कन्हैया की",
+    "nameEn": "Shri Krishna Kanhaiya Aarti",
+    "deity": "Krishna",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-lakshminarayana-aarti",
+    "name": "श्री लक्ष्मीनारायण आरती",
+    "nameEn": "Shri Lakshminarayana Aarti",
+    "deity": "Vishnu",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-mahavir-aarti",
+    "name": "श्री महावीर आरती",
+    "nameEn": "Shri Mahavir Aarti",
+    "deity": "Mahavir",
+    "category": "saint",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-parashurama-aarti",
+    "name": "श्री परशुराम आरती",
+    "nameEn": "Shri Parashurama Aarti",
+    "deity": "Parashurama",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-pavanasuta-hanuman-aarti",
+    "name": "श्री पवनसुत हनुमान आरती",
+    "nameEn": "Shri Pavanasuta Hanuman Aarti",
+    "deity": "Hanuman",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-pitar-aarti",
+    "name": "श्री पितर आरती",
+    "nameEn": "Shri Pitar Aarti",
+    "deity": "Pitru",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-pretraj-aarti",
+    "name": "आरती प्रेतराज की कीजै",
+    "nameEn": "Shri Pretraj Aarti",
+    "deity": "Pretraj Sarkar",
+    "category": "saint",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-radha-aarti",
+    "name": "श्री राधा माता जी की आरती",
+    "nameEn": "Shri Radha Aarti",
+    "deity": "Radha",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-raghuvar-aarti",
+    "name": "श्री रघुवर आरती",
+    "nameEn": "Shri Raghuvar Aarti",
+    "deity": "Rama",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-rama-raghupati-aarti",
+    "name": "श्री राम रघुपति आरती",
+    "nameEn": "Shri Rama Raghupati Aarti",
+    "deity": "Rama",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-rama-raghuvira-aarti",
+    "name": "श्री राम रघुवीर आरती",
+    "nameEn": "Shri Rama Raghuvira Aarti",
+    "deity": "Rama",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-ramdev-aarti",
+    "name": "श्री रामदेव आरती",
+    "nameEn": "Shri Ramdev Aarti",
+    "deity": "Baba Ramdev",
+    "category": "saint",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-rani-sati-aarti",
+    "name": "श्री राणी सती जी की आरती",
+    "nameEn": "Shri Rani Sati Aarti",
+    "deity": "Rani Sati",
+    "category": "saint",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-ravidas-aarti",
+    "name": "आरती श्री रविदास जी की",
+    "nameEn": "Shri Ravidas Aarti",
+    "deity": "Ravidas",
+    "category": "saint",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-shanidev-aarti",
+    "name": "शनिदेव की आरती",
+    "nameEn": "Shri Shanidev Aarti",
+    "deity": "Shani",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-sitarama-aarti",
+    "name": "श्री सीताराम आरती",
+    "nameEn": "Shri Sitarama Aarti",
+    "deity": "Rama",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-vishwakarma-aarti",
+    "name": "श्री विश्वकर्मा आरती",
+    "nameEn": "Shri Vishwakarma Aarti",
+    "deity": "Vishwakarma",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shri-yashodalala-aarti",
+    "name": "श्री यशोदालाल आरती",
+    "nameEn": "Shri Yashodalala Aarti",
+    "deity": "Krishna",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "shyam-baba-aarti",
+    "name": "श्री खाटू श्यामजी की आरती",
+    "nameEn": "Shyam Baba Aarti",
+    "deity": "Khatu Shyam",
+    "category": "saint",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "sita-mata-aarti",
+    "name": "सीता माता आरती",
+    "nameEn": "Sita Mata Aarti",
+    "deity": "Sita",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "surya-deva-aarti",
+    "name": "आरती श्री सूर्य जी",
+    "nameEn": "Surya Deva Aarti",
+    "deity": "Surya",
+    "category": "god",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "tulasi-mata-aarti",
+    "name": "श्री तुलसी जी की आरती",
+    "nameEn": "Tulasi Mata Aarti",
+    "deity": "Tulasi",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "vaishno-mata-aarti",
+    "name": "आरती श्री वैष्णो देवी",
+    "nameEn": "Vaishno Mata Aarti",
+    "deity": "Vaishno Devi",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "vindhyeshwari-mata-aarti",
+    "name": "श्री विन्ध्येश्वरी माता जी की आरती",
+    "nameEn": "Vindhyeshwari Mata Aarti",
+    "deity": "Vindhyavasini",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "yamuna-mata-aarti",
+    "name": "यमुना माता आरती",
+    "nameEn": "Yamuna Mata Aarti",
+    "deity": "Yamuna",
+    "category": "goddess",
+    "type": "aarti",
+    "source": "bundle"
+  },
+  {
+    "id": "annapurna-mata-chalisa",
+    "name": "Annapurna Mata Chalisa",
+    "nameEn": "Annapurna Mata Chalisa",
+    "deity": "Annapurna Mata",
+    "category": "goddess",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "bagalamukhi-mata-chalisa",
+    "name": "Bagalamukhi Mata Chalisa",
+    "nameEn": "Bagalamukhi Mata Chalisa",
+    "deity": "Bagalamukhi Mata",
+    "category": "goddess",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "durga-mata-chalisa",
+    "name": "Durga Mata Chalisa",
+    "nameEn": "Durga Mata Chalisa",
+    "deity": "Durga Mata",
+    "category": "goddess",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "ganga-mata-chalisa",
+    "name": "Ganga Mata Chalisa",
+    "nameEn": "Ganga Mata Chalisa",
+    "deity": "Ganga Mata",
+    "category": "goddess",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "gayatri-mata-chalisa",
+    "name": "Gayatri Mata Chalisa",
+    "nameEn": "Gayatri Mata Chalisa",
+    "deity": "Gayatri Mata",
+    "category": "goddess",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "gita-chalisa",
+    "name": "Gita Chalisa",
+    "nameEn": "Gita Chalisa",
+    "deity": "Gita",
+    "category": "god",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "kali-mata-chalisa",
+    "name": "Kali Mata Chalisa",
+    "nameEn": "Kali Mata Chalisa",
+    "deity": "Kali Mata",
+    "category": "goddess",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "lakshmi-mata-chalisa",
+    "name": "Lakshmi Mata Chalisa",
+    "nameEn": "Lakshmi Mata Chalisa",
+    "deity": "Lakshmi Mata",
+    "category": "goddess",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "lalita-mata-chalisa",
+    "name": "Lalita Mata Chalisa",
+    "nameEn": "Lalita Mata Chalisa",
+    "deity": "Lalita Mata",
+    "category": "goddess",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "mahakali-mata-chalisa",
+    "name": "Mahakali Mata Chalisa",
+    "nameEn": "Mahakali Mata Chalisa",
+    "deity": "Mahakali Mata",
+    "category": "goddess",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "mahalakshmi-mata-chalisa",
+    "name": "Mahalakshmi Mata Chalisa",
+    "nameEn": "Mahalakshmi Mata Chalisa",
+    "deity": "Mahalakshmi Mata",
+    "category": "goddess",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "narmada-mata-chalisa",
+    "name": "Narmada Mata Chalisa",
+    "nameEn": "Narmada Mata Chalisa",
+    "deity": "Narmada Mata",
+    "category": "goddess",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "navagraha-chalisa",
+    "name": "Navagraha Chalisa",
+    "nameEn": "Navagraha Chalisa",
+    "deity": "Navagraha",
+    "category": "god",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "parvati-mata-chalisa",
+    "name": "Parvati Mata Chalisa",
+    "nameEn": "Parvati Mata Chalisa",
+    "deity": "Parvati Mata",
+    "category": "goddess",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "sai-baba-chalisa",
+    "name": "Sai Baba Chalisa",
+    "nameEn": "Sai Baba Chalisa",
+    "deity": "Sai Baba",
+    "category": "saint",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "saraswati-mata-chalisa",
+    "name": "Saraswati Mata Chalisa",
+    "nameEn": "Saraswati Mata Chalisa",
+    "deity": "Saraswati Mata",
+    "category": "goddess",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shakambhari-mata-chalisa",
+    "name": "Shakambhari Mata Chalisa",
+    "nameEn": "Shakambhari Mata Chalisa",
+    "deity": "Shakambhari Mata",
+    "category": "goddess",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shani-dev-chalisa",
+    "name": "Shani Dev Chalisa",
+    "nameEn": "Shani Dev Chalisa",
+    "deity": "Shani Dev",
+    "category": "god",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "sharda-mata-chalisa",
+    "name": "Sharda Mata Chalisa",
+    "nameEn": "Sharda Mata Chalisa",
+    "deity": "Sharda Mata",
+    "category": "goddess",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shitala-mata-chalisa",
+    "name": "Shitala Mata Chalisa",
+    "nameEn": "Shitala Mata Chalisa",
+    "deity": "Shitala Mata",
+    "category": "goddess",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shiva-chalisa",
+    "name": "Shiva Chalisa",
+    "nameEn": "Shiva Chalisa",
+    "deity": "Shiva",
+    "category": "god",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shree-ganesha-chalisa",
+    "name": "Shree Ganesha Chalisa",
+    "nameEn": "Shree Ganesha Chalisa",
+    "deity": "Ganesha",
+    "category": "god",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shree-hanuman-chalisa",
+    "name": "Shree Hanuman Chalisa",
+    "nameEn": "Shree Hanuman Chalisa",
+    "deity": "Hanuman",
+    "category": "god",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shree-krishna-chalisa",
+    "name": "Shree Krishna Chalisa",
+    "nameEn": "Shree Krishna Chalisa",
+    "deity": "Krishna",
+    "category": "god",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shree-rama-chalisa",
+    "name": "Shree Rama Chalisa",
+    "nameEn": "Shree Rama Chalisa",
+    "deity": "Rama",
+    "category": "god",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shri-baba-gangaram-chalisa",
+    "name": "Shri Baba Gangaram Chalisa",
+    "nameEn": "Shri Baba Gangaram Chalisa",
+    "deity": "Baba Gangaram",
+    "category": "saint",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shri-bajarang-baan",
+    "name": "Shri Bajarang Baan",
+    "nameEn": "Shri Bajarang Baan",
+    "deity": "Bajarang",
+    "category": "god",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shri-balaji-chalisa",
+    "name": "Shri Balaji Chalisa",
+    "nameEn": "Shri Balaji Chalisa",
+    "deity": "Balaji",
+    "category": "god",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shri-batuka-bhairava-chalisa",
+    "name": "Shri Batuka Bhairava Chalisa",
+    "nameEn": "Shri Batuka Bhairava Chalisa",
+    "deity": "Batuka Bhairava",
+    "category": "god",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shri-bhairava-chalisa",
+    "name": "Shri Bhairava Chalisa",
+    "nameEn": "Shri Bhairava Chalisa",
+    "deity": "Bhairava",
+    "category": "god",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shri-brahma-chalisa",
+    "name": "Shri Brahma Chalisa",
+    "nameEn": "Shri Brahma Chalisa",
+    "deity": "Brahma",
+    "category": "god",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shri-giriraj-chalisa",
+    "name": "Shri Giriraj Chalisa",
+    "nameEn": "Shri Giriraj Chalisa",
+    "deity": "Giriraj",
+    "category": "god",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shri-gopala-chalisa",
+    "name": "Shri Gopala Chalisa",
+    "nameEn": "Shri Gopala Chalisa",
+    "deity": "Gopala",
+    "category": "god",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shri-gorakha-chalisa",
+    "name": "Shri Gorakha Chalisa",
+    "nameEn": "Shri Gorakha Chalisa",
+    "deity": "Gorakha",
+    "category": "saint",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shri-jaharveer-chalisa",
+    "name": "Shri Jaharveer Chalisa",
+    "nameEn": "Shri Jaharveer Chalisa",
+    "deity": "Jaharveer",
+    "category": "saint",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shri-kubera-chalisa",
+    "name": "Shri Kubera Chalisa",
+    "nameEn": "Shri Kubera Chalisa",
+    "deity": "Kubera",
+    "category": "god",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shri-mahavir-chalisa",
+    "name": "Shri Mahavir Chalisa",
+    "nameEn": "Shri Mahavir Chalisa",
+    "deity": "Mahavir",
+    "category": "saint",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shri-parashurama-chalisa",
+    "name": "Shri Parashurama Chalisa",
+    "nameEn": "Shri Parashurama Chalisa",
+    "deity": "Parashurama",
+    "category": "god",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shri-pitar-chalisa",
+    "name": "Shri Pitar Chalisa",
+    "nameEn": "Shri Pitar Chalisa",
+    "deity": "Pitar",
+    "category": "god",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shri-pretraj-chalisa",
+    "name": "Shri Pretraj Chalisa",
+    "nameEn": "Shri Pretraj Chalisa",
+    "deity": "Pretraj",
+    "category": "saint",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shri-radha-chalisa",
+    "name": "Shri Radha Chalisa",
+    "nameEn": "Shri Radha Chalisa",
+    "deity": "Radha",
+    "category": "goddess",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shri-ramdev-chalisa",
+    "name": "Shri Ramdev Chalisa",
+    "nameEn": "Shri Ramdev Chalisa",
+    "deity": "Ramdev",
+    "category": "saint",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shri-rani-sati-chalisa",
+    "name": "Shri Rani Sati Chalisa",
+    "nameEn": "Shri Rani Sati Chalisa",
+    "deity": "Rani Sati",
+    "category": "goddess",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shri-ravidas-chalisa",
+    "name": "Shri Ravidas Chalisa",
+    "nameEn": "Shri Ravidas Chalisa",
+    "deity": "Ravidas",
+    "category": "saint",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shri-shyam-chalisa",
+    "name": "Shri Shyam Chalisa",
+    "nameEn": "Shri Shyam Chalisa",
+    "deity": "Shyam",
+    "category": "god",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shri-vishnu-chalisa",
+    "name": "Shri Vishnu Chalisa",
+    "nameEn": "Shri Vishnu Chalisa",
+    "deity": "Vishnu",
+    "category": "god",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "shri-vishwakarma-chalisa",
+    "name": "Shri Vishwakarma Chalisa",
+    "nameEn": "Shri Vishwakarma Chalisa",
+    "deity": "Vishwakarma",
+    "category": "god",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "surya-deva-chalisa",
+    "name": "Surya Deva Chalisa",
+    "nameEn": "Surya Deva Chalisa",
+    "deity": "Surya Deva",
+    "category": "god",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "tulasi-mata-chalisa",
+    "name": "Tulasi Mata Chalisa",
+    "nameEn": "Tulasi Mata Chalisa",
+    "deity": "Tulasi Mata",
+    "category": "goddess",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "vaishno-mata-chalisa",
+    "name": "Vaishno Mata Chalisa",
+    "nameEn": "Vaishno Mata Chalisa",
+    "deity": "Vaishno Mata",
+    "category": "goddess",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "vindhyeshwari-mata-chalisa",
+    "name": "Vindhyeshwari Mata Chalisa",
+    "nameEn": "Vindhyeshwari Mata Chalisa",
+    "deity": "Vindhyeshwari Mata",
+    "category": "goddess",
+    "type": "chalisa",
+    "source": "remote"
+  },
+  {
+    "id": "gayatri-mantra",
+    "name": "गायत्री मंत्र",
+    "nameEn": "Gayatri Mantra",
+    "deity": "Savitri",
+    "category": "vedic",
+    "type": "mantra",
+    "source": "remote"
+  },
+  {
+    "id": "mahamrityunjaya-mantra",
+    "name": "महामृत्युंजय मंत्र",
+    "nameEn": "Mahamrityunjaya Mantra",
+    "deity": "Shiva",
+    "category": "vedic",
+    "type": "mantra",
+    "source": "remote"
+  },
+  {
+    "id": "om-namah-shivaya",
+    "name": "ॐ नमः शिवाय",
+    "nameEn": "Om Namah Shivaya",
+    "deity": "Shiva",
+    "category": "shaiva",
+    "type": "mantra",
+    "source": "remote"
+  }
+]

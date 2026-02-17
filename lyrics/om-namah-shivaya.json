@@ -1,0 +1,60 @@
+{
+  "id": "om-namah-shivaya",
+  "name": "ॐ नमः शिवाय",
+  "nameEn": "Om Namah Shivaya",
+  "deity": "Shiva",
+  "category": "shaiva",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Om_Namah_Shivaya",
+  "sourceName": "Yajurveda",
+  "sections": [
+    {
+      "id": "mantra",
+      "title": "मंत्र",
+      "titleEn": "Mantra",
+      "verses": [
+        {
+          "lineHindi": "ॐ नमः शिवाय",
+          "lineEn": "Om Namah Shivaya"
+        }
+      ]
+    },
+    {
+      "id": "panchakshari",
+      "title": "पंचाक्षरी मंत्र",
+      "titleEn": "Five-Syllable Mantra",
+      "verses": [
+        {
+          "lineHindi": "न - पृथ्वी तत्व (Earth element)",
+          "lineEn": "Na — represents Earth"
+        },
+        {
+          "lineHindi": "मः - जल तत्व (Water element)",
+          "lineEn": "Mah — represents Water"
+        },
+        {
+          "lineHindi": "शि - अग्नि तत्व (Fire element)",
+          "lineEn": "Shi — represents Fire"
+        },
+        {
+          "lineHindi": "वा - वायु तत्व (Air element)",
+          "lineEn": "Va — represents Air"
+        },
+        {
+          "lineHindi": "य - आकाश तत्व (Ether/Space element)",
+          "lineEn": "Ya — represents Ether/Space"
+        }
+      ]
+    },
+    {
+      "id": "meaning",
+      "title": "अर्थ",
+      "titleEn": "Meaning",
+      "verses": [
+        {
+          "lineHindi": "मैं शिव को नमन करता हूँ — जो कल्याणकारी हैं, जो सबके भीतर विराजमान हैं।",
+          "lineEn": "I bow to Shiva — the auspicious one, the inner self of all."
+        }
+      ]
+    }
+  ]
+}
