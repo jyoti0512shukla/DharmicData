@@ -7,7 +7,6 @@
     "mantra": { "hi": "मंत्र", "en": "Mantra" }
   },
   "lyrics_type_order": ["aarti", "chalisa", "bhajan", "mantra"],
-  "lyrics_remote_base_url": "https://raw.githubusercontent.com/jyoti0512shukla/DharmicData/main/lyrics/",
-  "stotra": { "hi": "स्तोत्र", "en": "Stotra" }
+  "lyrics_remote_base_url": "https://raw.githubusercontent.com/jyoti0512shukla/DharmicData/main/lyrics/"
   
 }
