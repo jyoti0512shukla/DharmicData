@@ -1,0 +1,45 @@
+{
+  "id": "vedic-agni-hymn",
+  "title": "The First Hymn to Agni",
+  "titleHi": "अग्नि की प्रथम स्तुति",
+  "category": "vedic",
+  "ageGroup": "7-12",
+  "readTimeMinutes": 3,
+  "moral": "Fire is not just a flame — it is the messenger between humans and the divine. Gratitude to nature is the beginning of wisdom.",
+  "moralHi": "अग्नि केवल लौ नहीं — वह मनुष्य और देवताओं के बीच का दूत है। प्रकृति के प्रति कृतज्ञता ही ज्ञान की शुरुआत है।",
+  "coverImage": null,
+  "tags": ["vedas", "agni", "fire", "gratitude", "rigveda"],
+  "sections": [
+    {
+      "heading": null,
+      "text": "Long, long ago — before cities, before temples, even before writing — people lived in small villages surrounded by vast forests. Every evening, as the sky turned dark and cold winds blew, one thing kept them safe: fire.",
+      "image": null
+    },
+    {
+      "heading": "The Gift of Agni",
+      "text": "The people called fire 'Agni.' To them, Agni was not just burning wood. Agni was alive — a bright, warm friend who cooked their food, kept wild animals away, and lit up the darkness. They believed Agni was a deva, a shining being who came down from the heavens to live among them.",
+      "image": null
+    },
+    {
+      "heading": "The First Prayer",
+      "text": "One morning, a wise rishi sat before the sacred fire. He watched the golden flames dance and leap toward the sky. He felt deep gratitude in his heart. Closing his eyes, words began to flow from within him — the very first hymn of the Rig Veda: 'Agnim īḷe purohitam…' — 'I praise Agni, the chosen priest, the divine minister.'",
+      "image": null
+    },
+    {
+      "heading": "The Messenger",
+      "text": "The rishi taught his students that when they poured offerings into the fire — ghee, grain, and fragrant herbs — Agni carried those gifts upward in his smoke to the devas above. Agni was the messenger, the bridge between earth and heaven. Without him, the prayers of humans could not reach the gods.",
+      "image": null
+    },
+    {
+      "heading": "Agni in Every Home",
+      "text": "From that day on, every family kept a sacred fire in their home. Before meals, they offered a small portion to Agni. During celebrations, Agni was the honored guest. Even today, in weddings and pujas, fire remains at the center — a tradition that began thousands of years ago with that first hymn.",
+      "image": null
+    },
+    {
+      "heading": "The Lesson",
+      "text": "The rishi smiled at his students and said, 'Remember — the light you see in the fire is the same light that shines in the sun, in the stars, and in your own heart. When you honor Agni, you honor the light within yourself.' And so the children learned that gratitude to nature is the very first step on the path of wisdom.",
+      "image": null
+    }
+  ],
+  "version": 1
+}

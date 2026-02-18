@@ -546,5 +546,25 @@
     ],
     "bundled": false,
     "version": 1
+  },
+  {
+    "id": "vedic-agni-hymn",
+    "title": "The First Hymn to Agni",
+    "titleHi": "अग्नि की प्रथम स्तुति",
+    "category": "vedic",
+    "ageGroup": "7-12",
+    "readTimeMinutes": 3,
+    "moral": "Fire is not just a flame — it is the messenger between humans and the divine. Gratitude to nature is the beginning of wisdom.",
+    "moralHi": "अग्नि केवल लौ नहीं — वह मनुष्य और देवताओं के बीच का दूत है। प्रकृति के प्रति कृतज्ञता ही ज्ञान की शुरुआत है।",
+    "coverImage": null,
+    "tags": [
+      "vedas",
+      "agni",
+      "fire",
+      "gratitude",
+      "rigveda"
+    ],
+    "bundled": false,
+    "version": 1
   }
 ]
