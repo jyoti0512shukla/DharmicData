@@ -1,0 +1,50 @@
+{
+  "id": "panchatantra-brahmins-dream",
+  "title": "The Brahmin's Dream",
+  "titleHi": "ब्राह्मण का सपना",
+  "category": "panchatantra",
+  "ageGroup": "3-6",
+  "readTimeMinutes": 3,
+  "moral": "Do not build castles in the air. Work hard for what you want instead of just dreaming about it.",
+  "moralHi": "हवाई किले मत बनाओ। सपने देखने की बजाय मेहनत करो।",
+  "coverImage": "brahmins-dream",
+  "tags": [
+    "hard work",
+    "daydreaming",
+    "wisdom",
+    "humor"
+  ],
+  "sections": [
+    {
+      "heading": null,
+      "text": "In a small village, there lived a poor brahmin named Svabhavakripana. He did not have much, but one day he received a big pot full of flour as a gift. He was so happy! He hung the pot on a nail above his bed and lay down, staring at it with a big smile.",
+      "image": "brahmins-dream-01"
+    },
+    {
+      "heading": "The Daydream Begins",
+      "text": "As he looked at the pot of flour, he began to dream. 'I will sell this flour and get some money,' he thought. 'With that money, I will buy a goat. The goat will give milk, and I will sell the milk. Soon I will have enough money to buy a cow!'",
+      "image": "brahmins-dream-02"
+    },
+    {
+      "heading": "Bigger and Bigger Dreams",
+      "text": "His dreams grew bigger and bigger. 'With the cow's milk, I will make butter and ghee. I will sell them and become rich! I will build a big, beautiful house. Then I will get married to a lovely bride. Everyone in the village will respect me!' The brahmin smiled wider and wider as he imagined his wonderful life.",
+      "image": "brahmins-dream-03"
+    },
+    {
+      "heading": "The Grandest Dream",
+      "text": "He kept dreaming. 'My wife and I will have a little son. He will be smart and playful. When he is naughty and runs around the house, I will pick up a stick and say — Stop right there!' As he imagined waving the stick, the brahmin kicked his leg in the air.",
+      "image": "brahmins-dream-04"
+    },
+    {
+      "heading": "Everything Is Lost",
+      "text": "His foot hit the pot of flour hanging above him! The pot broke into pieces, and all the flour came crashing down on his face and all over the bed. The flour covered everything in a white cloud. The brahmin sat up, coughing and sputtering. His flour was gone. His goat, cow, house, bride, and son — all gone in an instant! All his grand dreams had come from that one pot, and now it was broken.",
+      "image": "brahmins-dream-05"
+    },
+    {
+      "heading": "The Lesson",
+      "text": "The brahmin wiped the flour from his eyes and sighed. He had been so busy dreaming about the future that he forgot to take care of what he had right now. From that day, he stopped building castles in the air. Instead, he worked hard with his own two hands. Always remember — dreams are nice, but hard work is what makes them come true.",
+      "image": "brahmins-dream-06"
+    }
+  ],
+  "version": 1
+}

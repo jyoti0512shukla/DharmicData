@@ -1,0 +1,45 @@
+{
+  "id": "panchatantra-musical-donkey",
+  "title": "The Musical Donkey",
+  "titleHi": "संगीतमय गधा",
+  "category": "panchatantra",
+  "ageGroup": "3-6",
+  "readTimeMinutes": 3,
+  "moral": "There is a right time and place for everything. Doing the wrong thing at the wrong time can lead to trouble.",
+  "moralHi": "हर काम का सही समय और सही जगह होती है। गलत समय पर गलत काम करने से मुसीबत आती है।",
+  "coverImage": "musical-donkey",
+  "tags": [
+    "wisdom",
+    "timing",
+    "animals",
+    "humor"
+  ],
+  "sections": [
+    {
+      "heading": null,
+      "text": "There once lived a thin donkey named Udhata. He worked for a washerman during the day, carrying heavy bundles of clothes. The washerman was poor and could not give the donkey much food. So every night, the donkey would sneak out to eat in the nearby fields.",
+      "image": "musical-donkey-01"
+    },
+    {
+      "heading": "A Friend in the Fields",
+      "text": "In the fields, the donkey met a jackal. They became friends and would eat together every night. The donkey munched on fresh cucumbers and watermelons while the jackal looked for small treats. They had a wonderful time under the starry sky. Night after night, they would feast happily together.",
+      "image": "musical-donkey-02"
+    },
+    {
+      "heading": "The Donkey Wants to Sing",
+      "text": "One beautiful night, the moon was big and round. The donkey felt so happy that he said, 'What a lovely night! I want to sing a song!' The jackal quickly said, 'No, no, my friend! Please don't sing here. If the farmer hears you, he will come and beat us both!'",
+      "image": "musical-donkey-03"
+    },
+    {
+      "heading": "The Song That Went Wrong",
+      "text": "But the donkey did not listen. 'You just don't understand good music!' he said proudly. He lifted his head high and began to bray loudly. 'Hee-haw! Hee-haw! Hee-haw!' His voice was so loud that it echoed across the fields. The jackal shook his head sadly and quickly ran away to hide.",
+      "image": "musical-donkey-04"
+    },
+    {
+      "heading": "The Farmer Wakes Up",
+      "text": "The farmer heard the terrible braying and woke up at once. He grabbed a big stick and ran into the field. He saw the donkey eating his precious vegetables and became very angry. The farmer chased the donkey and gave him a good beating. The poor donkey ran away with a sore back, wishing he had listened to his wise friend. If only he had kept quiet, he could have enjoyed a belly full of tasty food.",
+      "image": "musical-donkey-05"
+    }
+  ],
+  "version": 1
+}

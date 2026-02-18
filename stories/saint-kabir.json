@@ -1,0 +1,45 @@
+{
+  "id": "saint-kabir",
+  "title": "Kabir the Weaver Poet",
+  "titleHi": "कबीर दास",
+  "category": "saint",
+  "ageGroup": "7-12",
+  "readTimeMinutes": 5,
+  "moral": "God is one, and love is the only true religion. True wisdom means seeing beyond differences and treating every person as equal.",
+  "moralHi": "ईश्वर एक है और प्रेम ही सच्चा धर्म है। सच्ची बुद्धि का अर्थ है भेदभाव से ऊपर उठकर हर इंसान को समान समझना।",
+  "coverImage": "kabir-weaver-poet",
+  "tags": [
+    "Kabir",
+    "unity",
+    "poetry",
+    "doha",
+    "wisdom"
+  ],
+  "sections": [
+    {
+      "heading": null,
+      "text": "Nearly six hundred years ago, in the holy city of Varanasi, a baby was found lying on a lotus leaf near a lake. A poor Muslim weaver couple named Neeru and Neema found the child and took him home. They named him Kabir. He grew up in their humble house, learning to weave cloth on a simple wooden loom."
+    },
+    {
+      "heading": "A Seeker of Truth",
+      "text": "Even as a young boy, Kabir asked big questions. 'If God made everyone, why do people fight over religion?' he wondered. He saw Hindus going to temples and Muslims going to mosques, but both groups claimed that only their way was right. Kabir could not accept this. He wanted to learn from everyone. He longed to become a disciple of the great Hindu guru Ramananda, but Ramananda did not accept Muslim students."
+    },
+    {
+      "heading": "The Steps Before Dawn",
+      "text": "Kabir came up with a clever plan. He knew that Ramananda went to bathe at the river ghats before sunrise every morning. One night, Kabir lay down on the steps of the ghat in the darkness. When the elderly Ramananda came walking down the steps, he accidentally stepped on Kabir. Startled, the guru cried out, 'Ram! Ram!' Kabir sprang up and touched the guru's feet. 'You have given me the name of Ram as my mantra,' he said. 'I am your disciple now.' Ramananda, moved by the boy's devotion and cleverness, accepted him."
+    },
+    {
+      "heading": "The Weaver Who Sang",
+      "text": "Kabir continued to weave cloth for a living, but as his hands worked the loom, his mouth sang verses of wisdom. He composed short, powerful poems called dohas that were easy to remember. He challenged both Hindu priests and Muslim clerics who cared more about rituals than about kindness. 'The God in the temple is the same as the God in the mosque,' Kabir sang. 'Do not look for Him in holy books — look for Him in your own heart.'"
+    },
+    {
+      "heading": "Facing Anger with Love",
+      "text": "Both Hindu and Muslim religious leaders were angry with Kabir. They complained to the king that Kabir was disrespecting religion. The king tried to punish Kabir, but every attempt failed. Legend says they tried to drown him, but the river would not take him. They tried to burn him, but the fire would not touch him. Kabir faced every trial with a calm smile and a verse on his lips. His courage and peace won the hearts of thousands of ordinary people."
+    },
+    {
+      "heading": "Words That Still Shine",
+      "text": "When Kabir passed away, both Hindus and Muslims claimed his body — Hindus wanted to cremate him, and Muslims wanted to bury him. The legend says that when they lifted the cloth covering his body, they found only flowers underneath. They divided the flowers equally. Even in death, Kabir united the two communities. His dohas are still recited today. One of the most famous says: 'Pothi padh padh jag mua, pandit bhaya na koi; dhai aakhar prem ka, padhe so pandit hoi' — Reading books, the world died, none became wise; whoever reads the two-and-a-half letters of love, becomes truly wise."
+    }
+  ],
+  "version": 1
+}

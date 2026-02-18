@@ -1,0 +1,50 @@
+{
+  "id": "panchatantra-crow-snake",
+  "title": "The Crow and the Snake",
+  "titleHi": "कौआ और साँप",
+  "category": "panchatantra",
+  "ageGroup": "3-6",
+  "readTimeMinutes": 3,
+  "moral": "Brain is mightier than strength. A clever idea can solve problems that fighting cannot.",
+  "moralHi": "बुद्धि बल से बड़ी होती है। एक अच्छी सोच वो समस्या सुलझा सकती है जो ताकत से नहीं सुलझती।",
+  "coverImage": "crow-snake",
+  "tags": [
+    "cleverness",
+    "strategy",
+    "animals",
+    "courage"
+  ],
+  "sections": [
+    {
+      "heading": null,
+      "text": "In a tall, old tree near a village, a pair of crows had built a cozy nest. They lived happily and loved their little home. But in a hollow at the bottom of the same tree, a big black cobra had made his den.",
+      "image": "crow-snake-01"
+    },
+    {
+      "heading": "A Cruel Snake",
+      "text": "Every time the crows laid eggs in their nest, something terrible happened. When the crows flew away to find food, the snake would slither up the tree and eat all their eggs. The poor crows would come home to an empty nest and cry. This happened again and again, and the crows were heartbroken.",
+      "image": "crow-snake-02"
+    },
+    {
+      "heading": "Asking for Help",
+      "text": "The father crow flew to his wise old friend, a jackal who lived nearby. 'Please help us,' the crow begged. 'The snake is too strong for us to fight. Every time we have eggs, he eats them all. What can we do?' The jackal thought for a while and then smiled. 'You cannot fight the snake, but you can use your brain. I have a plan!'",
+      "image": "crow-snake-03"
+    },
+    {
+      "heading": "The Clever Plan",
+      "text": "The jackal whispered his plan to the crow. 'Go to the royal pond where the queen and her maids bathe. They leave their gold necklaces on the bank. Pick up a necklace and fly slowly so the king's guards can see you. Then drop the necklace into the snake's hollow.' The crow listened carefully and nodded.",
+      "image": "crow-snake-04"
+    },
+    {
+      "heading": "The Plan Works",
+      "text": "The next morning, the crow flew to the royal pond. He picked up a shiny gold necklace in his beak and flew slowly over the village. The king's guards saw him and chased after him, shouting, 'Stop! Thief!' The crow flew to his tree and dropped the necklace right into the snake's hollow at the bottom. The guards reached the tree and looked inside the hollow to get the necklace.",
+      "image": "crow-snake-05"
+    },
+    {
+      "heading": "Safe at Last",
+      "text": "When the guards peered into the hollow, they found the big cobra inside! They quickly killed the snake with their sticks and took back the queen's necklace. The crows watched from the top of the tree, filled with joy. They were finally safe! Their eggs would never be eaten again. The clever crow had used his brain to defeat an enemy much stronger than himself.",
+      "image": "crow-snake-06"
+    }
+  ],
+  "version": 1
+}

@@ -1,0 +1,45 @@
+{
+  "id": "panchatantra-tortoise-geese",
+  "title": "The Tortoise and the Geese",
+  "titleHi": "कछुआ और हंस",
+  "category": "panchatantra",
+  "ageGroup": "3-6",
+  "readTimeMinutes": 3,
+  "moral": "Think before you speak. Keeping quiet at the right time can save you from trouble.",
+  "moralHi": "बोलने से पहले सोचो। सही समय पर चुप रहना आपको मुसीबत से बचा सकता है।",
+  "coverImage": "tortoise-geese",
+  "tags": [
+    "silence",
+    "wisdom",
+    "animals",
+    "friendship"
+  ],
+  "sections": [
+    {
+      "heading": null,
+      "text": "In a beautiful lake surrounded by green hills, there lived a tortoise named Kambugriva. He had two best friends — a pair of geese named Sankata and Vikata. Every day, the three friends would talk, play, and enjoy the cool water of the lake.",
+      "image": "tortoise-geese-01"
+    },
+    {
+      "heading": "The Lake Dries Up",
+      "text": "One summer, the rains did not come. The lake began to dry up, little by little. The fish became worried, the frogs hopped away, and the water got lower each day. The tortoise was very sad. 'If the lake dries up completely, I will die,' he said to his friends. 'I cannot walk far on my short legs.'",
+      "image": "tortoise-geese-02"
+    },
+    {
+      "heading": "A Clever Plan",
+      "text": "The geese thought hard and came up with a plan. 'We will carry you to a new lake!' said Sankata. 'We will hold a stick between our beaks. You bite the middle of the stick tightly, and we will fly you to the new lake.' 'But remember,' warned Vikata, 'you must NOT open your mouth while we fly. If you talk, you will fall!'",
+      "image": "tortoise-geese-03"
+    },
+    {
+      "heading": "Up in the Sky",
+      "text": "The tortoise agreed. He bit the middle of the stick tightly. The two geese picked up the ends of the stick and flew into the sky. Up, up, up they went! The tortoise could see the whole world below — fields, villages, and rivers. It was wonderful!",
+      "image": "tortoise-geese-04"
+    },
+    {
+      "heading": "The Fatal Mistake",
+      "text": "As they flew over a village, people looked up and pointed. 'Look! Two birds carrying a tortoise! How funny!' they laughed. The tortoise heard them and became angry. He wanted to shout, 'What's so funny about that?' But the moment he opened his mouth to speak — he let go of the stick! The poor tortoise fell down, down, down to the ground. If only he had kept his mouth shut, he would have reached the beautiful new lake safely.",
+      "image": "tortoise-geese-05"
+    }
+  ],
+  "version": 1
+}

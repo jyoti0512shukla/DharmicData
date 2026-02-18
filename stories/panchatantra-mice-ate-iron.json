@@ -1,0 +1,50 @@
+{
+  "id": "panchatantra-mice-ate-iron",
+  "title": "The Mice That Ate Iron",
+  "titleHi": "लोहा खाने वाले चूहे",
+  "category": "panchatantra",
+  "ageGroup": "3-6",
+  "readTimeMinutes": 3,
+  "moral": "If you cheat someone, do not be surprised when they cheat you back. Dishonesty always comes back to you.",
+  "moralHi": "अगर तुम किसी को धोखा दोगे, तो बदले में धोखा ही मिलेगा। बेईमानी का फल हमेशा बुरा होता है।",
+  "coverImage": "mice-ate-iron",
+  "tags": [
+    "honesty",
+    "cleverness",
+    "justice",
+    "humor"
+  ],
+  "sections": [
+    {
+      "heading": null,
+      "text": "Long ago, a merchant named Jveernadhana lived in a town. He had a heavy iron weighing scale that his father had given him. One day, he needed to go on a long journey to another town. He asked his neighbor, Anya, to keep the iron scale safe until he came back.",
+      "image": "mice-ate-iron-01"
+    },
+    {
+      "heading": "The Neighbor's Trick",
+      "text": "Many months later, the merchant returned from his journey. He went to his neighbor and asked, 'Please give back my iron scale.' The neighbor shook his head sadly and said, 'Oh, I am so sorry, my friend! The mice in my house ate your entire iron scale. There is nothing left!' The merchant knew this was a lie. Mice cannot eat iron! But he stayed calm and had a clever plan.",
+      "image": "mice-ate-iron-02"
+    },
+    {
+      "heading": "A Favor to Ask",
+      "text": "The merchant smiled and said, 'Oh, that is alright. Mice do eat iron sometimes. These things happen! By the way, I am going to the river to bathe. Could you send your son to come with me? He can help carry my things.' The neighbor was happy and sent his little boy along with the merchant.",
+      "image": "mice-ate-iron-03"
+    },
+    {
+      "heading": "Where Is My Son?",
+      "text": "The merchant took the boy to a friend's house nearby and asked the friend to take care of him. Then the merchant went back home alone. The neighbor came running. 'Where is my son?' he cried. The merchant said calmly, 'Oh, I am so sorry! A big hawk swooped down from the sky and carried your son away. There was nothing I could do!'",
+      "image": "mice-ate-iron-04"
+    },
+    {
+      "heading": "Before the Judge",
+      "text": "The neighbor was furious. 'A hawk cannot carry a boy! That is impossible!' he shouted. He dragged the merchant to the village judge. The judge asked the merchant to explain. The merchant smiled and said, 'Your Honor, if mice can eat a heavy iron scale, then surely a hawk can carry a small boy!' The judge understood at once and began to laugh.",
+      "image": "mice-ate-iron-05"
+    },
+    {
+      "heading": "The Lesson",
+      "text": "The judge ordered the neighbor to return the iron scale immediately. Only then would the merchant bring back the boy. The ashamed neighbor gave back the scale, and the merchant brought the boy home safe and sound. The neighbor learned that cheating others only brings trouble to yourself. If you are dishonest, someone may be dishonest with you in the very same way.",
+      "image": "mice-ate-iron-06"
+    }
+  ],
+  "version": 1
+}
