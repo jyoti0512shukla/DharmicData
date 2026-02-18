@@ -527,5 +527,24 @@
     ],
     "bundled": false,
     "version": 1
+  },
+  {
+    "id": "panchatantra-thirsty-crow",
+    "title": "The Thirsty Crow",
+    "titleHi": "प्यासा कौआ",
+    "category": "panchatantra",
+    "ageGroup": "3-6",
+    "readTimeMinutes": 2,
+    "moral": "Where there is a will, there is a way. Patience and clever thinking solve even the hardest problems.",
+    "moralHi": "जहाँ चाह, वहाँ राह। धैर्य और सूझबूझ से कठिन से कठिन समस्या भी हल हो जाती है।",
+    "coverImage": null,
+    "tags": [
+      "cleverness",
+      "patience",
+      "determination",
+      "animals"
+    ],
+    "bundled": false,
+    "version": 1
   }
 ]
