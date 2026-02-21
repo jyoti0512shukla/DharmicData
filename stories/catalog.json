@@ -148,7 +148,7 @@
       "devotion"
     ],
     "bundled": false,
-    "version": 1
+    "version": 2
   },
   {
     "id": "puranic-prahlad-holika",
@@ -168,7 +168,7 @@
       "Holi"
     ],
     "bundled": false,
-    "version": 1
+    "version": 2
   },
   {
     "id": "puranic-samudra-manthan",
@@ -188,7 +188,7 @@
       "ocean"
     ],
     "bundled": false,
-    "version": 1
+    "version": 2
   },
   {
     "id": "puranic-moon-marks",
@@ -207,7 +207,7 @@
       "kindness"
     ],
     "bundled": false,
-    "version": 1
+    "version": 2
   },
   {
     "id": "puranic-krishna-govardhan",
@@ -227,7 +227,7 @@
       "protection"
     ],
     "bundled": false,
-    "version": 1
+    "version": 2
   },
   {
     "id": "puranic-durga-mahishasura",
@@ -247,7 +247,7 @@
       "divine feminine"
     ],
     "bundled": false,
-    "version": 1
+    "version": 2
   },
   {
     "id": "puranic-dhruv-tara",
@@ -267,7 +267,7 @@
       "pole star"
     ],
     "bundled": false,
-    "version": 1
+    "version": 2
   },
   {
     "id": "puranic-hanuman-sun",
@@ -287,7 +287,7 @@
       "childhood"
     ],
     "bundled": false,
-    "version": 1
+    "version": 2
   },
   {
     "id": "epic-hanuman-mountain",
@@ -306,7 +306,7 @@
       "courage"
     ],
     "bundled": false,
-    "version": 1
+    "version": 2
   },
   {
     "id": "saint-mirabai",
@@ -326,7 +326,7 @@
       "music"
     ],
     "bundled": false,
-    "version": 1
+    "version": 2
   },
   {
     "id": "panchatantra-tortoise-geese",
@@ -366,7 +366,7 @@
       "wisdom"
     ],
     "bundled": false,
-    "version": 1
+    "version": 2
   },
   {
     "id": "epic-bridge-to-lanka",
@@ -386,7 +386,7 @@
       "faith"
     ],
     "bundled": false,
-    "version": 1
+    "version": 2
   },
   {
     "id": "epic-arjuna-fish-eye",
@@ -406,7 +406,7 @@
       "archery"
     ],
     "bundled": false,
-    "version": 1
+    "version": 2
   },
   {
     "id": "epic-krishna-butter-mischief",
@@ -426,7 +426,7 @@
       "Vrindavan"
     ],
     "bundled": false,
-    "version": 1
+    "version": 2
   },
   {
     "id": "epic-draupadi-akshaya-patra",
@@ -446,7 +446,7 @@
       "faith"
     ],
     "bundled": false,
-    "version": 1
+    "version": 2
   },
   {
     "id": "saint-tulsidas",
@@ -466,7 +466,7 @@
       "poetry"
     ],
     "bundled": false,
-    "version": 1
+    "version": 2
   },
   {
     "id": "saint-kabir",
@@ -486,7 +486,7 @@
       "wisdom"
     ],
     "bundled": false,
-    "version": 1
+    "version": 2
   },
   {
     "id": "saint-vivekananda-chicago",
@@ -506,7 +506,7 @@
       "pride"
     ],
     "bundled": false,
-    "version": 1
+    "version": 2
   },
   {
     "id": "saint-shankaracharya-chandala",
@@ -526,7 +526,7 @@
       "Varanasi"
     ],
     "bundled": false,
-    "version": 1
+    "version": 2
   },
   {
     "id": "panchatantra-thirsty-crow",
@@ -545,7 +545,7 @@
       "animals"
     ],
     "bundled": false,
-    "version": 1
+    "version": 2
   },
   {
     "id": "vedic-agni-hymn",
@@ -565,6 +565,6 @@
       "rigveda"
     ],
     "bundled": false,
-    "version": 1
+    "version": 2
   }
 ]
