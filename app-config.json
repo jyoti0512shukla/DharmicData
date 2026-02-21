@@ -30,5 +30,8 @@
     "stotra"
   ],
   "lyrics_remote_base_url": "https://raw.githubusercontent.com/jyoti0512shukla/DharmicData/main/lyrics/",
+  "stories_remote_base_url": "https://raw.githubusercontent.com/jyoti0512shukla/DharmicData/main/stories/",
+  "darshan_remote_url": "https://raw.githubusercontent.com/jyoti0512shukla/DharmicData/main/live-darshan-catalog.json",
+  "calendar_remote_url": "https://raw.githubusercontent.com/jyoti0512shukla/DharmicData/main/hindu-calendar.json",
   "feedback_email": "jyoti0512shukla@gmail.com"
 }

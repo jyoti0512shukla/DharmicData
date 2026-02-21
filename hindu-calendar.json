@@ -1,0 +1,514 @@
+{
+  "version": 1,
+  "description": "Hindu Calendar - Festivals, Vrats & Ekadashi (2025-2030)",
+  "sources": ["TithiToday", "calendar-bharat", "prokerala", "drikpanchang"],
+  "templates": {
+    "saphala_ekadashi": {
+      "significance": "Fulfillment of desires and wishes. A day for spiritual cleansing.",
+      "practices": ["Fast", "Pray to Lord Vishnu", "Chant mantras"],
+      "avoid": ["Grains", "Rice", "Heavy meals"]
+    },
+    "putrada_ekadashi": {
+      "significance": "Blessing of children and family prosperity.",
+      "practices": ["Fast", "Family prayers", "Charity"],
+      "avoid": ["Grains", "Beans", "Onion-garlic"]
+    },
+    "shattila_ekadashi": {
+      "significance": "Use of sesame seeds for charity and blessings.",
+      "practices": ["Donate sesame", "Charity", "Fast"],
+      "avoid": ["Selfishness", "Grains"]
+    },
+    "jaya_ekadashi": {
+      "significance": "Victory in all endeavors. Brings success and removes sins.",
+      "practices": ["Fast strictly", "Read Bhagavad Gita", "Meditate"],
+      "avoid": ["Rice", "Grains", "Distractions"]
+    },
+    "vijaya_ekadashi": {
+      "significance": "Conquering obstacles and enemies. Victory in all pursuits.",
+      "practices": ["Fast", "Pray for strength", "Help others"],
+      "avoid": ["Grains", "Negative energy"]
+    },
+    "amalaki_ekadashi": {
+      "significance": "Worship of Amla tree. Health and longevity.",
+      "practices": ["Worship Amla tree", "Eat Amla", "Plant trees"],
+      "avoid": ["Harming nature", "Grains"]
+    },
+    "papmochani_ekadashi": {
+      "significance": "Removal of sins and past karma. Mental clarity and forgiveness.",
+      "practices": ["Fast", "Forgive yourself and others", "Meditate"],
+      "avoid": ["Rice", "Grains", "Holding grudges"]
+    },
+    "kamada_ekadashi": {
+      "significance": "Fulfillment of desires and wishes. Removes obstacles.",
+      "practices": ["Fast", "Pray for goals", "Stay positive"],
+      "avoid": ["Grains", "Selfish wishes"]
+    },
+    "varuthini_ekadashi": {
+      "significance": "Protection from evil and negativity. Shield of faith.",
+      "practices": ["Fast", "Seek protection", "Charity"],
+      "avoid": ["Fear", "Grains"]
+    },
+    "mohini_ekadashi": {
+      "significance": "Liberation from illusions. See truth clearly.",
+      "practices": ["Fast", "Meditate", "Seek truth"],
+      "avoid": ["Illusions", "Grains", "Delusions"]
+    },
+    "apara_ekadashi": {
+      "significance": "Removal of sins and purification.",
+      "practices": ["Fast", "Charity", "Prayers"],
+      "avoid": ["Grains", "Rice"]
+    },
+    "nirjala_ekadashi": {
+      "significance": "Most powerful Ekadashi! Waterless fast for ultimate spiritual merit. Equal to fasting on all 24 Ekadashis.",
+      "practices": ["Complete waterless fast", "Pray intensely", "Stay strong"],
+      "avoid": ["Any food or water", "Weakness"]
+    },
+    "yogini_ekadashi": {
+      "significance": "Spiritual union and yoga practice.",
+      "practices": ["Yoga", "Meditation", "Fast"],
+      "avoid": ["Grains", "Distractions"]
+    },
+    "devshayani_ekadashi": {
+      "significance": "Lord Vishnu goes to sleep for 4 months. Beginning of Chaturmas.",
+      "practices": ["Fast", "Spiritual practices", "Self-discipline"],
+      "avoid": ["Weddings", "Grains"]
+    },
+    "kamika_ekadashi": {
+      "significance": "Fulfillment of wishes and desires. Worship Lord Vishnu with Tulsi leaves.",
+      "practices": ["Fast", "Worship Vishnu", "Positive thinking"],
+      "avoid": ["Grains", "Negativity"]
+    },
+    "shravana_putrada_ekadashi": {
+      "significance": "Blessing of children and progeny.",
+      "practices": ["Fast", "Family prayers", "Donate"],
+      "avoid": ["Grains", "Selfish thoughts"]
+    },
+    "aja_ekadashi": {
+      "significance": "Protection for ancestors and family lineage.",
+      "practices": ["Fast", "Ancestor prayers", "Charity"],
+      "avoid": ["Grains", "Forgetting ancestors"]
+    },
+    "parivartini_ekadashi": {
+      "significance": "Lord Vishnu turns to the other side during cosmic sleep.",
+      "practices": ["Fast", "Meditation", "Discipline"],
+      "avoid": ["Grains", "Laziness"]
+    },
+    "indira_ekadashi": {
+      "significance": "Blessing ancestors and departed souls.",
+      "practices": ["Fast", "Ancestor prayers", "Charity"],
+      "avoid": ["Grains", "Ignoring family"]
+    },
+    "papankusha_ekadashi": {
+      "significance": "Control of senses and mind. Inner discipline.",
+      "practices": ["Fast", "Meditation", "Self-control"],
+      "avoid": ["Grains", "Sensory overload"]
+    },
+    "rama_ekadashi": {
+      "significance": "Devotion to Lord Rama and his ideals.",
+      "practices": ["Fast", "Read Ramayana", "Follow dharma"],
+      "avoid": ["Grains", "Adharma"]
+    },
+    "devutthana_ekadashi": {
+      "significance": "Lord Vishnu wakes from cosmic sleep! End of Chaturmas. Wedding season resumes.",
+      "practices": ["Fast", "Tulsi vivah", "Celebrate"],
+      "avoid": ["Grains", "Laziness"]
+    },
+    "utpanna_ekadashi": {
+      "significance": "Birth of Goddess Ekadashi from Lord Vishnu. Origin of Ekadashi.",
+      "practices": ["Fast", "Listen to Ekadashi story", "Devotion"],
+      "avoid": ["Grains", "Ignorance"]
+    },
+    "mokshada_ekadashi": {
+      "significance": "Liberation and moksha. Fast for ultimate freedom from cycle of birth and death.",
+      "practices": ["Strict fast", "Gita reading", "Spiritual focus"],
+      "avoid": ["Grains", "Worldly attachments"]
+    },
+    "padmini_ekadashi": {
+      "significance": "Special Adhik Maas Ekadashi. Extra spiritual merit for devotion.",
+      "practices": ["Fast", "Prayers", "Charity"],
+      "avoid": ["Grains", "Negativity"]
+    },
+    "parama_ekadashi": {
+      "significance": "Sacred Adhik Maas observance for cleansing karma.",
+      "practices": ["Fast", "Meditation", "Donate"],
+      "avoid": ["Grains", "Distractions"]
+    },
+    "makar_sankranti": {
+      "significance": "Sun enters Capricorn. Harvest festival marking end of winter.",
+      "practices": ["Fly kites", "Eat til-gur sweets", "Take holy bath"],
+      "avoid": ["Negative thoughts", "Conflicts"]
+    },
+    "vasant_panchami": {
+      "significance": "Worship Goddess Saraswati. Spring arrives, celebrate knowledge and learning.",
+      "practices": ["Wear yellow", "Worship books", "Learn music"],
+      "avoid": ["Laziness", "Disrespecting teachers"]
+    },
+    "maha_shivaratri": {
+      "significance": "The great night of Lord Shiva. Marriage of Shiva and Parvati.",
+      "practices": ["Night vigil", "Offer milk to Shiva Lingam", "Chant Om Namah Shivaya"],
+      "avoid": ["Sleep during night", "Heavy food"]
+    },
+    "holi": {
+      "significance": "Festival of colors! Victory of devotion over evil. Spring celebration.",
+      "practices": ["Play with colors", "Forgive others", "Enjoy with friends"],
+      "avoid": ["Harmful colors", "Fighting"]
+    },
+    "gudi_padwa": {
+      "significance": "Hindu New Year! Celebrate new beginnings and prosperity.",
+      "practices": ["New clothes", "Eat neem-jaggery", "Make rangoli"],
+      "avoid": ["Negativity", "Old grudges"]
+    },
+    "ram_navami": {
+      "significance": "Birth of Lord Rama. Symbol of dharma and righteousness.",
+      "practices": ["Read Ramayana", "Sing bhajans", "Fast till noon"],
+      "avoid": ["Non-veg", "Alcohol"]
+    },
+    "hanuman_jayanti": {
+      "significance": "Birth of Lord Hanuman. Strength, devotion, and courage.",
+      "practices": ["Recite Hanuman Chalisa", "Visit temple", "Help others"],
+      "avoid": ["Ego", "Laziness"]
+    },
+    "akshaya_tritiya": {
+      "significance": "Most auspicious day! Everything started today brings eternal prosperity.",
+      "practices": ["Buy gold", "Start new ventures", "Donate"],
+      "avoid": ["Laziness", "Negativity"]
+    },
+    "nag_panchami": {
+      "significance": "Worship serpent deities. Protection and transformation.",
+      "practices": ["Offer milk to snakes", "Worship Nag devta", "Respect nature"],
+      "avoid": ["Killing snakes", "Ploughing fields"]
+    },
+    "guru_purnima": {
+      "significance": "Honor all teachers and gurus. Express gratitude for knowledge.",
+      "practices": ["Thank your teachers", "Learn something new", "Guru puja"],
+      "avoid": ["Disrespect to elders", "Ego"]
+    },
+    "raksha_bandhan": {
+      "significance": "Celebrating the sacred bond between siblings.",
+      "practices": ["Tie rakhi", "Exchange gifts", "Family time"],
+      "avoid": ["Fighting with siblings", "Negativity"]
+    },
+    "janmashtami": {
+      "significance": "Birth of Lord Krishna at midnight. Celebrate divine playfulness!",
+      "practices": ["Fast till midnight", "Dahi Handi", "Sing bhajans", "Dance"],
+      "avoid": ["Sleep before midnight", "Non-veg"]
+    },
+    "ganesh_chaturthi": {
+      "significance": "Birth of Lord Ganesha! Remover of obstacles and giver of wisdom.",
+      "practices": ["Install Ganesha idol", "Offer modak", "Prayers"],
+      "avoid": ["Looking at moon", "Negativity"]
+    },
+    "navratri": {
+      "significance": "9 nights of Goddess Durga worship begin! Victory over evil.",
+      "practices": ["Garba dance", "Fast", "Worship Goddess", "Wear colorful clothes"],
+      "avoid": ["Non-veg", "Alcohol", "Negativity"]
+    },
+    "maha_navami": {
+      "significance": "9th day of Navratri. Worship Goddess Siddhidatri.",
+      "practices": ["Kanya puja", "Fast", "Final prayers"],
+      "avoid": ["Breaking fast early", "Disrespect"]
+    },
+    "dussehra": {
+      "significance": "Victory of Lord Rama over Ravana. Good defeats evil!",
+      "practices": ["Watch Ramlila", "Burn Ravana effigy", "Start new learning"],
+      "avoid": ["Evil thoughts", "Anger"]
+    },
+    "karwa_chauth": {
+      "significance": "Married women fast for husbands' long life and well-being.",
+      "practices": ["Fast from sunrise to moonrise", "Dress up", "Moon puja"],
+      "avoid": ["Eating before moonrise", "Negativity"]
+    },
+    "dhanteras": {
+      "significance": "Worship Goddess Lakshmi and Lord Dhanvantari. Wealth and health.",
+      "practices": ["Buy gold/silver", "Lakshmi puja", "Clean home"],
+      "avoid": ["Empty handed", "Laziness"]
+    },
+    "diwali": {
+      "significance": "Lord Rama returns to Ayodhya! Victory of light over darkness!",
+      "practices": ["Light diyas", "Lakshmi puja", "Sweets", "New clothes"],
+      "avoid": ["Darkness in heart", "Greed"]
+    },
+    "govardhan_puja": {
+      "significance": "Lord Krishna lifted Mount Govardhan. Celebrate nature's bounty.",
+      "practices": ["Annakut offering", "Cook 56 dishes", "Family feast"],
+      "avoid": ["Food waste", "Disrespect to nature"]
+    },
+    "bhai_dooj": {
+      "significance": "Celebrating the sacred sibling bond. Sisters pray for brothers.",
+      "practices": ["Tilak ceremony", "Sweets", "Gifts", "Family time"],
+      "avoid": ["Fighting with siblings"]
+    },
+    "chhath_puja": {
+      "significance": "Worship of Sun God. Devotion, purity, and gratitude to nature.",
+      "practices": ["Offer arghya to Sun", "Fast 36 hours", "Holy bath"],
+      "avoid": ["Impure thoughts", "Footwear during puja"]
+    },
+    "kartik_purnima": {
+      "significance": "Most sacred Purnima. Light diyas and take holy bath.",
+      "practices": ["Light diyas", "Holy bath", "Charity"],
+      "avoid": ["Darkness", "Sins"]
+    }
+  },
+  "events": [
+    {"date": "2025-01-10", "name": "Saphala Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "saphala_ekadashi"},
+    {"date": "2025-01-14", "name": "Makar Sankranti", "category": "festival", "tithi": "Sankranti", "paksha": "", "template": "makar_sankranti"},
+    {"date": "2025-01-25", "name": "Putrada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "putrada_ekadashi"},
+    {"date": "2025-02-02", "name": "Vasant Panchami", "category": "festival", "tithi": "Panchami", "paksha": "Shukla Paksha", "template": "vasant_panchami"},
+    {"date": "2025-02-08", "name": "Shattila Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "shattila_ekadashi"},
+    {"date": "2025-02-23", "name": "Jaya Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "jaya_ekadashi"},
+    {"date": "2025-02-26", "name": "Maha Shivaratri", "category": "vrat", "tithi": "Chaturdashi", "paksha": "Krishna Paksha", "template": "maha_shivaratri", "pujaId": "shiva-puja"},
+    {"date": "2025-03-10", "name": "Vijaya Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "vijaya_ekadashi"},
+    {"date": "2025-03-14", "name": "Holi", "category": "festival", "tithi": "Purnima", "paksha": "Shukla Paksha", "template": "holi"},
+    {"date": "2025-03-25", "name": "Amalaki Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "amalaki_ekadashi"},
+    {"date": "2025-03-30", "name": "Gudi Padwa", "category": "festival", "tithi": "Pratipada", "paksha": "Shukla Paksha", "template": "gudi_padwa"},
+    {"date": "2025-04-06", "name": "Ram Navami", "category": "festival", "tithi": "Navami", "paksha": "Shukla Paksha", "template": "ram_navami", "pujaId": "sriramanavami-puja"},
+    {"date": "2025-04-08", "name": "Papmochani Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "papmochani_ekadashi"},
+    {"date": "2025-04-12", "name": "Hanuman Jayanti", "category": "festival", "tithi": "Purnima", "paksha": "Shukla Paksha", "template": "hanuman_jayanti"},
+    {"date": "2025-04-23", "name": "Kamada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "kamada_ekadashi"},
+    {"date": "2025-05-08", "name": "Varuthini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "varuthini_ekadashi"},
+    {"date": "2025-05-22", "name": "Mohini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "mohini_ekadashi"},
+    {"date": "2025-05-30", "name": "Akshaya Tritiya", "category": "auspicious", "tithi": "Tritiya", "paksha": "Shukla Paksha", "template": "akshaya_tritiya"},
+    {"date": "2025-06-06", "name": "Apara Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "apara_ekadashi"},
+    {"date": "2025-06-21", "name": "Nirjala Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "nirjala_ekadashi"},
+    {"date": "2025-07-06", "name": "Yogini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "yogini_ekadashi"},
+    {"date": "2025-07-10", "name": "Guru Purnima", "category": "purnima", "tithi": "Purnima", "paksha": "Shukla Paksha", "template": "guru_purnima"},
+    {"date": "2025-07-20", "name": "Devshayani Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "devshayani_ekadashi"},
+    {"date": "2025-07-29", "name": "Nag Panchami", "category": "festival", "tithi": "Panchami", "paksha": "Shukla Paksha", "template": "nag_panchami"},
+    {"date": "2025-08-04", "name": "Kamika Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "kamika_ekadashi"},
+    {"date": "2025-08-09", "name": "Raksha Bandhan", "category": "festival", "tithi": "Purnima", "paksha": "Shukla Paksha", "template": "raksha_bandhan"},
+    {"date": "2025-08-16", "name": "Krishna Janmashtami", "category": "festival", "tithi": "Ashtami", "paksha": "Krishna Paksha", "template": "janmashtami"},
+    {"date": "2025-08-19", "name": "Shravana Putrada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "shravana_putrada_ekadashi"},
+    {"date": "2025-08-27", "name": "Ganesh Chaturthi", "category": "festival", "tithi": "Chaturthi", "paksha": "Shukla Paksha", "template": "ganesh_chaturthi", "pujaId": "ganesh-puja"},
+    {"date": "2025-09-03", "name": "Aja Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "aja_ekadashi"},
+    {"date": "2025-09-17", "name": "Parivartini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "parivartini_ekadashi"},
+    {"date": "2025-09-22", "name": "Navratri Begins", "category": "festival", "tithi": "Pratipada", "paksha": "Shukla Paksha", "template": "navratri"},
+    {"date": "2025-10-01", "name": "Maha Navami", "category": "festival", "tithi": "Navami", "paksha": "Shukla Paksha", "template": "maha_navami"},
+    {"date": "2025-10-02", "name": "Dussehra", "category": "festival", "tithi": "Dashami", "paksha": "Shukla Paksha", "template": "dussehra"},
+    {"date": "2025-10-03", "name": "Indira Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "indira_ekadashi"},
+    {"date": "2025-10-17", "name": "Papankusha Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "papankusha_ekadashi"},
+    {"date": "2025-10-18", "name": "Dhanteras", "category": "festival", "tithi": "Trayodashi", "paksha": "Krishna Paksha", "template": "dhanteras"},
+    {"date": "2025-10-21", "name": "Diwali", "category": "festival", "tithi": "Amavasya", "paksha": "Krishna Paksha", "template": "diwali"},
+    {"date": "2025-10-23", "name": "Bhai Dooj", "category": "festival", "tithi": "Dwitiya", "paksha": "Shukla Paksha", "template": "bhai_dooj"},
+    {"date": "2025-11-01", "name": "Rama Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "rama_ekadashi"},
+    {"date": "2025-11-05", "name": "Kartik Purnima", "category": "purnima", "tithi": "Purnima", "paksha": "Shukla Paksha", "template": "kartik_purnima"},
+    {"date": "2025-11-16", "name": "Devutthana Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "devutthana_ekadashi"},
+    {"date": "2025-11-30", "name": "Utpanna Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "utpanna_ekadashi"},
+    {"date": "2025-12-16", "name": "Mokshada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "mokshada_ekadashi"},
+    {"date": "2026-01-14", "name": "Makar Sankranti", "category": "festival", "tithi": "Sankranti", "paksha": "", "template": "makar_sankranti"},
+    {"date": "2026-01-14", "name": "Shattila Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "shattila_ekadashi"},
+    {"date": "2026-01-23", "name": "Vasant Panchami", "category": "festival", "tithi": "Panchami", "paksha": "Shukla Paksha", "template": "vasant_panchami"},
+    {"date": "2026-01-29", "name": "Jaya Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "jaya_ekadashi"},
+    {"date": "2026-02-13", "name": "Vijaya Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "vijaya_ekadashi"},
+    {"date": "2026-02-15", "name": "Maha Shivaratri", "category": "vrat", "tithi": "Chaturdashi", "paksha": "Krishna Paksha", "template": "maha_shivaratri", "pujaId": "shiva-puja"},
+    {"date": "2026-02-27", "name": "Amalaki Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "amalaki_ekadashi"},
+    {"date": "2026-03-04", "name": "Holi", "category": "festival", "tithi": "Purnima", "paksha": "Shukla Paksha", "template": "holi"},
+    {"date": "2026-03-14", "name": "Papmochani Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "papmochani_ekadashi"},
+    {"date": "2026-03-19", "name": "Gudi Padwa", "category": "festival", "tithi": "Pratipada", "paksha": "Shukla Paksha", "template": "gudi_padwa"},
+    {"date": "2026-03-26", "name": "Ram Navami", "category": "festival", "tithi": "Navami", "paksha": "Shukla Paksha", "template": "ram_navami", "pujaId": "sriramanavami-puja"},
+    {"date": "2026-03-29", "name": "Kamada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "kamada_ekadashi"},
+    {"date": "2026-04-13", "name": "Varuthini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "varuthini_ekadashi"},
+    {"date": "2026-04-27", "name": "Mohini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "mohini_ekadashi"},
+    {"date": "2026-05-12", "name": "Apara Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "apara_ekadashi"},
+    {"date": "2026-05-28", "name": "Padmini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "padmini_ekadashi"},
+    {"date": "2026-06-11", "name": "Parama Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "parama_ekadashi"},
+    {"date": "2026-06-26", "name": "Nirjala Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "nirjala_ekadashi"},
+    {"date": "2026-07-10", "name": "Yogini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "yogini_ekadashi"},
+    {"date": "2026-07-25", "name": "Devshayani Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "devshayani_ekadashi"},
+    {"date": "2026-07-29", "name": "Guru Purnima", "category": "purnima", "tithi": "Purnima", "paksha": "Shukla Paksha", "template": "guru_purnima"},
+    {"date": "2026-08-08", "name": "Kamika Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "kamika_ekadashi"},
+    {"date": "2026-08-23", "name": "Shravana Putrada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "shravana_putrada_ekadashi"},
+    {"date": "2026-08-28", "name": "Raksha Bandhan", "category": "festival", "tithi": "Purnima", "paksha": "Shukla Paksha", "template": "raksha_bandhan"},
+    {"date": "2026-09-04", "name": "Krishna Janmashtami", "category": "festival", "tithi": "Ashtami", "paksha": "Krishna Paksha", "template": "janmashtami"},
+    {"date": "2026-09-07", "name": "Aja Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "aja_ekadashi"},
+    {"date": "2026-09-22", "name": "Parivartini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "parivartini_ekadashi"},
+    {"date": "2026-10-07", "name": "Indira Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "indira_ekadashi"},
+    {"date": "2026-10-11", "name": "Navratri Begins", "category": "festival", "tithi": "Pratipada", "paksha": "Shukla Paksha", "template": "navratri"},
+    {"date": "2026-10-19", "name": "Maha Navami", "category": "festival", "tithi": "Navami", "paksha": "Shukla Paksha", "template": "maha_navami"},
+    {"date": "2026-10-20", "name": "Dussehra", "category": "festival", "tithi": "Dashami", "paksha": "Shukla Paksha", "template": "dussehra"},
+    {"date": "2026-10-21", "name": "Papankusha Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "papankusha_ekadashi"},
+    {"date": "2026-10-29", "name": "Karwa Chauth", "category": "vrat", "tithi": "Chaturthi", "paksha": "Krishna Paksha", "template": "karwa_chauth"},
+    {"date": "2026-11-05", "name": "Rama Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "rama_ekadashi"},
+    {"date": "2026-11-06", "name": "Dhanteras", "category": "festival", "tithi": "Trayodashi", "paksha": "Krishna Paksha", "template": "dhanteras"},
+    {"date": "2026-11-08", "name": "Diwali", "category": "festival", "tithi": "Amavasya", "paksha": "Krishna Paksha", "template": "diwali"},
+    {"date": "2026-11-10", "name": "Govardhan Puja", "category": "festival", "tithi": "Pratipada", "paksha": "Shukla Paksha", "template": "govardhan_puja"},
+    {"date": "2026-11-11", "name": "Bhai Dooj", "category": "festival", "tithi": "Dwitiya", "paksha": "Shukla Paksha", "template": "bhai_dooj"},
+    {"date": "2026-11-15", "name": "Chhath Puja", "category": "vrat", "tithi": "Shashthi", "paksha": "Shukla Paksha", "template": "chhath_puja"},
+    {"date": "2026-11-20", "name": "Devutthana Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "devutthana_ekadashi"},
+    {"date": "2026-12-05", "name": "Utpanna Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "utpanna_ekadashi"},
+    {"date": "2026-12-20", "name": "Mokshada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "mokshada_ekadashi"},
+    {"date": "2027-01-03", "name": "Saphala Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "saphala_ekadashi"},
+    {"date": "2027-01-15", "name": "Makar Sankranti", "category": "festival", "tithi": "Sankranti", "paksha": "", "template": "makar_sankranti"},
+    {"date": "2027-01-19", "name": "Putrada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "putrada_ekadashi"},
+    {"date": "2027-02-02", "name": "Shattila Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "shattila_ekadashi"},
+    {"date": "2027-02-11", "name": "Vasant Panchami", "category": "festival", "tithi": "Panchami", "paksha": "Shukla Paksha", "template": "vasant_panchami"},
+    {"date": "2027-02-17", "name": "Jaya Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "jaya_ekadashi"},
+    {"date": "2027-03-04", "name": "Vijaya Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "vijaya_ekadashi"},
+    {"date": "2027-03-06", "name": "Maha Shivaratri", "category": "vrat", "tithi": "Chaturdashi", "paksha": "Krishna Paksha", "template": "maha_shivaratri", "pujaId": "shiva-puja"},
+    {"date": "2027-03-18", "name": "Amalaki Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "amalaki_ekadashi"},
+    {"date": "2027-03-22", "name": "Holi", "category": "festival", "tithi": "Purnima", "paksha": "Shukla Paksha", "template": "holi"},
+    {"date": "2027-04-02", "name": "Papmochani Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "papmochani_ekadashi"},
+    {"date": "2027-04-07", "name": "Gudi Padwa", "category": "festival", "tithi": "Pratipada", "paksha": "Shukla Paksha", "template": "gudi_padwa"},
+    {"date": "2027-04-15", "name": "Ram Navami", "category": "festival", "tithi": "Navami", "paksha": "Shukla Paksha", "template": "ram_navami", "pujaId": "sriramanavami-puja"},
+    {"date": "2027-04-17", "name": "Kamada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "kamada_ekadashi"},
+    {"date": "2027-05-02", "name": "Varuthini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "varuthini_ekadashi"},
+    {"date": "2027-05-16", "name": "Mohini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "mohini_ekadashi"},
+    {"date": "2027-06-01", "name": "Apara Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "apara_ekadashi"},
+    {"date": "2027-06-14", "name": "Nirjala Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "nirjala_ekadashi"},
+    {"date": "2027-06-30", "name": "Yogini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "yogini_ekadashi"},
+    {"date": "2027-07-14", "name": "Devshayani Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "devshayani_ekadashi"},
+    {"date": "2027-07-18", "name": "Guru Purnima", "category": "purnima", "tithi": "Purnima", "paksha": "Shukla Paksha", "template": "guru_purnima"},
+    {"date": "2027-07-29", "name": "Kamika Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "kamika_ekadashi"},
+    {"date": "2027-08-12", "name": "Shravana Putrada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "shravana_putrada_ekadashi"},
+    {"date": "2027-08-17", "name": "Raksha Bandhan", "category": "festival", "tithi": "Purnima", "paksha": "Shukla Paksha", "template": "raksha_bandhan"},
+    {"date": "2027-08-25", "name": "Krishna Janmashtami", "category": "festival", "tithi": "Ashtami", "paksha": "Krishna Paksha", "template": "janmashtami"},
+    {"date": "2027-08-28", "name": "Aja Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "aja_ekadashi"},
+    {"date": "2027-09-04", "name": "Ganesh Chaturthi", "category": "festival", "tithi": "Chaturthi", "paksha": "Shukla Paksha", "template": "ganesh_chaturthi", "pujaId": "ganesh-puja"},
+    {"date": "2027-09-11", "name": "Parivartini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "parivartini_ekadashi"},
+    {"date": "2027-09-26", "name": "Indira Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "indira_ekadashi"},
+    {"date": "2027-09-30", "name": "Navratri Begins", "category": "festival", "tithi": "Pratipada", "paksha": "Shukla Paksha", "template": "navratri"},
+    {"date": "2027-10-08", "name": "Maha Navami", "category": "festival", "tithi": "Navami", "paksha": "Shukla Paksha", "template": "maha_navami"},
+    {"date": "2027-10-09", "name": "Dussehra", "category": "festival", "tithi": "Dashami", "paksha": "Shukla Paksha", "template": "dussehra"},
+    {"date": "2027-10-11", "name": "Papankusha Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "papankusha_ekadashi"},
+    {"date": "2027-10-18", "name": "Karwa Chauth", "category": "vrat", "tithi": "Chaturthi", "paksha": "Krishna Paksha", "template": "karwa_chauth"},
+    {"date": "2027-10-25", "name": "Rama Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "rama_ekadashi"},
+    {"date": "2027-10-27", "name": "Dhanteras", "category": "festival", "tithi": "Trayodashi", "paksha": "Krishna Paksha", "template": "dhanteras"},
+    {"date": "2027-10-29", "name": "Diwali", "category": "festival", "tithi": "Amavasya", "paksha": "Krishna Paksha", "template": "diwali"},
+    {"date": "2027-10-30", "name": "Govardhan Puja", "category": "festival", "tithi": "Pratipada", "paksha": "Shukla Paksha", "template": "govardhan_puja"},
+    {"date": "2027-10-31", "name": "Bhai Dooj", "category": "festival", "tithi": "Dwitiya", "paksha": "Shukla Paksha", "template": "bhai_dooj"},
+    {"date": "2027-11-04", "name": "Chhath Puja", "category": "vrat", "tithi": "Shashthi", "paksha": "Shukla Paksha", "template": "chhath_puja"},
+    {"date": "2027-11-10", "name": "Devutthana Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "devutthana_ekadashi"},
+    {"date": "2027-11-24", "name": "Utpanna Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "utpanna_ekadashi"},
+    {"date": "2027-12-10", "name": "Mokshada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "mokshada_ekadashi"},
+    {"date": "2027-12-24", "name": "Saphala Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "saphala_ekadashi"},
+    {"date": "2028-01-07", "name": "Putrada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "putrada_ekadashi"},
+    {"date": "2028-01-15", "name": "Makar Sankranti", "category": "festival", "tithi": "Sankranti", "paksha": "", "template": "makar_sankranti"},
+    {"date": "2028-01-21", "name": "Shattila Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "shattila_ekadashi"},
+    {"date": "2028-01-31", "name": "Vasant Panchami", "category": "festival", "tithi": "Panchami", "paksha": "Shukla Paksha", "template": "vasant_panchami"},
+    {"date": "2028-02-06", "name": "Jaya Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "jaya_ekadashi"},
+    {"date": "2028-02-19", "name": "Vijaya Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "vijaya_ekadashi"},
+    {"date": "2028-02-23", "name": "Maha Shivaratri", "category": "vrat", "tithi": "Chaturdashi", "paksha": "Krishna Paksha", "template": "maha_shivaratri", "pujaId": "shiva-puja"},
+    {"date": "2028-03-06", "name": "Amalaki Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "amalaki_ekadashi"},
+    {"date": "2028-03-11", "name": "Holi", "category": "festival", "tithi": "Purnima", "paksha": "Shukla Paksha", "template": "holi"},
+    {"date": "2028-03-20", "name": "Papmochani Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "papmochani_ekadashi"},
+    {"date": "2028-03-27", "name": "Gudi Padwa", "category": "festival", "tithi": "Pratipada", "paksha": "Shukla Paksha", "template": "gudi_padwa"},
+    {"date": "2028-04-03", "name": "Ram Navami", "category": "festival", "tithi": "Navami", "paksha": "Shukla Paksha", "template": "ram_navami", "pujaId": "sriramanavami-puja"},
+    {"date": "2028-04-04", "name": "Kamada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "kamada_ekadashi"},
+    {"date": "2028-04-19", "name": "Varuthini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "varuthini_ekadashi"},
+    {"date": "2028-05-04", "name": "Mohini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "mohini_ekadashi"},
+    {"date": "2028-05-19", "name": "Apara Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "apara_ekadashi"},
+    {"date": "2028-06-02", "name": "Nirjala Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "nirjala_ekadashi"},
+    {"date": "2028-06-17", "name": "Yogini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "yogini_ekadashi"},
+    {"date": "2028-07-01", "name": "Devshayani Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "devshayani_ekadashi"},
+    {"date": "2028-07-06", "name": "Guru Purnima", "category": "purnima", "tithi": "Purnima", "paksha": "Shukla Paksha", "template": "guru_purnima"},
+    {"date": "2028-07-17", "name": "Kamika Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "kamika_ekadashi"},
+    {"date": "2028-07-30", "name": "Shravana Putrada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "shravana_putrada_ekadashi"},
+    {"date": "2028-08-05", "name": "Raksha Bandhan", "category": "festival", "tithi": "Purnima", "paksha": "Shukla Paksha", "template": "raksha_bandhan"},
+    {"date": "2028-08-13", "name": "Krishna Janmashtami", "category": "festival", "tithi": "Ashtami", "paksha": "Krishna Paksha", "template": "janmashtami"},
+    {"date": "2028-08-15", "name": "Aja Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "aja_ekadashi"},
+    {"date": "2028-08-23", "name": "Ganesh Chaturthi", "category": "festival", "tithi": "Chaturthi", "paksha": "Shukla Paksha", "template": "ganesh_chaturthi", "pujaId": "ganesh-puja"},
+    {"date": "2028-08-29", "name": "Parivartini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "parivartini_ekadashi"},
+    {"date": "2028-09-14", "name": "Indira Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "indira_ekadashi"},
+    {"date": "2028-09-18", "name": "Navratri Begins", "category": "festival", "tithi": "Pratipada", "paksha": "Shukla Paksha", "template": "navratri"},
+    {"date": "2028-09-26", "name": "Maha Navami", "category": "festival", "tithi": "Navami", "paksha": "Shukla Paksha", "template": "maha_navami"},
+    {"date": "2028-09-27", "name": "Dussehra", "category": "festival", "tithi": "Dashami", "paksha": "Shukla Paksha", "template": "dussehra"},
+    {"date": "2028-09-28", "name": "Papankusha Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "papankusha_ekadashi"},
+    {"date": "2028-10-07", "name": "Karwa Chauth", "category": "vrat", "tithi": "Chaturthi", "paksha": "Krishna Paksha", "template": "karwa_chauth"},
+    {"date": "2028-10-13", "name": "Rama Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "rama_ekadashi"},
+    {"date": "2028-10-15", "name": "Dhanteras", "category": "festival", "tithi": "Trayodashi", "paksha": "Krishna Paksha", "template": "dhanteras"},
+    {"date": "2028-10-17", "name": "Diwali", "category": "festival", "tithi": "Amavasya", "paksha": "Krishna Paksha", "template": "diwali"},
+    {"date": "2028-10-18", "name": "Govardhan Puja", "category": "festival", "tithi": "Pratipada", "paksha": "Shukla Paksha", "template": "govardhan_puja"},
+    {"date": "2028-10-19", "name": "Bhai Dooj", "category": "festival", "tithi": "Dwitiya", "paksha": "Shukla Paksha", "template": "bhai_dooj"},
+    {"date": "2028-10-23", "name": "Chhath Puja", "category": "vrat", "tithi": "Shashthi", "paksha": "Shukla Paksha", "template": "chhath_puja"},
+    {"date": "2028-10-28", "name": "Devutthana Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "devutthana_ekadashi"},
+    {"date": "2028-11-11", "name": "Utpanna Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "utpanna_ekadashi"},
+    {"date": "2028-11-27", "name": "Mokshada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "mokshada_ekadashi"},
+    {"date": "2028-12-11", "name": "Saphala Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "saphala_ekadashi"},
+    {"date": "2028-12-27", "name": "Putrada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "putrada_ekadashi"},
+    {"date": "2029-01-10", "name": "Shattila Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "shattila_ekadashi"},
+    {"date": "2029-01-14", "name": "Makar Sankranti", "category": "festival", "tithi": "Sankranti", "paksha": "", "template": "makar_sankranti"},
+    {"date": "2029-01-19", "name": "Vasant Panchami", "category": "festival", "tithi": "Panchami", "paksha": "Shukla Paksha", "template": "vasant_panchami"},
+    {"date": "2029-01-25", "name": "Jaya Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "jaya_ekadashi"},
+    {"date": "2029-02-08", "name": "Vijaya Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "vijaya_ekadashi"},
+    {"date": "2029-02-11", "name": "Maha Shivaratri", "category": "vrat", "tithi": "Chaturdashi", "paksha": "Krishna Paksha", "template": "maha_shivaratri", "pujaId": "shiva-puja"},
+    {"date": "2029-02-24", "name": "Amalaki Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "amalaki_ekadashi"},
+    {"date": "2029-03-01", "name": "Holi", "category": "festival", "tithi": "Purnima", "paksha": "Shukla Paksha", "template": "holi"},
+    {"date": "2029-03-10", "name": "Papmochani Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "papmochani_ekadashi"},
+    {"date": "2029-03-25", "name": "Kamada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "kamada_ekadashi"},
+    {"date": "2029-04-08", "name": "Varuthini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "varuthini_ekadashi"},
+    {"date": "2029-04-23", "name": "Ram Navami", "category": "festival", "tithi": "Navami", "paksha": "Shukla Paksha", "template": "ram_navami", "pujaId": "sriramanavami-puja"},
+    {"date": "2029-04-24", "name": "Mohini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "mohini_ekadashi"},
+    {"date": "2029-05-08", "name": "Apara Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "apara_ekadashi"},
+    {"date": "2029-05-23", "name": "Nirjala Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "nirjala_ekadashi"},
+    {"date": "2029-06-07", "name": "Yogini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "yogini_ekadashi"},
+    {"date": "2029-06-21", "name": "Devshayani Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "devshayani_ekadashi"},
+    {"date": "2029-07-06", "name": "Kamika Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "kamika_ekadashi"},
+    {"date": "2029-07-21", "name": "Shravana Putrada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "shravana_putrada_ekadashi"},
+    {"date": "2029-07-25", "name": "Guru Purnima", "category": "purnima", "tithi": "Purnima", "paksha": "Shukla Paksha", "template": "guru_purnima"},
+    {"date": "2029-08-05", "name": "Aja Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "aja_ekadashi"},
+    {"date": "2029-08-19", "name": "Parivartini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "parivartini_ekadashi"},
+    {"date": "2029-08-23", "name": "Raksha Bandhan", "category": "festival", "tithi": "Purnima", "paksha": "Shukla Paksha", "template": "raksha_bandhan"},
+    {"date": "2029-09-01", "name": "Krishna Janmashtami", "category": "festival", "tithi": "Ashtami", "paksha": "Krishna Paksha", "template": "janmashtami"},
+    {"date": "2029-09-03", "name": "Indira Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "indira_ekadashi"},
+    {"date": "2029-09-11", "name": "Ganesh Chaturthi", "category": "festival", "tithi": "Chaturthi", "paksha": "Shukla Paksha", "template": "ganesh_chaturthi", "pujaId": "ganesh-puja"},
+    {"date": "2029-09-17", "name": "Papankusha Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "papankusha_ekadashi"},
+    {"date": "2029-10-03", "name": "Rama Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "rama_ekadashi"},
+    {"date": "2029-10-07", "name": "Navratri Begins", "category": "festival", "tithi": "Pratipada", "paksha": "Shukla Paksha", "template": "navratri"},
+    {"date": "2029-10-15", "name": "Maha Navami", "category": "festival", "tithi": "Navami", "paksha": "Shukla Paksha", "template": "maha_navami"},
+    {"date": "2029-10-16", "name": "Dussehra", "category": "festival", "tithi": "Dashami", "paksha": "Shukla Paksha", "template": "dussehra"},
+    {"date": "2029-10-17", "name": "Devutthana Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "devutthana_ekadashi"},
+    {"date": "2029-10-26", "name": "Karwa Chauth", "category": "vrat", "tithi": "Chaturthi", "paksha": "Krishna Paksha", "template": "karwa_chauth"},
+    {"date": "2029-11-01", "name": "Utpanna Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "utpanna_ekadashi"},
+    {"date": "2029-11-03", "name": "Dhanteras", "category": "festival", "tithi": "Trayodashi", "paksha": "Krishna Paksha", "template": "dhanteras"},
+    {"date": "2029-11-05", "name": "Diwali", "category": "festival", "tithi": "Amavasya", "paksha": "Krishna Paksha", "template": "diwali"},
+    {"date": "2029-11-06", "name": "Govardhan Puja", "category": "festival", "tithi": "Pratipada", "paksha": "Shukla Paksha", "template": "govardhan_puja"},
+    {"date": "2029-11-07", "name": "Bhai Dooj", "category": "festival", "tithi": "Dwitiya", "paksha": "Shukla Paksha", "template": "bhai_dooj"},
+    {"date": "2029-11-11", "name": "Chhath Puja", "category": "vrat", "tithi": "Shashthi", "paksha": "Shukla Paksha", "template": "chhath_puja"},
+    {"date": "2029-11-15", "name": "Mokshada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "mokshada_ekadashi"},
+    {"date": "2029-12-01", "name": "Saphala Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "saphala_ekadashi"},
+    {"date": "2029-12-15", "name": "Putrada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "putrada_ekadashi"},
+    {"date": "2029-12-30", "name": "Shattila Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "shattila_ekadashi"},
+    {"date": "2030-01-14", "name": "Makar Sankranti", "category": "festival", "tithi": "Sankranti", "paksha": "", "template": "makar_sankranti"},
+    {"date": "2030-01-14", "name": "Putrada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "putrada_ekadashi"},
+    {"date": "2030-01-29", "name": "Shattila Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "shattila_ekadashi"},
+    {"date": "2030-02-07", "name": "Vasant Panchami", "category": "festival", "tithi": "Panchami", "paksha": "Shukla Paksha", "template": "vasant_panchami"},
+    {"date": "2030-02-13", "name": "Jaya Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "jaya_ekadashi"},
+    {"date": "2030-02-27", "name": "Vijaya Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "vijaya_ekadashi"},
+    {"date": "2030-03-02", "name": "Maha Shivaratri", "category": "vrat", "tithi": "Chaturdashi", "paksha": "Krishna Paksha", "template": "maha_shivaratri", "pujaId": "shiva-puja"},
+    {"date": "2030-03-15", "name": "Amalaki Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "amalaki_ekadashi"},
+    {"date": "2030-03-20", "name": "Holi", "category": "festival", "tithi": "Purnima", "paksha": "Shukla Paksha", "template": "holi"},
+    {"date": "2030-03-29", "name": "Papmochani Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "papmochani_ekadashi"},
+    {"date": "2030-04-03", "name": "Gudi Padwa", "category": "festival", "tithi": "Pratipada", "paksha": "Shukla Paksha", "template": "gudi_padwa"},
+    {"date": "2030-04-12", "name": "Ram Navami", "category": "festival", "tithi": "Navami", "paksha": "Shukla Paksha", "template": "ram_navami", "pujaId": "sriramanavami-puja"},
+    {"date": "2030-04-13", "name": "Kamada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "kamada_ekadashi"},
+    {"date": "2030-04-27", "name": "Varuthini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "varuthini_ekadashi"},
+    {"date": "2030-05-13", "name": "Mohini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "mohini_ekadashi"},
+    {"date": "2030-05-27", "name": "Apara Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "apara_ekadashi"},
+    {"date": "2030-06-11", "name": "Nirjala Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "nirjala_ekadashi"},
+    {"date": "2030-06-25", "name": "Yogini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "yogini_ekadashi"},
+    {"date": "2030-07-10", "name": "Devshayani Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "devshayani_ekadashi"},
+    {"date": "2030-07-15", "name": "Guru Purnima", "category": "purnima", "tithi": "Purnima", "paksha": "Shukla Paksha", "template": "guru_purnima"},
+    {"date": "2030-07-25", "name": "Kamika Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "kamika_ekadashi"},
+    {"date": "2030-08-09", "name": "Shravana Putrada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "shravana_putrada_ekadashi"},
+    {"date": "2030-08-13", "name": "Raksha Bandhan", "category": "festival", "tithi": "Purnima", "paksha": "Shukla Paksha", "template": "raksha_bandhan"},
+    {"date": "2030-08-21", "name": "Krishna Janmashtami", "category": "festival", "tithi": "Ashtami", "paksha": "Krishna Paksha", "template": "janmashtami"},
+    {"date": "2030-08-24", "name": "Aja Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "aja_ekadashi"},
+    {"date": "2030-09-01", "name": "Ganesh Chaturthi", "category": "festival", "tithi": "Chaturthi", "paksha": "Shukla Paksha", "template": "ganesh_chaturthi", "pujaId": "ganesh-puja"},
+    {"date": "2030-09-07", "name": "Parivartini Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "parivartini_ekadashi"},
+    {"date": "2030-09-22", "name": "Indira Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "indira_ekadashi"},
+    {"date": "2030-09-27", "name": "Navratri Begins", "category": "festival", "tithi": "Pratipada", "paksha": "Shukla Paksha", "template": "navratri"},
+    {"date": "2030-10-05", "name": "Maha Navami", "category": "festival", "tithi": "Navami", "paksha": "Shukla Paksha", "template": "maha_navami"},
+    {"date": "2030-10-06", "name": "Dussehra", "category": "festival", "tithi": "Dashami", "paksha": "Shukla Paksha", "template": "dussehra"},
+    {"date": "2030-10-06", "name": "Papankusha Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "papankusha_ekadashi"},
+    {"date": "2030-10-15", "name": "Karwa Chauth", "category": "vrat", "tithi": "Chaturthi", "paksha": "Krishna Paksha", "template": "karwa_chauth"},
+    {"date": "2030-10-22", "name": "Rama Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "rama_ekadashi"},
+    {"date": "2030-10-24", "name": "Dhanteras", "category": "festival", "tithi": "Trayodashi", "paksha": "Krishna Paksha", "template": "dhanteras"},
+    {"date": "2030-10-26", "name": "Diwali", "category": "festival", "tithi": "Amavasya", "paksha": "Krishna Paksha", "template": "diwali"},
+    {"date": "2030-10-27", "name": "Govardhan Puja", "category": "festival", "tithi": "Pratipada", "paksha": "Shukla Paksha", "template": "govardhan_puja"},
+    {"date": "2030-10-28", "name": "Bhai Dooj", "category": "festival", "tithi": "Dwitiya", "paksha": "Shukla Paksha", "template": "bhai_dooj"},
+    {"date": "2030-11-01", "name": "Chhath Puja", "category": "vrat", "tithi": "Shashthi", "paksha": "Shukla Paksha", "template": "chhath_puja"},
+    {"date": "2030-11-05", "name": "Devutthana Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "devutthana_ekadashi"},
+    {"date": "2030-11-21", "name": "Utpanna Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "utpanna_ekadashi"},
+    {"date": "2030-12-04", "name": "Mokshada Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "mokshada_ekadashi"},
+    {"date": "2030-12-20", "name": "Saphala Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "saphala_ekadashi"}
+  ]
+}
