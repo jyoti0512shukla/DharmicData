@@ -1,0 +1,50 @@
+{
+  "id": "epic-hanuman-mountain",
+  "title": "Hanuman Brings the Mountain",
+  "titleHi": "हनुमान जी संजीवनी लेकर आए",
+  "category": "epic",
+  "ageGroup": "7-12",
+  "readTimeMinutes": 5,
+  "moral": "True devotion gives us the strength to move mountains. When you love someone deeply, no obstacle is too great.",
+  "moralHi": "सच्ची भक्ति से पहाड़ भी हिलाए जा सकते हैं। जब हम किसी से सच्चा प्रेम करते हैं, तो कोई बाधा बड़ी नहीं होती।",
+  "coverImage": "hanuman-mountain",
+  "tags": [
+    "Hanuman",
+    "Ramayana",
+    "devotion",
+    "courage"
+  ],
+  "sections": [
+    {
+      "heading": null,
+      "text": "The great war between Lord Ram's army and the demon king Ravana was raging in Lanka. Brave warriors fought on both sides. Among Ram's greatest allies was his brother Lakshman, who fought fearlessly beside him.",
+      "image": "hanuman-mountain-01"
+    },
+    {
+      "heading": "Lakshman Falls",
+      "text": "During a fierce battle, Ravana's son Indrajit shot a powerful weapon — the Shakti arrow — at Lakshman. The magical arrow struck Lakshman in the chest, and he fell to the ground, unconscious. Ram rushed to his brother's side, his eyes filled with tears. 'Without Lakshman, I cannot go on,' Ram said, his voice breaking.",
+      "image": "hanuman-mountain-02"
+    },
+    {
+      "heading": "The Only Cure",
+      "text": "The wise physician Sushena examined Lakshman and said, 'There is only one cure — the Sanjeevani herb. It grows on the Dronagiri mountain in the far Himalayas. But you must bring it before sunrise, or Lakshman will not survive.' Everyone looked at each other in despair. The Himalayas were thousands of miles away. How could anyone reach there and return in one night?",
+      "image": "hanuman-mountain-03"
+    },
+    {
+      "heading": "Hanuman's Leap",
+      "text": "Hanuman stepped forward. 'I will go,' he said with calm determination. With a mighty leap, Hanuman soared into the sky. He flew faster than the wind, crossing oceans, forests, and mountains in moments. The stars blurred past him as he raced toward the Himalayas.",
+      "image": "hanuman-mountain-04"
+    },
+    {
+      "heading": "The Whole Mountain",
+      "text": "When Hanuman reached the Dronagiri mountain, he saw thousands of glowing herbs covering the slopes. But he did not know which one was the Sanjeevani! Time was running out. Rather than risk picking the wrong herb, Hanuman made a bold decision. He bent down, placed his mighty hands under the mountain, and lifted the entire mountain into the air! Carrying it on his palm, he flew back through the sky toward Lanka.",
+      "image": "hanuman-mountain-05"
+    },
+    {
+      "heading": "Lakshman Lives",
+      "text": "As the first rays of dawn began to appear, Hanuman arrived in Lanka carrying the glowing mountain. Sushena quickly found the Sanjeevani herb and placed it near Lakshman's nose. Slowly, color returned to Lakshman's face. He opened his eyes and sat up. Everyone cheered! Ram embraced Hanuman with tears of gratitude. 'Hanuman,' he said, 'your devotion is beyond measure. The world will remember your love forever.'",
+      "image": "hanuman-mountain-06"
+    }
+  ],
+  "version": 2
+}

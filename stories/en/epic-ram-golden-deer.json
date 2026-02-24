@@ -1,0 +1,52 @@
+{
+  "id": "epic-ram-golden-deer",
+  "title": "Ram and the Golden Deer",
+  "titleHi": "राम और सोने का हिरण",
+  "category": "epic",
+  "ageGroup": "7-12",
+  "readTimeMinutes": 5,
+  "moral": "Not everything that glitters is real. We must be careful of things that seem too beautiful to be true, for they may hide danger.",
+  "moralHi": "हर चमकने वाली चीज़ सोना नहीं होती। जो चीज़ें बहुत सुंदर दिखें, उनसे सावधान रहना चाहिए क्योंकि वे खतरा छुपा सकती हैं।",
+  "coverImage": "ram-golden-deer",
+  "tags": [
+    "Ramayana",
+    "Ram",
+    "Sita",
+    "Lakshman",
+    "deception",
+    "wisdom"
+  ],
+  "sections": [
+    {
+      "heading": null,
+      "text": "During their fourteen years of exile, Lord Ram, Sita, and Lakshman lived peacefully in a small cottage in the Panchavati forest. They spent their days gathering fruits, praying, and enjoying the beauty of nature. The forest was full of flowers, birds, and gentle deer that wandered nearby.",
+      "image": "ram-golden-deer-01"
+    },
+    {
+      "heading": "The Golden Deer Appears",
+      "text": "One morning, Sita spotted a magnificent deer at the edge of the forest. Its body shimmered like pure gold, and its antlers sparkled with gems of silver and ruby. It pranced gracefully between the trees, its golden coat catching the sunlight. Sita was enchanted. 'Ram, look at that beautiful deer!' she exclaimed. 'Please catch it for me. I would love to keep it as a pet.'",
+      "image": "ram-golden-deer-02"
+    },
+    {
+      "heading": "Lakshman's Warning",
+      "text": "Lakshman studied the deer carefully and felt uneasy. 'Brother, no deer in this world is made of gold,' he said. 'This must be the work of a demon. The rakshasas are known for their tricks and disguises.' But Sita's heart was set on the deer, and Ram could not refuse her wish. 'Stay here and protect Sita,' Ram told Lakshman. 'I will go after the deer and return quickly.'",
+      "image": "ram-golden-deer-03"
+    },
+    {
+      "heading": "Maricha's Trick",
+      "text": "Ram chased the golden deer deep into the forest. The deer was fast and cunning, always staying just out of reach. It was no ordinary animal — it was the demon Maricha, sent by the evil king Ravana to lure Ram away. When Ram finally shot an arrow at the deer, Maricha fell to the ground and, with his last breath, cried out in Ram's voice: 'Oh Lakshman! Oh Sita! Help me!' The cry echoed through the forest.",
+      "image": "ram-golden-deer-04"
+    },
+    {
+      "heading": "The Trap Closes",
+      "text": "Sita heard the cry and was terrified. 'Lakshman, your brother is in danger! Go help him at once!' she pleaded. Lakshman knew it was a trick, but Sita insisted. Before leaving, Lakshman drew a protective line around the cottage. 'Do not step outside this line, no matter what,' he warned. But once both brothers were gone, Ravana appeared disguised as a holy sage and tricked Sita into crossing the line.",
+      "image": "ram-golden-deer-05"
+    },
+    {
+      "heading": "A Lesson in Deception",
+      "text": "By the time Ram and Lakshman returned, Sita was gone. Ravana had carried her away to his kingdom of Lanka. Ram's heart broke with grief, but he did not lose hope. This moment set in motion the great events of the Ramayana — the search for Sita, the alliance with the monkeys, and the mighty war against Ravana. The golden deer taught a powerful lesson: not everything beautiful is what it seems, and one moment of desire can change everything.",
+      "image": "ram-golden-deer-06"
+    }
+  ],
+  "version": 2
+}

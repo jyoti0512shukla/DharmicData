@@ -1,0 +1,51 @@
+{
+  "id": "epic-arjuna-fish-eye",
+  "title": "Arjuna and the Fish Eye",
+  "titleHi": "अर्जुन और मछली की आँख",
+  "category": "epic",
+  "ageGroup": "7-12",
+  "readTimeMinutes": 5,
+  "moral": "True skill comes from years of dedicated practice and unwavering focus. When you concentrate fully on your goal, nothing is impossible.",
+  "moralHi": "सच्ची कुशलता वर्षों के अभ्यास और अटूट एकाग्रता से आती है। जब आप अपने लक्ष्य पर पूरा ध्यान केंद्रित करते हैं, तो कुछ भी असंभव नहीं है।",
+  "coverImage": "arjuna-fish-eye",
+  "tags": [
+    "Mahabharata",
+    "Arjuna",
+    "Draupadi",
+    "focus",
+    "archery"
+  ],
+  "sections": [
+    {
+      "heading": null,
+      "text": "King Drupad of Panchal had a beautiful and wise daughter named Draupadi. She was known across all the kingdoms for her grace, intelligence, and fiery spirit. When it was time for her to marry, King Drupad decided to hold a grand swayamvar — a contest where princes from every kingdom could compete to win her hand.",
+      "image": "arjuna-fish-eye-01"
+    },
+    {
+      "heading": "The Impossible Challenge",
+      "text": "Kings and princes from across Bharat gathered in the magnificent hall of Panchal. At the center of the arena stood a tall pole. At the very top hung a golden fish that rotated slowly in circles. Below, on the ground, was a pool of oil that reflected the fish above. The challenge was announced: 'You must string this mighty bow, then look ONLY at the reflection of the fish in the oil below, and shoot an arrow through the eye of the rotating fish above.' A gasp went through the crowd. It seemed impossible.",
+      "image": "arjuna-fish-eye-02"
+    },
+    {
+      "heading": "The Princes Fail",
+      "text": "One by one, the mighty kings and princes stepped forward. Some could not even lift the enormous bow. Others managed to string it but could not aim at a spinning target using only its reflection. The proud Kauravas tried and failed. Even great warriors hung their heads in defeat. Draupadi watched quietly, waiting for the one who could pass the test. Karna, the great archer, stepped forward, but Draupadi refused to let the son of a charioteer compete, not knowing his true royal birth.",
+      "image": "arjuna-fish-eye-03"
+    },
+    {
+      "heading": "The Humble Brahmin",
+      "text": "Then, from the back of the hall, a young man dressed in the simple clothes of a Brahmin walked forward. It was Arjuna, the third Pandava prince, disguised during his years of exile. The crowd murmured in surprise. 'A poor Brahmin dares to try?' some laughed. But Arjuna's eyes were calm and steady. He bowed before Lord Krishna, who watched from the audience with a knowing smile.",
+      "image": "arjuna-fish-eye-04"
+    },
+    {
+      "heading": "The Perfect Shot",
+      "text": "Arjuna lifted the great bow as if it were a feather and strung it in one smooth motion. He knelt beside the pool of oil and gazed at the reflection of the spinning golden fish. The hall fell silent. Arjuna's breathing slowed. The world around him disappeared — he saw nothing but the eye of the fish in the water. He remembered his guru Dronacharya's lesson: 'What do you see, Arjuna?' 'Only the eye of the bird, Gurudev. Only the eye.' He released the arrow. It flew straight and true, piercing the eye of the golden fish perfectly.",
+      "image": "arjuna-fish-eye-05"
+    },
+    {
+      "heading": "A Champion's Focus",
+      "text": "The hall erupted in cheers. Flowers rained from the sky. Draupadi smiled and walked forward with the victory garland, placing it around Arjuna's neck. The disguise was soon revealed, and the world learned that the Pandavas were alive. Arjuna's victory was not magic or luck — it was the result of years of relentless practice and the power of absolute concentration. His guru had taught him that focus is the greatest weapon, and that day, he proved it before the world.",
+      "image": "arjuna-fish-eye-06"
+    }
+  ],
+  "version": 2
+}

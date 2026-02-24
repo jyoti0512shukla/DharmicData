@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "temples": [
+    {
+      "id": "siddhivinayak",
+      "name": "सिद्धिविनायक मंदिर",
+      "nameEn": "Siddhivinayak Temple",
+      "deity": "Ganesh ji",
+      "location": "Mumbai",
+      "streamUrl": "https://livebhagwan.com/darshan-siddhivinayak.php",
+      "youtubeVideoId": "1vGVGya72bQ",
+      "streamType": "web",
+      "category": "ganesha",
+      "aartiInfo": "5:30 AM - 10:00 PM"
+    },
+    {
+      "id": "dwarkadhish",
+      "name": "द्वारकाधीश मंदिर",
+      "nameEn": "Dwarkadhish Temple",
+      "deity": "Krishna ji",
+      "location": "Dwarka, Gujarat",
+      "streamUrl": "https://www.livebhagwan.com/?darshan_name=Dwarkadish_live",
+      "youtubeVideoId": "s0358nFNtIk",
+      "streamType": "web",
+      "category": "vishnu",
+      "aartiInfo": "6:30 AM - 1:00 PM"
+    },
+    {
+      "id": "kashi-vishwanath",
+      "name": "काशी विश्वनाथ मंदिर",
+      "nameEn": "Kashi Vishwanath Temple",
+      "deity": "Shiva ji",
+      "location": "Varanasi, Uttar Pradesh",
+      "streamUrl": "https://livebhagwan.com/jyotirlingas-darshans?darshan_name=Kashi-Vishwanath_jyotirling",
+      "youtubeVideoId": "djAqGUJEvuc",
+      "streamType": "web",
+      "category": "jyotirlinga",
+      "aartiInfo": "24 hours"
+    },
+    {
+      "id": "mahakaleshwar",
+      "name": "महाकालेश्वर मंदिर",
+      "nameEn": "Mahakaleshwar Temple",
+      "deity": "Shiva ji",
+      "location": "Ujjain, Madhya Pradesh",
+      "streamUrl": "https://livebhagwan.com/jyotirlingas-darshans?darshan_name=Mahakaleshwar_jyotirling",
+      "youtubeVideoId": "ktj05Olz4M0",
+      "streamType": "web",
+      "category": "jyotirlinga",
+      "aartiInfo": "4:00 AM Bhasma Aarti, 7:00 PM Shayan Aarti"
+    },
+    {
+      "id": "shirdi-sai",
+      "name": "शिर्डी साईं बाबा",
+      "nameEn": "Shirdi Sai Baba Temple",
+      "deity": "Sai Baba",
+      "location": "Shirdi, Maharashtra",
+      "streamUrl": "https://livebhagwan.com/saibaba-live-darshan.php",
+      "youtubeVideoId": "-74nwTR0GNI",
+      "streamType": "web",
+      "category": "sai",
+      "aartiInfo": "4:30 AM - 10:30 PM (Thurs: extended)"
+    },
+    {
+      "id": "omkareshwar",
+      "name": "ओंकारेश्वर मंदिर",
+      "nameEn": "Omkareshwar Temple",
+      "deity": "Shiva ji",
+      "location": "Khandwa, Madhya Pradesh",
+      "streamUrl": "https://livebhagwan.com/jyotirlingas-darshans?darshan_name=Omkareshwar_jyotirling",
+      "youtubeVideoId": "fv2DXEnM2Bk",
+      "streamType": "web",
+      "category": "jyotirlinga",
+      "aartiInfo": "5:00 AM - 9:30 PM"
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "name": "All",
+      "nameHi": "सभी"
+    },
+    {
+      "id": "ganesha",
+      "name": "Ganesh ji",
+      "nameHi": "गणेश जी"
+    },
+    {
+      "id": "vishnu",
+      "name": "Vishnu",
+      "nameHi": "विष्णु"
+    },
+    {
+      "id": "jyotirlinga",
+      "name": "Jyotirlinga",
+      "nameHi": "ज्योतिर्लिंग"
+    },
+    {
+      "id": "sai",
+      "name": "Sai Baba",
+      "nameHi": "साईं बाबा"
+    }
+  ]
+}

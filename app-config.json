@@ -34,5 +34,6 @@
   "stories_remote_base_url": "https://raw.githubusercontent.com/jyoti0512shukla/DharmicData/main/stories/en/",
   "darshan_remote_url": "https://raw.githubusercontent.com/jyoti0512shukla/DharmicData/main/live-darshan-catalog.json",
   "temples_catalog_url": "https://raw.githubusercontent.com/jyoti0512shukla/DharmicData/main/temples-catalog.json",
-  "calendar_remote_url": "https://raw.githubusercontent.com/jyoti0512shukla/DharmicData/main/hindu-calendar.json"
+  "calendar_remote_url": "https://raw.githubusercontent.com/jyoti0512shukla/DharmicData/main/hindu-calendar.json",
+  "feedback_email": "jyoti0512shukla@gmail.com"
 }

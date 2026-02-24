@@ -1,0 +1,50 @@
+{
+  "id": "panchatantra-thirsty-crow",
+  "title": "The Thirsty Crow",
+  "titleHi": "प्यासा कौआ",
+  "category": "panchatantra",
+  "ageGroup": "3-6",
+  "readTimeMinutes": 2,
+  "moral": "Where there is a will, there is a way. Patience and clever thinking solve even the hardest problems.",
+  "moralHi": "जहाँ चाह, वहाँ राह। धैर्य और सूझबूझ से कठिन से कठिन समस्या भी हल हो जाती है।",
+  "coverImage": null,
+  "tags": [
+    "cleverness",
+    "patience",
+    "determination",
+    "animals"
+  ],
+  "sections": [
+    {
+      "heading": null,
+      "text": "One hot summer day, a crow flew over fields and towns, searching everywhere for water. The sun blazed down and his throat was terribly dry. He had been flying for a very long time.",
+      "image": "thirsty-crow-01"
+    },
+    {
+      "heading": "A Glimmer of Hope",
+      "text": "At last, the crow spotted a tall clay pot sitting near a garden wall. He flew down quickly and peered inside. There was water at the bottom! But the water was so low that his beak could not reach it, no matter how hard he tried.",
+      "image": "thirsty-crow-02"
+    },
+    {
+      "heading": "Thinking Hard",
+      "text": "The crow thought about tipping the pot over, but it was too heavy. He thought about breaking it, but then the water would spill away. He sat on the rim and thought and thought. Then he noticed some small pebbles lying on the ground nearby, and a brilliant idea came to him!",
+      "image": "thirsty-crow-03"
+    },
+    {
+      "heading": "One Pebble at a Time",
+      "text": "The crow picked up a pebble in his beak and dropped it into the pot. Plop! Then another pebble. Plop! And another. Plop! Slowly, one pebble at a time, the water inside the pot began to rise higher and higher.",
+      "image": "thirsty-crow-04"
+    },
+    {
+      "heading": "Sweet Water at Last",
+      "text": "The crow did not give up. He kept dropping pebbles until the water rose all the way to the top of the pot. At last, he dipped his beak in and drank the cool, refreshing water. How wonderful it tasted! The clever crow had solved his problem with patience and a simple idea.",
+      "image": "thirsty-crow-05"
+    },
+    {
+      "heading": "The Lesson",
+      "text": "The other birds watched in amazement. 'How did you do that?' they asked. The crow smiled and said, 'When you cannot find an easy way, make your own way — one small step at a time.' And from that day, everyone remembered that patience and cleverness can overcome any difficulty.",
+      "image": "thirsty-crow-06"
+    }
+  ],
+  "version": 2
+}

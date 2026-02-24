@@ -1,0 +1,570 @@
+[
+  {
+    "id": "panchatantra-monkey-crocodile",
+    "title": "The Monkey and the Crocodile",
+    "titleHi": "बंदर और मगरमच्छ",
+    "category": "panchatantra",
+    "ageGroup": "3-6",
+    "readTimeMinutes": 3,
+    "moral": "True friends never betray each other. Quick thinking can save you from danger.",
+    "moralHi": "सच्चे मित्र कभी विश्वासघात नहीं करते। सूझबूझ से हर खतरे से बचा जा सकता है।",
+    "coverImage": "monkey-crocodile",
+    "tags": [
+      "friendship",
+      "cleverness",
+      "animals"
+    ],
+    "bundled": false,
+    "version": 1
+  },
+  {
+    "id": "panchatantra-blue-jackal",
+    "title": "The Blue Jackal",
+    "titleHi": "नीला सियार",
+    "category": "panchatantra",
+    "ageGroup": "3-6",
+    "readTimeMinutes": 3,
+    "moral": "Pretending to be someone you are not will always end in trouble. Be proud of who you really are.",
+    "moralHi": "जो खुद को कुछ और बताता है, वह एक दिन ज़रूर पकड़ा जाता है। अपने असली रूप पर गर्व करो।",
+    "coverImage": "blue-jackal",
+    "tags": [
+      "honesty",
+      "pride",
+      "animals",
+      "cleverness"
+    ],
+    "bundled": false,
+    "version": 1
+  },
+  {
+    "id": "panchatantra-musical-donkey",
+    "title": "The Musical Donkey",
+    "titleHi": "संगीतमय गधा",
+    "category": "panchatantra",
+    "ageGroup": "3-6",
+    "readTimeMinutes": 3,
+    "moral": "There is a right time and place for everything. Doing the wrong thing at the wrong time can lead to trouble.",
+    "moralHi": "हर काम का सही समय और सही जगह होती है। गलत समय पर गलत काम करने से मुसीबत आती है।",
+    "coverImage": "musical-donkey",
+    "tags": [
+      "wisdom",
+      "timing",
+      "animals",
+      "humor"
+    ],
+    "bundled": false,
+    "version": 1
+  },
+  {
+    "id": "panchatantra-loyal-mongoose",
+    "title": "The Loyal Mongoose",
+    "titleHi": "वफादार नेवला",
+    "category": "panchatantra",
+    "ageGroup": "3-6",
+    "readTimeMinutes": 3,
+    "moral": "Never act in anger without knowing the full truth. Haste and anger can lead to terrible mistakes.",
+    "moralHi": "बिना सच जाने गुस्से में कभी कोई काम नहीं करना चाहिए। जल्दबाज़ी और गुस्से से बड़ी भूल हो सकती है।",
+    "coverImage": "loyal-mongoose",
+    "tags": [
+      "loyalty",
+      "patience",
+      "animals",
+      "trust"
+    ],
+    "bundled": false,
+    "version": 1
+  },
+  {
+    "id": "panchatantra-brahmins-dream",
+    "title": "The Brahmin's Dream",
+    "titleHi": "ब्राह्मण का सपना",
+    "category": "panchatantra",
+    "ageGroup": "3-6",
+    "readTimeMinutes": 3,
+    "moral": "Do not build castles in the air. Work hard for what you want instead of just dreaming about it.",
+    "moralHi": "हवाई किले मत बनाओ। सपने देखने की बजाय मेहनत करो।",
+    "coverImage": "brahmins-dream",
+    "tags": [
+      "hard work",
+      "daydreaming",
+      "wisdom",
+      "humor"
+    ],
+    "bundled": false,
+    "version": 1
+  },
+  {
+    "id": "panchatantra-mice-ate-iron",
+    "title": "The Mice That Ate Iron",
+    "titleHi": "लोहा खाने वाले चूहे",
+    "category": "panchatantra",
+    "ageGroup": "3-6",
+    "readTimeMinutes": 3,
+    "moral": "If you cheat someone, do not be surprised when they cheat you back. Dishonesty always comes back to you.",
+    "moralHi": "अगर तुम किसी को धोखा दोगे, तो बदले में धोखा ही मिलेगा। बेईमानी का फल हमेशा बुरा होता है।",
+    "coverImage": "mice-ate-iron",
+    "tags": [
+      "honesty",
+      "cleverness",
+      "justice",
+      "humor"
+    ],
+    "bundled": false,
+    "version": 1
+  },
+  {
+    "id": "panchatantra-crow-snake",
+    "title": "The Crow and the Snake",
+    "titleHi": "कौआ और साँप",
+    "category": "panchatantra",
+    "ageGroup": "3-6",
+    "readTimeMinutes": 3,
+    "moral": "Brain is mightier than strength. A clever idea can solve problems that fighting cannot.",
+    "moralHi": "बुद्धि बल से बड़ी होती है। एक अच्छी सोच वो समस्या सुलझा सकती है जो ताकत से नहीं सुलझती।",
+    "coverImage": "crow-snake",
+    "tags": [
+      "cleverness",
+      "strategy",
+      "animals",
+      "courage"
+    ],
+    "bundled": false,
+    "version": 1
+  },
+  {
+    "id": "puranic-ganesha-head",
+    "title": "How Ganesha Got His Elephant Head",
+    "titleHi": "गणेश जी को हाथी का सिर कैसे मिला",
+    "category": "puranic",
+    "ageGroup": "3-6",
+    "readTimeMinutes": 4,
+    "moral": "A parent's love knows no bounds. Lord Shiva showed that even mistakes can be made right with love and wisdom.",
+    "moralHi": "माता-पिता का प्रेम अनंत होता है। भगवान शिव ने दिखाया कि प्रेम और बुद्धि से हर गलती सुधारी जा सकती है।",
+    "coverImage": "ganesha-head",
+    "tags": [
+      "Ganesha",
+      "Shiva",
+      "Parvati",
+      "devotion"
+    ],
+    "bundled": false,
+    "version": 2
+  },
+  {
+    "id": "puranic-prahlad-holika",
+    "title": "Prahlad and Holika",
+    "titleHi": "प्रह्लाद और होलिका",
+    "category": "puranic",
+    "ageGroup": "3-6",
+    "readTimeMinutes": 4,
+    "moral": "True devotion and faith in God can protect us from the greatest dangers. Good always wins over evil.",
+    "moralHi": "सच्ची भक्ति और भगवान पर विश्वास हमें सबसे बड़े खतरे से बचा सकता है। अच्छाई की हमेशा बुराई पर जीत होती है।",
+    "coverImage": "prahlad-holika",
+    "tags": [
+      "Prahlad",
+      "Vishnu",
+      "Holika",
+      "devotion",
+      "Holi"
+    ],
+    "bundled": false,
+    "version": 2
+  },
+  {
+    "id": "puranic-samudra-manthan",
+    "title": "The Churning of the Ocean",
+    "titleHi": "समुद्र मंथन",
+    "category": "puranic",
+    "ageGroup": "7-12",
+    "readTimeMinutes": 5,
+    "moral": "Great things can only be achieved through cooperation, patience, and perseverance. Even rivals must sometimes work together for a common goal.",
+    "moralHi": "महान कार्य सहयोग, धैर्य और लगन से ही संभव होते हैं। कभी-कभी विरोधियों को भी एक साझे लक्ष्य के लिए मिलकर काम करना पड़ता है।",
+    "coverImage": "samudra-manthan",
+    "tags": [
+      "Vishnu",
+      "Devas",
+      "Asuras",
+      "amrit",
+      "ocean"
+    ],
+    "bundled": false,
+    "version": 2
+  },
+  {
+    "id": "puranic-moon-marks",
+    "title": "Why the Moon Has Marks",
+    "titleHi": "चंद्रमा पर दाग",
+    "category": "puranic",
+    "ageGroup": "3-6",
+    "readTimeMinutes": 3,
+    "moral": "We should never laugh at others. Making fun of someone can hurt their feelings deeply.",
+    "moralHi": "हमें कभी किसी का मज़ाक नहीं उड़ाना चाहिए। किसी पर हँसने से उनका दिल बहुत दुखता है।",
+    "coverImage": "moon-marks",
+    "tags": [
+      "Ganesha",
+      "moon",
+      "laddoo",
+      "kindness"
+    ],
+    "bundled": false,
+    "version": 2
+  },
+  {
+    "id": "puranic-krishna-govardhan",
+    "title": "Krishna and the Govardhan Mountain",
+    "titleHi": "कृष्ण और गोवर्धन पर्वत",
+    "category": "puranic",
+    "ageGroup": "3-6",
+    "readTimeMinutes": 4,
+    "moral": "True strength comes from love and the desire to protect others. Even a young child can do great things with courage.",
+    "moralHi": "सच्ची ताकत प्रेम और दूसरों की रक्षा की भावना से आती है। साहस हो तो एक छोटा बच्चा भी बड़े काम कर सकता है।",
+    "coverImage": "krishna-govardhan",
+    "tags": [
+      "Krishna",
+      "Govardhan",
+      "Indra",
+      "courage",
+      "protection"
+    ],
+    "bundled": false,
+    "version": 2
+  },
+  {
+    "id": "puranic-durga-mahishasura",
+    "title": "Durga and Mahishasura",
+    "titleHi": "दुर्गा और महिषासुर",
+    "category": "puranic",
+    "ageGroup": "7-12",
+    "readTimeMinutes": 5,
+    "moral": "No matter how powerful evil becomes, the force of good — when united — will always triumph. True power comes from righteousness.",
+    "moralHi": "बुराई चाहे कितनी भी शक्तिशाली हो जाए, अच्छाई की एकजुट शक्ति हमेशा विजयी होती है। सच्ची शक्ति धर्म से आती है।",
+    "coverImage": "durga-mahishasura",
+    "tags": [
+      "Durga",
+      "Mahishasura",
+      "Navratri",
+      "courage",
+      "divine feminine"
+    ],
+    "bundled": false,
+    "version": 2
+  },
+  {
+    "id": "puranic-dhruv-tara",
+    "title": "The Story of Dhruv",
+    "titleHi": "ध्रुव तारा की कथा",
+    "category": "puranic",
+    "ageGroup": "7-12",
+    "readTimeMinutes": 5,
+    "moral": "Unwavering determination and sincere devotion can earn you a place that no one can ever take away. Age does not limit what you can achieve.",
+    "moralHi": "अटल दृढ़ संकल्प और सच्ची भक्ति से ऐसा स्थान मिलता है जो कोई छीन नहीं सकता। उम्र आपकी उपलब्धियों की सीमा नहीं है।",
+    "coverImage": "dhruv-tara",
+    "tags": [
+      "Dhruv",
+      "Vishnu",
+      "devotion",
+      "determination",
+      "pole star"
+    ],
+    "bundled": false,
+    "version": 2
+  },
+  {
+    "id": "puranic-hanuman-sun",
+    "title": "Hanuman and the Sun",
+    "titleHi": "हनुमान और सूर्य",
+    "category": "puranic",
+    "ageGroup": "3-6",
+    "readTimeMinutes": 3,
+    "moral": "Children are full of courage and wonder. Even when we stumble, the love of those around us keeps us safe.",
+    "moralHi": "बच्चे साहस और जिज्ञासा से भरे होते हैं। जब हम गिरते भी हैं, तो अपनों का प्यार हमें सँभाल लेता है।",
+    "coverImage": "hanuman-sun",
+    "tags": [
+      "Hanuman",
+      "Surya",
+      "Vayu",
+      "courage",
+      "childhood"
+    ],
+    "bundled": false,
+    "version": 2
+  },
+  {
+    "id": "epic-hanuman-mountain",
+    "title": "Hanuman Brings the Mountain",
+    "titleHi": "हनुमान जी संजीवनी लेकर आए",
+    "category": "epic",
+    "ageGroup": "7-12",
+    "readTimeMinutes": 5,
+    "moral": "True devotion gives us the strength to move mountains. When you love someone deeply, no obstacle is too great.",
+    "moralHi": "सच्ची भक्ति से पहाड़ भी हिलाए जा सकते हैं। जब हम किसी से सच्चा प्रेम करते हैं, तो कोई बाधा बड़ी नहीं होती।",
+    "coverImage": "hanuman-mountain",
+    "tags": [
+      "Hanuman",
+      "Ramayana",
+      "devotion",
+      "courage"
+    ],
+    "bundled": false,
+    "version": 2
+  },
+  {
+    "id": "saint-mirabai",
+    "title": "Mirabai and Her Love for Krishna",
+    "titleHi": "मीराबाई और कृष्ण प्रेम",
+    "category": "saint",
+    "ageGroup": "7-12",
+    "readTimeMinutes": 5,
+    "moral": "True devotion cannot be stopped by anyone. When your heart is pure and your love is true, nothing in the world can shake your faith.",
+    "moralHi": "सच्ची भक्ति को कोई रोक नहीं सकता। जब हृदय शुद्ध हो और प्रेम सच्चा हो, तो दुनिया की कोई ताकत आपका विश्वास नहीं डिगा सकती।",
+    "coverImage": "mirabai-krishna",
+    "tags": [
+      "Mirabai",
+      "Krishna",
+      "devotion",
+      "courage",
+      "music"
+    ],
+    "bundled": false,
+    "version": 2
+  },
+  {
+    "id": "panchatantra-tortoise-geese",
+    "title": "The Tortoise and the Geese",
+    "titleHi": "कछुआ और हंस",
+    "category": "panchatantra",
+    "ageGroup": "3-6",
+    "readTimeMinutes": 3,
+    "moral": "Think before you speak. Keeping quiet at the right time can save you from trouble.",
+    "moralHi": "बोलने से पहले सोचो। सही समय पर चुप रहना आपको मुसीबत से बचा सकता है।",
+    "coverImage": "tortoise-geese",
+    "tags": [
+      "silence",
+      "wisdom",
+      "animals",
+      "friendship"
+    ],
+    "bundled": false,
+    "version": 1
+  },
+  {
+    "id": "epic-ram-golden-deer",
+    "title": "Ram and the Golden Deer",
+    "titleHi": "राम और सोने का हिरण",
+    "category": "epic",
+    "ageGroup": "7-12",
+    "readTimeMinutes": 5,
+    "moral": "Not everything that glitters is real. We must be careful of things that seem too beautiful to be true, for they may hide danger.",
+    "moralHi": "हर चमकने वाली चीज़ सोना नहीं होती। जो चीज़ें बहुत सुंदर दिखें, उनसे सावधान रहना चाहिए क्योंकि वे खतरा छुपा सकती हैं।",
+    "coverImage": "ram-golden-deer",
+    "tags": [
+      "Ramayana",
+      "Ram",
+      "Sita",
+      "Lakshman",
+      "deception",
+      "wisdom"
+    ],
+    "bundled": false,
+    "version": 2
+  },
+  {
+    "id": "epic-bridge-to-lanka",
+    "title": "The Bridge to Lanka",
+    "titleHi": "लंका का पुल",
+    "category": "epic",
+    "ageGroup": "3-6",
+    "readTimeMinutes": 4,
+    "moral": "When we work together and have faith, even the impossible becomes possible. Love and teamwork can build bridges across any ocean.",
+    "moralHi": "जब हम मिलकर काम करते हैं और विश्वास रखते हैं, तो असंभव भी संभव हो जाता है। प्रेम और मेहनत से हर समुद्र पार किया जा सकता है।",
+    "coverImage": "bridge-to-lanka",
+    "tags": [
+      "Ramayana",
+      "Ram",
+      "Hanuman",
+      "teamwork",
+      "faith"
+    ],
+    "bundled": false,
+    "version": 2
+  },
+  {
+    "id": "epic-arjuna-fish-eye",
+    "title": "Arjuna and the Fish Eye",
+    "titleHi": "अर्जुन और मछली की आँख",
+    "category": "epic",
+    "ageGroup": "7-12",
+    "readTimeMinutes": 5,
+    "moral": "True skill comes from years of dedicated practice and unwavering focus. When you concentrate fully on your goal, nothing is impossible.",
+    "moralHi": "सच्ची कुशलता वर्षों के अभ्यास और अटूट एकाग्रता से आती है। जब आप अपने लक्ष्य पर पूरा ध्यान केंद्रित करते हैं, तो कुछ भी असंभव नहीं है।",
+    "coverImage": "arjuna-fish-eye",
+    "tags": [
+      "Mahabharata",
+      "Arjuna",
+      "Draupadi",
+      "focus",
+      "archery"
+    ],
+    "bundled": false,
+    "version": 2
+  },
+  {
+    "id": "epic-krishna-butter-mischief",
+    "title": "Krishna's Butter Mischief",
+    "titleHi": "कृष्ण की माखन चोरी",
+    "category": "epic",
+    "ageGroup": "3-6",
+    "readTimeMinutes": 3,
+    "moral": "God's playfulness reminds us to find joy in everyday life. Even when little ones are naughty, their love makes everything better.",
+    "moralHi": "भगवान की लीलाएँ हमें सिखाती हैं कि जीवन में खुशी ढूंढो। छोटे बच्चों की शरारतें भी प्यार से भरी होती हैं।",
+    "coverImage": "krishna-butter-mischief",
+    "tags": [
+      "Krishna",
+      "Yashoda",
+      "childhood",
+      "playful",
+      "Vrindavan"
+    ],
+    "bundled": false,
+    "version": 2
+  },
+  {
+    "id": "epic-draupadi-akshaya-patra",
+    "title": "Draupadi and the Akshaya Patra",
+    "titleHi": "द्रौपदी और अक्षय पात्र",
+    "category": "epic",
+    "ageGroup": "7-12",
+    "readTimeMinutes": 5,
+    "moral": "Surrender to God in your moment of need, and help will come. True devotion turns the impossible into reality.",
+    "moralHi": "विपत्ति में भगवान को याद करो, सहायता अवश्य आएगी। सच्ची भक्ति असंभव को भी संभव बना देती है।",
+    "coverImage": "draupadi-akshaya-patra",
+    "tags": [
+      "Mahabharata",
+      "Draupadi",
+      "Krishna",
+      "devotion",
+      "faith"
+    ],
+    "bundled": false,
+    "version": 2
+  },
+  {
+    "id": "saint-tulsidas",
+    "title": "Young Tulsidas and His Devotion",
+    "titleHi": "तुलसीदास की भक्ति",
+    "category": "saint",
+    "ageGroup": "7-12",
+    "readTimeMinutes": 5,
+    "moral": "Devotion and determination can overcome any hardship. Through faith and love for God, even the most difficult life can produce something that inspires millions.",
+    "moralHi": "भक्ति और लगन से हर कठिनाई पर विजय पाई जा सकती है। ईश्वर के प्रति प्रेम और विश्वास से कठिन जीवन भी करोड़ों लोगों को प्रेरित कर सकता है।",
+    "coverImage": "young-tulsidas",
+    "tags": [
+      "Tulsidas",
+      "Ramcharitmanas",
+      "devotion",
+      "Ram",
+      "poetry"
+    ],
+    "bundled": false,
+    "version": 2
+  },
+  {
+    "id": "saint-kabir",
+    "title": "Kabir the Weaver Poet",
+    "titleHi": "कबीर दास",
+    "category": "saint",
+    "ageGroup": "7-12",
+    "readTimeMinutes": 5,
+    "moral": "God is one, and love is the only true religion. True wisdom means seeing beyond differences and treating every person as equal.",
+    "moralHi": "ईश्वर एक है और प्रेम ही सच्चा धर्म है। सच्ची बुद्धि का अर्थ है भेदभाव से ऊपर उठकर हर इंसान को समान समझना।",
+    "coverImage": "kabir-weaver-poet",
+    "tags": [
+      "Kabir",
+      "unity",
+      "poetry",
+      "doha",
+      "wisdom"
+    ],
+    "bundled": false,
+    "version": 2
+  },
+  {
+    "id": "saint-vivekananda-chicago",
+    "title": "Swami Vivekananda at the Parliament of Religions",
+    "titleHi": "विवेकानंद शिकागो में",
+    "category": "saint",
+    "ageGroup": "7-12",
+    "readTimeMinutes": 5,
+    "moral": "Be proud of who you are and where you come from. One person with courage and conviction can change how the whole world thinks.",
+    "moralHi": "अपनी पहचान और अपनी जड़ों पर गर्व करो। साहस और विश्वास वाला एक व्यक्ति पूरी दुनिया की सोच बदल सकता है।",
+    "coverImage": "vivekananda-chicago",
+    "tags": [
+      "Vivekananda",
+      "Chicago",
+      "Hinduism",
+      "courage",
+      "pride"
+    ],
+    "bundled": false,
+    "version": 2
+  },
+  {
+    "id": "saint-shankaracharya-chandala",
+    "title": "Adi Shankaracharya and the Chandala",
+    "titleHi": "आदि शंकराचार्य और चांडाल",
+    "category": "saint",
+    "ageGroup": "7-12",
+    "readTimeMinutes": 4,
+    "moral": "The divine lives in every being. True knowledge means seeing God in everyone, regardless of their birth or status.",
+    "moralHi": "हर प्राणी में परमात्मा का वास है। सच्चा ज्ञान वही है जो हर इंसान में ईश्वर को देखे, चाहे उसका जन्म या स्थान कुछ भी हो।",
+    "coverImage": "shankaracharya-chandala",
+    "tags": [
+      "Shankaracharya",
+      "equality",
+      "Advaita",
+      "wisdom",
+      "Varanasi"
+    ],
+    "bundled": false,
+    "version": 2
+  },
+  {
+    "id": "panchatantra-thirsty-crow",
+    "title": "The Thirsty Crow",
+    "titleHi": "प्यासा कौआ",
+    "category": "panchatantra",
+    "ageGroup": "3-6",
+    "readTimeMinutes": 2,
+    "moral": "Where there is a will, there is a way. Patience and clever thinking solve even the hardest problems.",
+    "moralHi": "जहाँ चाह, वहाँ राह। धैर्य और सूझबूझ से कठिन से कठिन समस्या भी हल हो जाती है।",
+    "coverImage": null,
+    "tags": [
+      "cleverness",
+      "patience",
+      "determination",
+      "animals"
+    ],
+    "bundled": false,
+    "version": 2
+  },
+  {
+    "id": "vedic-agni-hymn",
+    "title": "The First Hymn to Agni",
+    "titleHi": "अग्नि की प्रथम स्तुति",
+    "category": "vedic",
+    "ageGroup": "7-12",
+    "readTimeMinutes": 3,
+    "moral": "Fire is not just a flame — it is the messenger between humans and the divine. Gratitude to nature is the beginning of wisdom.",
+    "moralHi": "अग्नि केवल लौ नहीं — वह मनुष्य और देवताओं के बीच का दूत है। प्रकृति के प्रति कृतज्ञता ही ज्ञान की शुरुआत है।",
+    "coverImage": null,
+    "tags": [
+      "vedas",
+      "agni",
+      "fire",
+      "gratitude",
+      "rigveda"
+    ],
+    "bundled": false,
+    "version": 2
+  }
+]

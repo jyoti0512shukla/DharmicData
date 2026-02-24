@@ -1,0 +1,45 @@
+{
+  "id": "panchatantra-loyal-mongoose",
+  "title": "The Loyal Mongoose",
+  "titleHi": "वफादार नेवला",
+  "category": "panchatantra",
+  "ageGroup": "3-6",
+  "readTimeMinutes": 3,
+  "moral": "Never act in anger without knowing the full truth. Haste and anger can lead to terrible mistakes.",
+  "moralHi": "बिना सच जाने गुस्से में कभी कोई काम नहीं करना चाहिए। जल्दबाज़ी और गुस्से से बड़ी भूल हो सकती है।",
+  "coverImage": "loyal-mongoose",
+  "tags": [
+    "loyalty",
+    "patience",
+    "animals",
+    "trust"
+  ],
+  "sections": [
+    {
+      "heading": null,
+      "text": "A kind farmer and his wife lived in a small village. They had a baby boy whom they loved very much. They also had a pet mongoose who was gentle and playful. The mongoose loved the baby and would sit near his cradle all day, watching over him like a guard.",
+      "image": "loyal-mongoose-01"
+    },
+    {
+      "heading": "Left to Guard the Baby",
+      "text": "One day, the farmer's wife needed to fetch water from the well. She looked at the mongoose and said, 'Watch over my baby while I am gone.' The mongoose sat beside the cradle, alert and watchful. The baby slept peacefully, and the little mongoose kept his eyes open for any danger.",
+      "image": "loyal-mongoose-02"
+    },
+    {
+      "heading": "The Snake Comes",
+      "text": "Suddenly, a big black cobra slithered into the house through a crack in the wall. It was heading straight toward the sleeping baby! The brave mongoose jumped up at once. He fought the cobra with all his strength, biting and scratching. It was a fierce battle, but the mongoose was quick and brave. At last, the mongoose killed the snake and saved the baby.",
+      "image": "loyal-mongoose-03"
+    },
+    {
+      "heading": "The Terrible Mistake",
+      "text": "The mongoose was so happy that he ran to the door to greet the farmer's wife. His mouth and paws were red with the snake's blood. When the wife saw the blood, she screamed, 'You have hurt my baby!' Without thinking, she threw the heavy water pot at the mongoose. The poor, loyal mongoose fell to the ground.",
+      "image": "loyal-mongoose-04"
+    },
+    {
+      "heading": "The Sad Truth",
+      "text": "The wife rushed inside, her heart pounding. But the baby was sleeping peacefully, without a single scratch. Then she saw the dead cobra lying on the floor near the cradle. She understood everything at once. The mongoose had saved her baby's life! She fell to her knees and cried, filled with sadness. 'I was too hasty,' she wept. 'I should have looked before I acted.' She never forgot this lesson — always find out the truth before acting in anger.",
+      "image": "loyal-mongoose-05"
+    }
+  ],
+  "version": 1
+}

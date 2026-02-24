@@ -1,0 +1,49 @@
+{
+  "id": "panchatantra-monkey-crocodile",
+  "title": "The Monkey and the Crocodile",
+  "titleHi": "बंदर और मगरमच्छ",
+  "category": "panchatantra",
+  "ageGroup": "3-6",
+  "readTimeMinutes": 3,
+  "moral": "True friends never betray each other. Quick thinking can save you from danger.",
+  "moralHi": "सच्चे मित्र कभी विश्वासघात नहीं करते। सूझबूझ से हर खतरे से बचा जा सकता है।",
+  "coverImage": "monkey-crocodile",
+  "tags": [
+    "friendship",
+    "cleverness",
+    "animals"
+  ],
+  "sections": [
+    {
+      "heading": null,
+      "text": "Once upon a time, a monkey lived in a big jamun tree on the bank of a river. The tree was full of sweet, juicy jamun fruits. Every day, the monkey would eat the fruits happily and swing from branch to branch.",
+      "image": "monkey-crocodile-01"
+    },
+    {
+      "heading": "A New Friend",
+      "text": "One day, a crocodile swam up to the riverbank. He was tired and hungry. The kind monkey threw some jamun fruits down to him. The crocodile loved the sweet fruits! From that day, the monkey and the crocodile became good friends. Every day, they would talk and share fruits together.",
+      "image": "monkey-crocodile-02"
+    },
+    {
+      "heading": "The Crocodile's Wife",
+      "text": "The crocodile took some fruits home to his wife. She tasted them and said, 'These fruits are so sweet! The monkey who eats them every day must have the sweetest heart. Bring me his heart!' The crocodile was shocked. He did not want to hurt his friend. But his wife insisted again and again.",
+      "image": "monkey-crocodile-03"
+    },
+    {
+      "heading": "A Dangerous Ride",
+      "text": "The next day, the crocodile invited the monkey to his home for dinner. 'Climb on my back,' he said, 'I will carry you across the river.' The monkey happily agreed and climbed onto the crocodile's back. When they were in the middle of the deep river, the crocodile said sadly, 'Friend, my wife wants your heart. I am sorry, but I must take it to her.'",
+      "image": "monkey-crocodile-04"
+    },
+    {
+      "heading": "The Clever Monkey",
+      "text": "The monkey was scared, but he thought quickly. 'Oh dear!' he said. 'Why didn't you tell me before? I left my heart hanging on the jamun tree! Please take me back and I will get it for you.' The foolish crocodile believed him and swam back to the riverbank. The moment they reached the tree, the monkey jumped up to the highest branch.",
+      "image": "monkey-crocodile-05"
+    },
+    {
+      "heading": "The Lesson",
+      "text": "'You silly crocodile!' the monkey called from the top of the tree. 'Nobody keeps their heart outside their body! You tried to trick me, so our friendship is over.' The crocodile felt ashamed and swam away. And the clever monkey lived happily in his jamun tree, always remembering that quick thinking can save you from any danger.",
+      "image": "monkey-crocodile-06"
+    }
+  ],
+  "version": 1
+}

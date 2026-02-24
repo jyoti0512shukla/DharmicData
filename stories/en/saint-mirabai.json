@@ -1,0 +1,46 @@
+{
+  "id": "saint-mirabai",
+  "title": "Mirabai and Her Love for Krishna",
+  "titleHi": "मीराबाई और कृष्ण प्रेम",
+  "category": "saint",
+  "ageGroup": "7-12",
+  "readTimeMinutes": 5,
+  "moral": "True devotion cannot be stopped by anyone. When your heart is pure and your love is true, nothing in the world can shake your faith.",
+  "moralHi": "सच्ची भक्ति को कोई रोक नहीं सकता। जब हृदय शुद्ध हो और प्रेम सच्चा हो, तो दुनिया की कोई ताकत आपका विश्वास नहीं डिगा सकती।",
+  "coverImage": "mirabai-krishna",
+  "tags": [
+    "Mirabai",
+    "Krishna",
+    "devotion",
+    "courage",
+    "music"
+  ],
+  "sections": [
+    {
+      "heading": null,
+      "text": "In the royal kingdom of Mewar in Rajasthan, a little princess named Mira was born. From the time she was very young, Mira was different from other princesses. While other girls played with dolls and jewelry, Mira spent her time singing songs to a small idol of Lord Krishna.",
+      "image": "mirabai-01"
+    },
+    {
+      "heading": "The Little Idol",
+      "text": "One day, when Mira was just five years old, a wandering saint visited her family's palace. He carried a beautiful small idol of Krishna playing his flute. Little Mira's eyes lit up when she saw it. 'Can I have it?' she asked. The saint smiled and gave her the idol. From that day, Mira treated the idol as her dearest friend. She talked to it, sang to it, and carried it everywhere.",
+      "image": "mirabai-02"
+    },
+    {
+      "heading": "A Princess Who Sang",
+      "text": "When Mira grew up, she was married to Prince Bhoj Raj of Mewar. But even in the grand palace, Mira continued singing bhajans to Krishna. She would sit in the temple for hours, lost in devotion. The royal family was not happy. 'A queen should attend court, not sit in temples singing!' they said. But Mira would only smile and continue her songs.",
+      "image": "mirabai-03"
+    },
+    {
+      "heading": "Trials and Poison",
+      "text": "The king, Rana Vikramaditya, tried everything to stop Mira's devotion. He sent her a cup of poison, saying it was holy water. Mira drank it fearlessly, chanting Krishna's name — and the poison did not harm her. He sent a basket with a snake inside, calling it a flower garland. When Mira opened it, the snake had turned into a garland of flowers. Nothing could shake her faith.",
+      "image": "mirabai-04"
+    },
+    {
+      "heading": "Songs That Live Forever",
+      "text": "Eventually, Mira left the palace and traveled across India, singing her bhajans in temples, streets, and villages. People from all walks of life gathered to hear her sing. Her songs were so full of love and longing for Krishna that they moved everyone who heard them. Even today, nearly five hundred years later, Mira's bhajans are sung in homes and temples across India. Her most famous song begins: 'Mere to Giridhar Gopal, doosra na koi' — My Lord is Giridhar Gopal, there is no other.",
+      "image": "mirabai-05"
+    }
+  ],
+  "version": 2
+}

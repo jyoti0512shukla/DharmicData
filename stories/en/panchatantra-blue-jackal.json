@@ -1,0 +1,50 @@
+{
+  "id": "panchatantra-blue-jackal",
+  "title": "The Blue Jackal",
+  "titleHi": "नीला सियार",
+  "category": "panchatantra",
+  "ageGroup": "3-6",
+  "readTimeMinutes": 3,
+  "moral": "Pretending to be someone you are not will always end in trouble. Be proud of who you really are.",
+  "moralHi": "जो खुद को कुछ और बताता है, वह एक दिन ज़रूर पकड़ा जाता है। अपने असली रूप पर गर्व करो।",
+  "coverImage": "blue-jackal",
+  "tags": [
+    "honesty",
+    "pride",
+    "animals",
+    "cleverness"
+  ],
+  "sections": [
+    {
+      "heading": null,
+      "text": "Once upon a time, a jackal named Chandarava lived near a forest. He was always hungry and looking for food. One evening, he wandered into a nearby village to find something to eat.",
+      "image": "blue-jackal-01"
+    },
+    {
+      "heading": "The Tub of Blue Dye",
+      "text": "In the village, a group of dogs began to chase the jackal. He ran and ran as fast as he could! He jumped into a big tub to hide. The tub was full of bright blue dye that a cloth maker used. When the dogs left, the jackal climbed out. His whole body had turned bright blue from head to tail!",
+      "image": "blue-jackal-02"
+    },
+    {
+      "heading": "The King of the Forest",
+      "text": "The jackal went back to the forest. When the other animals saw him, they were scared. They had never seen a blue animal before! The clever jackal had an idea. 'I am a special creature sent from the heavens to be your king!' he announced in a loud voice. All the animals — the lions, tigers, elephants, and deer — believed him and bowed down.",
+      "image": "blue-jackal-03"
+    },
+    {
+      "heading": "A Grand Life",
+      "text": "The blue jackal became the king of the forest. The other animals brought him the best food and fruits. He sat on a high rock like a throne. He gave orders and everyone obeyed. He even told the other jackals to stay far away, because he was afraid they would recognize him.",
+      "image": "blue-jackal-04"
+    },
+    {
+      "heading": "The Howl That Gave Him Away",
+      "text": "One night, a group of jackals at the edge of the forest began to howl at the moon. 'Owoooo! Owoooo!' they cried. The blue jackal heard them and could not stop himself. Howling was in his nature! He lifted his head and howled loudly, 'Owoooo!' The other animals heard his howl and instantly knew the truth. 'He is not a heavenly creature — he is just a jackal!' they shouted.",
+      "image": "blue-jackal-05"
+    },
+    {
+      "heading": "The Lesson",
+      "text": "The angry animals chased the blue jackal far away from the forest. He lost his throne, his food, and all his power. If only he had been honest and not pretended to be something he was not, he could have lived happily with his own friends. Always remember — be proud of who you really are.",
+      "image": "blue-jackal-06"
+    }
+  ],
+  "version": 1
+}

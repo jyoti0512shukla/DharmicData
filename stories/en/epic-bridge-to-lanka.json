@@ -1,0 +1,46 @@
+{
+  "id": "epic-bridge-to-lanka",
+  "title": "The Bridge to Lanka",
+  "titleHi": "लंका का पुल",
+  "category": "epic",
+  "ageGroup": "3-6",
+  "readTimeMinutes": 4,
+  "moral": "When we work together and have faith, even the impossible becomes possible. Love and teamwork can build bridges across any ocean.",
+  "moralHi": "जब हम मिलकर काम करते हैं और विश्वास रखते हैं, तो असंभव भी संभव हो जाता है। प्रेम और मेहनत से हर समुद्र पार किया जा सकता है।",
+  "coverImage": "bridge-to-lanka",
+  "tags": [
+    "Ramayana",
+    "Ram",
+    "Hanuman",
+    "teamwork",
+    "faith"
+  ],
+  "sections": [
+    {
+      "heading": null,
+      "text": "Lord Ram and his big army of monkeys and bears stood at the edge of a very, very wide ocean. Far, far away across the water was the island of Lanka, where the mean king Ravana had taken Sita. Ram needed to cross the ocean, but there were no boats big enough for his whole army.",
+      "image": "bridge-to-lanka-01"
+    },
+    {
+      "heading": "Asking the Ocean",
+      "text": "Ram sat by the water and prayed to the Ocean God. 'Please, let my army cross,' he asked politely. The Ocean God rose up from the waves and bowed. 'I cannot hold back all my water,' he said, 'but two special monkeys in your army — Nala and Neel — have a magical gift. Any stone they touch will float on water! Build a bridge of stones, and I will hold it up.'",
+      "image": "bridge-to-lanka-02"
+    },
+    {
+      "heading": "Stones That Float",
+      "text": "Nala and Neel were so happy! They started picking up big rocks and writing 'Ram' on each one. When they placed the rocks in the ocean — splash! — the rocks did not sink. They floated! Every monkey in the army got excited and began to help. Big monkeys carried huge boulders. Small monkeys carried little pebbles. Even tiny squirrels rolled grains of sand to fill the gaps.",
+      "image": "bridge-to-lanka-03"
+    },
+    {
+      "heading": "The Little Squirrel",
+      "text": "Some big monkeys laughed at a tiny squirrel. 'You are too small to help!' they said. But Lord Ram picked up the little squirrel gently and stroked its back with his three fingers. 'Every bit of help matters,' Ram said with a smile. 'This little squirrel's love is just as great as yours.' That is why, even today, squirrels in India have three stripes on their back — from Ram's loving fingers.",
+      "image": "bridge-to-lanka-04"
+    },
+    {
+      "heading": "The Bridge Is Ready",
+      "text": "For five days and five nights, the whole army worked together without stopping. Stone by stone, the bridge grew longer and longer across the ocean. When it was finished, it stretched all the way to Lanka! Ram smiled proudly at his friends. 'We built this together,' he said. The monkeys, bears, and squirrels all cheered. Then the mighty army marched across the bridge to rescue Sita, ready to face Ravana with courage and love in their hearts.",
+      "image": "bridge-to-lanka-05"
+    }
+  ],
+  "version": 2
+}
