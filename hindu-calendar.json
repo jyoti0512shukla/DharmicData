@@ -303,6 +303,7 @@
     {"date": "2026-01-14", "name": "Shattila Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "shattila_ekadashi"},
     {"date": "2026-01-23", "name": "Vasant Panchami", "category": "festival", "tithi": "Panchami", "paksha": "Shukla Paksha", "template": "vasant_panchami"},
     {"date": "2026-01-29", "name": "Jaya Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "jaya_ekadashi"},
+    {"date": "2026-02-05", "name": "Ratha Saptami", "category": "festival", "tithi": "Saptami", "paksha": "Shukla Paksha", "template": "ratha_saptami"},
     {"date": "2026-02-13", "name": "Vijaya Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "vijaya_ekadashi"},
     {"date": "2026-02-15", "name": "Maha Shivaratri", "category": "vrat", "tithi": "Chaturdashi", "paksha": "Krishna Paksha", "template": "maha_shivaratri", "pujaId": "shiva-puja"},
     {"date": "2026-02-20", "name": "Ratha Saptami", "category": "festival", "tithi": "Saptami", "paksha": "Shukla Paksha", "template": "ratha_saptami"},
