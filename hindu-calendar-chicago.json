@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 1,
   "description": "Hindu Calendar - Festivals, Vrats & Ekadashi (2025-2030) (chicago)",
   "sources": [
     "TithiToday",
@@ -605,16 +605,196 @@
         "Sins"
       ]
     },
-    "ratha_saptami": {
-      "significance": "Sun God's birthday. Worship Surya for health, prosperity, and victory.",
+    "sankashti": {
+      "significance": "Krishna Paksha Chaturthi. Worship Lord Ganesha for removal of obstacles.",
       "practices": [
-        "Surya puja at sunrise",
-        "Offer arghya",
-        "Eat jaggery and sesame"
+        "Fast till moonrise",
+        "Ganesha puja",
+        "Chant Ganesha mantras"
       ],
       "avoid": [
-        "Sleeping late",
-        "Disrespect to elders"
+        "Eating before moonrise",
+        "Negative thoughts"
+      ]
+    },
+    "pradosh_vrat": {
+      "significance": "Trayodashi vrat dedicated to Lord Shiva. Pradosham occurs twice a month.",
+      "practices": [
+        "Fast",
+        "Shiva puja during Pradosham Kaal",
+        "Offer bilva leaves"
+      ],
+      "avoid": [
+        "Eating before moonrise",
+        "Anger"
+      ]
+    },
+    "magha_purnima": {
+      "significance": "Magha Purnima. Holy bath and charity bring great merit.",
+      "practices": [
+        "Holy bath",
+        "Charity",
+        "Donate to poor"
+      ],
+      "avoid": [
+        "Negative deeds",
+        "Harming others"
+      ]
+    },
+    "pausha_purnima": {
+      "significance": "Pausha Purnima. Shakambhari Jayanti. Sacred day for fasting.",
+      "practices": [
+        "Fast",
+        "Shakambhari Devi puja",
+        "Charity"
+      ],
+      "avoid": [
+        "Non-veg",
+        "Alcohol"
+      ]
+    },
+    "phulera_dooj": {
+      "significance": "Phalguna Shukla Dwitiya. Marks arrival of spring and Holi festivities.",
+      "practices": [
+        "Worship Radha-Krishna",
+        "Begin Holi preparations",
+        "Sing bhajans"
+      ],
+      "avoid": [
+        "Negativity",
+        "Conflict"
+      ]
+    },
+    "holika_dahan": {
+      "significance": "Eve of Holi. Burn Holika effigy; triumph of devotion over evil.",
+      "practices": [
+        "Holika Dahan",
+        "Circumambulate fire",
+        "Offer prayers"
+      ],
+      "avoid": [
+        "Negative thoughts",
+        "Sins"
+      ]
+    },
+    "ugadi": {
+      "significance": "Telugu/Kannada New Year. New beginnings and prosperity.",
+      "practices": [
+        "Ugadi Pachadi",
+        "New clothes",
+        "Temple visit"
+      ],
+      "avoid": [
+        "Negativity",
+        "Old grudges"
+      ]
+    },
+    "pongal": {
+      "significance": "Harvest festival of South India. Thanksgiving to nature.",
+      "practices": [
+        "Pongal offering",
+        "Worship Sun God",
+        "Feast with family"
+      ],
+      "avoid": [
+        "Food waste",
+        "Disrespect to farmers"
+      ]
+    },
+    "sakat_chauth": {
+      "significance": "Magha Krishna Chaturthi. Mothers fast for children's well-being.",
+      "practices": [
+        "Fast",
+        "Ganesha puja",
+        "Story of Ganesha and moon"
+      ],
+      "avoid": [
+        "Eating before moonrise",
+        "Looking at moon"
+      ]
+    },
+    "varalakshmi_vrat": {
+      "significance": "Worship Goddess Lakshmi for prosperity and family welfare.",
+      "practices": [
+        "Fast",
+        "Varalakshmi puja",
+        "Offer fruits and flowers"
+      ],
+      "avoid": [
+        "Negativity",
+        "Laziness"
+      ]
+    },
+    "tulasi_vivah": {
+      "significance": "Symbolic marriage of Tulsi with Lord Vishnu. End of Chaturmas.",
+      "practices": [
+        "Tulsi Vivah ceremony",
+        "Vishnu puja",
+        "Plant Tulsi"
+      ],
+      "avoid": [
+        "Plucking Tulsi on this day",
+        "Disrespect"
+      ]
+    },
+    "dahi_handi": {
+      "significance": "Janmashtami celebration. Human pyramid to break curd pot.",
+      "practices": [
+        "Dahi Handi",
+        "Team spirit",
+        "Krishna bhajans"
+      ],
+      "avoid": [
+        "Unsafe play",
+        "Ego"
+      ]
+    },
+    "pitrupaksha": {
+      "significance": "Fortnight of ancestors. Tarpan and Shraddha for departed souls.",
+      "practices": [
+        "Shraddha",
+        "Tarpan",
+        "Donate to Brahmins"
+      ],
+      "avoid": [
+        "New beginnings",
+        "Non-veg in some traditions"
+      ]
+    },
+    "lunar_eclipse": {
+      "significance": "Chandra Grahan. Auspicious for spiritual practices.",
+      "practices": [
+        "Sutak period awareness",
+        "Mantra japa",
+        "Charity after eclipse"
+      ],
+      "avoid": [
+        "Eating during sutak",
+        "Starting new work"
+      ]
+    },
+    "solar_eclipse": {
+      "significance": "Surya Grahan. Sacred time for meditation and donation.",
+      "practices": [
+        "Sutak observance",
+        "Surya mantra",
+        "Donate after eclipse"
+      ],
+      "avoid": [
+        "Eating during sutak",
+        "Looking at eclipse directly"
+      ]
+    },
+    "generic_festival": {
+      "significance": "Auspicious Hindu observance.",
+      "practices": [
+        "Prayer",
+        "Fasting if applicable",
+        "Charity"
+      ],
+      "avoid": [
+        "Negativity",
+        "Harmful activities"
       ]
     }
   },
@@ -685,7 +865,7 @@
       "template": "vijaya_ekadashi"
     },
     {
-      "date": "2025-03-13",
+      "date": "2025-03-14",
       "name": "Holi",
       "category": "festival",
       "tithi": "Purnima",
@@ -758,7 +938,7 @@
       "template": "mohini_ekadashi"
     },
     {
-      "date": "2025-05-29",
+      "date": "2025-05-30",
       "name": "Akshaya Tritiya",
       "category": "auspicious",
       "tithi": "Tritiya",
@@ -822,7 +1002,7 @@
       "template": "kamika_ekadashi"
     },
     {
-      "date": "2025-08-08",
+      "date": "2025-08-09",
       "name": "Raksha Bandhan",
       "category": "festival",
       "tithi": "Purnima",
@@ -846,7 +1026,7 @@
       "template": "shravana_putrada_ekadashi"
     },
     {
-      "date": "2025-08-26",
+      "date": "2025-08-27",
       "name": "Ganesh Chaturthi",
       "category": "festival",
       "tithi": "Chaturthi",
@@ -983,7 +1163,7 @@
       "template": "makar_sankranti"
     },
     {
-      "date": "2026-01-14",
+      "date": "2026-01-13",
       "name": "Shattila Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
@@ -1007,14 +1187,6 @@
       "template": "jaya_ekadashi"
     },
     {
-      "date": "2026-02-05",
-      "name": "Ratha Saptami",
-      "category": "festival",
-      "tithi": "Saptami",
-      "paksha": "Shukla Paksha",
-      "template": "ratha_saptami"
-    },
-    {
       "date": "2026-02-12",
       "name": "Vijaya Ekadashi",
       "category": "ekadashi",
@@ -1032,14 +1204,6 @@
       "pujaId": "shiva-puja"
     },
     {
-      "date": "2026-02-23",
-      "name": "Ratha Saptami",
-      "category": "festival",
-      "tithi": "Saptami",
-      "paksha": "Shukla Paksha",
-      "template": "ratha_saptami"
-    },
-    {
       "date": "2026-02-27",
       "name": "Amalaki Ekadashi",
       "category": "ekadashi",
@@ -1048,7 +1212,7 @@
       "template": "amalaki_ekadashi"
     },
     {
-      "date": "2026-03-03",
+      "date": "2026-03-04",
       "name": "Holi",
       "category": "festival",
       "tithi": "Purnima",
@@ -1199,6 +1363,15 @@
       "tithi": "Ekadashi",
       "paksha": "Krishna Paksha",
       "template": "aja_ekadashi"
+    },
+    {
+      "date": "2026-09-14",
+      "name": "Ganesh Chaturthi",
+      "category": "festival",
+      "tithi": "Chaturthi",
+      "paksha": "Shukla Paksha",
+      "template": "ganesh_chaturthi",
+      "pujaId": "ganesh-puja"
     },
     {
       "date": "2026-09-22",
@@ -1596,7 +1769,7 @@
       "template": "papankusha_ekadashi"
     },
     {
-      "date": "2027-10-19",
+      "date": "2027-10-18",
       "name": "Karwa Chauth",
       "category": "vrat",
       "tithi": "Chaturthi",
@@ -1854,7 +2027,7 @@
       "template": "kamika_ekadashi"
     },
     {
-      "date": "2028-07-30",
+      "date": "2028-07-31",
       "name": "Shravana Putrada Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
@@ -2233,7 +2406,7 @@
       "template": "janmashtami"
     },
     {
-      "date": "2029-09-03",
+      "date": "2029-09-04",
       "name": "Indira Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
@@ -2250,7 +2423,7 @@
       "pujaId": "ganesh-puja"
     },
     {
-      "date": "2029-09-17",
+      "date": "2029-09-18",
       "name": "Papankusha Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
@@ -2266,7 +2439,7 @@
       "template": "rama_ekadashi"
     },
     {
-      "date": "2029-10-07",
+      "date": "2029-10-08",
       "name": "Navratri Begins",
       "category": "festival",
       "tithi": "Pratipada",
@@ -2306,7 +2479,7 @@
       "template": "karwa_chauth"
     },
     {
-      "date": "2029-11-01",
+      "date": "2029-11-02",
       "name": "Utpanna Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
@@ -2354,7 +2527,7 @@
       "template": "chhath_puja"
     },
     {
-      "date": "2029-11-15",
+      "date": "2029-11-16",
       "name": "Mokshada Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
@@ -2451,7 +2624,7 @@
       "template": "amalaki_ekadashi"
     },
     {
-      "date": "2030-03-20",
+      "date": "2030-03-19",
       "name": "Holi",
       "category": "festival",
       "tithi": "Purnima",
@@ -2484,7 +2657,7 @@
       "pujaId": "sriramanavami-puja"
     },
     {
-      "date": "2030-04-13",
+      "date": "2030-04-14",
       "name": "Kamada Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
@@ -2532,7 +2705,7 @@
       "template": "yogini_ekadashi"
     },
     {
-      "date": "2030-07-10",
+      "date": "2030-07-11",
       "name": "Devshayani Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
@@ -2540,7 +2713,7 @@
       "template": "devshayani_ekadashi"
     },
     {
-      "date": "2030-07-15",
+      "date": "2030-07-14",
       "name": "Guru Purnima",
       "category": "purnima",
       "tithi": "Purnima",
@@ -2605,7 +2778,7 @@
       "template": "parivartini_ekadashi"
     },
     {
-      "date": "2030-09-22",
+      "date": "2030-09-23",
       "name": "Indira Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
@@ -2693,7 +2866,7 @@
       "template": "bhai_dooj"
     },
     {
-      "date": "2030-11-01",
+      "date": "2030-10-31",
       "name": "Chhath Puja",
       "category": "vrat",
       "tithi": "Shashthi",

@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "description": "Hindu Calendar - Festivals, Vrats & Ekadashi (2025-2030) (newyork)",
+  "version": 1,
+  "description": "Hindu Calendar (newyork, 2025-2030) - Drik Panchang 2026-28",
   "sources": [
     "TithiToday",
     "calendar-bharat",
@@ -605,16 +605,196 @@
         "Sins"
       ]
     },
-    "ratha_saptami": {
-      "significance": "Sun God's birthday. Worship Surya for health, prosperity, and victory.",
+    "sankashti": {
+      "significance": "Krishna Paksha Chaturthi. Worship Lord Ganesha for removal of obstacles.",
       "practices": [
-        "Surya puja at sunrise",
-        "Offer arghya",
-        "Eat jaggery and sesame"
+        "Fast till moonrise",
+        "Ganesha puja",
+        "Chant Ganesha mantras"
       ],
       "avoid": [
-        "Sleeping late",
-        "Disrespect to elders"
+        "Eating before moonrise",
+        "Negative thoughts"
+      ]
+    },
+    "pradosh_vrat": {
+      "significance": "Trayodashi vrat dedicated to Lord Shiva. Pradosham occurs twice a month.",
+      "practices": [
+        "Fast",
+        "Shiva puja during Pradosham Kaal",
+        "Offer bilva leaves"
+      ],
+      "avoid": [
+        "Eating before moonrise",
+        "Anger"
+      ]
+    },
+    "magha_purnima": {
+      "significance": "Magha Purnima. Holy bath and charity bring great merit.",
+      "practices": [
+        "Holy bath",
+        "Charity",
+        "Donate to poor"
+      ],
+      "avoid": [
+        "Negative deeds",
+        "Harming others"
+      ]
+    },
+    "pausha_purnima": {
+      "significance": "Pausha Purnima. Shakambhari Jayanti. Sacred day for fasting.",
+      "practices": [
+        "Fast",
+        "Shakambhari Devi puja",
+        "Charity"
+      ],
+      "avoid": [
+        "Non-veg",
+        "Alcohol"
+      ]
+    },
+    "phulera_dooj": {
+      "significance": "Phalguna Shukla Dwitiya. Marks arrival of spring and Holi festivities.",
+      "practices": [
+        "Worship Radha-Krishna",
+        "Begin Holi preparations",
+        "Sing bhajans"
+      ],
+      "avoid": [
+        "Negativity",
+        "Conflict"
+      ]
+    },
+    "holika_dahan": {
+      "significance": "Eve of Holi. Burn Holika effigy; triumph of devotion over evil.",
+      "practices": [
+        "Holika Dahan",
+        "Circumambulate fire",
+        "Offer prayers"
+      ],
+      "avoid": [
+        "Negative thoughts",
+        "Sins"
+      ]
+    },
+    "ugadi": {
+      "significance": "Telugu/Kannada New Year. New beginnings and prosperity.",
+      "practices": [
+        "Ugadi Pachadi",
+        "New clothes",
+        "Temple visit"
+      ],
+      "avoid": [
+        "Negativity",
+        "Old grudges"
+      ]
+    },
+    "pongal": {
+      "significance": "Harvest festival of South India. Thanksgiving to nature.",
+      "practices": [
+        "Pongal offering",
+        "Worship Sun God",
+        "Feast with family"
+      ],
+      "avoid": [
+        "Food waste",
+        "Disrespect to farmers"
+      ]
+    },
+    "sakat_chauth": {
+      "significance": "Magha Krishna Chaturthi. Mothers fast for children's well-being.",
+      "practices": [
+        "Fast",
+        "Ganesha puja",
+        "Story of Ganesha and moon"
+      ],
+      "avoid": [
+        "Eating before moonrise",
+        "Looking at moon"
+      ]
+    },
+    "varalakshmi_vrat": {
+      "significance": "Worship Goddess Lakshmi for prosperity and family welfare.",
+      "practices": [
+        "Fast",
+        "Varalakshmi puja",
+        "Offer fruits and flowers"
+      ],
+      "avoid": [
+        "Negativity",
+        "Laziness"
+      ]
+    },
+    "tulasi_vivah": {
+      "significance": "Symbolic marriage of Tulsi with Lord Vishnu. End of Chaturmas.",
+      "practices": [
+        "Tulsi Vivah ceremony",
+        "Vishnu puja",
+        "Plant Tulsi"
+      ],
+      "avoid": [
+        "Plucking Tulsi on this day",
+        "Disrespect"
+      ]
+    },
+    "dahi_handi": {
+      "significance": "Janmashtami celebration. Human pyramid to break curd pot.",
+      "practices": [
+        "Dahi Handi",
+        "Team spirit",
+        "Krishna bhajans"
+      ],
+      "avoid": [
+        "Unsafe play",
+        "Ego"
+      ]
+    },
+    "pitrupaksha": {
+      "significance": "Fortnight of ancestors. Tarpan and Shraddha for departed souls.",
+      "practices": [
+        "Shraddha",
+        "Tarpan",
+        "Donate to Brahmins"
+      ],
+      "avoid": [
+        "New beginnings",
+        "Non-veg in some traditions"
+      ]
+    },
+    "lunar_eclipse": {
+      "significance": "Chandra Grahan. Auspicious for spiritual practices.",
+      "practices": [
+        "Sutak period awareness",
+        "Mantra japa",
+        "Charity after eclipse"
+      ],
+      "avoid": [
+        "Eating during sutak",
+        "Starting new work"
+      ]
+    },
+    "solar_eclipse": {
+      "significance": "Surya Grahan. Sacred time for meditation and donation.",
+      "practices": [
+        "Sutak observance",
+        "Surya mantra",
+        "Donate after eclipse"
+      ],
+      "avoid": [
+        "Eating during sutak",
+        "Looking at eclipse directly"
+      ]
+    },
+    "generic_festival": {
+      "significance": "Auspicious Hindu observance.",
+      "practices": [
+        "Prayer",
+        "Fasting if applicable",
+        "Charity"
+      ],
+      "avoid": [
+        "Negativity",
+        "Harmful activities"
       ]
     }
   },
@@ -975,12 +1155,52 @@
       "template": "mokshada_ekadashi"
     },
     {
+      "date": "2026-01-02",
+      "name": "Pausha Purnima",
+      "category": "purnima",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "pausha_purnima"
+    },
+    {
+      "date": "2026-01-02",
+      "name": "Shakambhari Purnima",
+      "category": "purnima",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "pausha_purnima"
+    },
+    {
+      "date": "2026-01-06",
+      "name": "Lambodara Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
+    },
+    {
+      "date": "2026-01-06",
+      "name": "Sakat Chauth",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "",
+      "template": "sakat_chauth"
+    },
+    {
       "date": "2026-01-14",
-      "name": "Makar Sankranti",
+      "name": "Makara Sankranti",
       "category": "festival",
       "tithi": "Sankranti",
       "paksha": "",
       "template": "makar_sankranti"
+    },
+    {
+      "date": "2026-01-14",
+      "name": "Pongal",
+      "category": "festival",
+      "tithi": "Sankranti",
+      "paksha": "",
+      "template": "pongal"
     },
     {
       "date": "2026-01-14",
@@ -991,11 +1211,35 @@
       "template": "shattila_ekadashi"
     },
     {
+      "date": "2026-01-15",
+      "name": "Guru Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2026-01-18",
+      "name": "Magha Amavasya",
+      "category": "vrat",
+      "tithi": "Amavasya",
+      "paksha": "Krishna Paksha",
+      "template": "generic_festival"
+    },
+    {
+      "date": "2026-01-18",
+      "name": "Mauni Amavas",
+      "category": "vrat",
+      "tithi": "Amavasya",
+      "paksha": "Krishna Paksha",
+      "template": "generic_festival"
+    },
+    {
       "date": "2026-01-23",
       "name": "Vasant Panchami",
       "category": "festival",
       "tithi": "Panchami",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "vasant_panchami"
     },
     {
@@ -1003,16 +1247,32 @@
       "name": "Jaya Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "jaya_ekadashi"
     },
     {
-      "date": "2026-02-05",
-      "name": "Ratha Saptami",
-      "category": "festival",
-      "tithi": "Saptami",
+      "date": "2026-01-30",
+      "name": "Shukra Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
       "paksha": "Shukla Paksha",
-      "template": "ratha_saptami"
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2026-02-01",
+      "name": "Magha Purnima",
+      "category": "purnima",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "magha_purnima"
+    },
+    {
+      "date": "2026-02-04",
+      "name": "Dwijapriya Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2026-02-12",
@@ -1023,29 +1283,61 @@
       "template": "vijaya_ekadashi"
     },
     {
+      "date": "2026-02-14",
+      "name": "Shani Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
       "date": "2026-02-15",
       "name": "Maha Shivaratri",
       "category": "vrat",
       "tithi": "Chaturdashi",
-      "paksha": "Krishna Paksha",
+      "paksha": "",
       "template": "maha_shivaratri",
       "pujaId": "shiva-puja"
     },
     {
-      "date": "2026-02-23",
-      "name": "Ratha Saptami",
+      "date": "2026-02-18",
+      "name": "Phulera Dooj",
       "category": "festival",
-      "tithi": "Saptami",
-      "paksha": "Shukla Paksha",
-      "template": "ratha_saptami"
+      "tithi": "Dwitiya",
+      "paksha": "",
+      "template": "phulera_dooj"
     },
     {
       "date": "2026-02-27",
       "name": "Amalaki Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "amalaki_ekadashi"
+    },
+    {
+      "date": "2026-02-28",
+      "name": "Shani Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2026-03-02",
+      "name": "Chhoti Holi",
+      "category": "festival",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "holi"
+    },
+    {
+      "date": "2026-03-02",
+      "name": "Holika Dahan",
+      "category": "festival",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "holika_dahan"
     },
     {
       "date": "2026-03-03",
@@ -1056,27 +1348,75 @@
       "template": "holi"
     },
     {
+      "date": "2026-03-03",
+      "name": "Phalguna Purnima",
+      "category": "festival",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "holi"
+    },
+    {
+      "date": "2026-03-03",
+      "name": "Vasanta Purnima",
+      "category": "festival",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "holi"
+    },
+    {
+      "date": "2026-03-04",
+      "name": "Bhai Dooj",
+      "category": "festival",
+      "tithi": "Dwitiya",
+      "paksha": "",
+      "template": "bhai_dooj"
+    },
+    {
+      "date": "2026-03-06",
+      "name": "Bhalachandra Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
+    },
+    {
       "date": "2026-03-14",
-      "name": "Papmochani Ekadashi",
+      "name": "Papamochani Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
       "paksha": "Krishna Paksha",
       "template": "papmochani_ekadashi"
     },
     {
+      "date": "2026-03-16",
+      "name": "Soma Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
       "date": "2026-03-19",
       "name": "Gudi Padwa",
       "category": "festival",
       "tithi": "Pratipada",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "gudi_padwa"
     },
     {
+      "date": "2026-03-19",
+      "name": "Ugadi",
+      "category": "festival",
+      "tithi": "Pratipada",
+      "paksha": "",
+      "template": "ugadi"
+    },
+    {
       "date": "2026-03-26",
-      "name": "Ram Navami",
+      "name": "Rama Navami",
       "category": "festival",
       "tithi": "Navami",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "ram_navami",
       "pujaId": "sriramanavami-puja"
     },
@@ -1085,8 +1425,40 @@
       "name": "Kamada Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "kamada_ekadashi"
+    },
+    {
+      "date": "2026-03-30",
+      "name": "Soma Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2026-04-01",
+      "name": "Hanuman Janmotsava",
+      "category": "festival",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "hanuman_jayanti"
+    },
+    {
+      "date": "2026-04-01",
+      "name": "Hanuman Jayanti",
+      "category": "festival",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "hanuman_jayanti"
+    },
+    {
+      "date": "2026-04-05",
+      "name": "Vikata Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2026-04-13",
@@ -1097,12 +1469,44 @@
       "template": "varuthini_ekadashi"
     },
     {
+      "date": "2026-04-14",
+      "name": "Bhauma Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2026-04-19",
+      "name": "Akshaya Tritiya",
+      "category": "auspicious",
+      "tithi": "Tritiya",
+      "paksha": "",
+      "template": "akshaya_tritiya"
+    },
+    {
       "date": "2026-04-27",
       "name": "Mohini Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "mohini_ekadashi"
+    },
+    {
+      "date": "2026-04-28",
+      "name": "Bhauma Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2026-05-04",
+      "name": "Ekadanta Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2026-05-12",
@@ -1113,12 +1517,36 @@
       "template": "apara_ekadashi"
     },
     {
+      "date": "2026-05-14",
+      "name": "Guru Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
       "date": "2026-05-26",
       "name": "Padmini Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "padmini_ekadashi"
+    },
+    {
+      "date": "2026-05-28",
+      "name": "Guru Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2026-06-03",
+      "name": "Vibhuvana Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2026-06-11",
@@ -1129,12 +1557,36 @@
       "template": "parama_ekadashi"
     },
     {
+      "date": "2026-06-12",
+      "name": "Shukra Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
       "date": "2026-06-25",
       "name": "Nirjala Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "nirjala_ekadashi"
+    },
+    {
+      "date": "2026-06-26",
+      "name": "Shukra Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2026-07-03",
+      "name": "Krishnapingala Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2026-07-10",
@@ -1145,12 +1597,28 @@
       "template": "yogini_ekadashi"
     },
     {
+      "date": "2026-07-11",
+      "name": "Shani Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
       "date": "2026-07-24",
       "name": "Devshayani Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "devshayani_ekadashi"
+    },
+    {
+      "date": "2026-07-26",
+      "name": "Ravi Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
     },
     {
       "date": "2026-07-29",
@@ -1161,6 +1629,14 @@
       "template": "guru_purnima"
     },
     {
+      "date": "2026-08-01",
+      "name": "Gajanana Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
+    },
+    {
       "date": "2026-08-08",
       "name": "Kamika Ekadashi",
       "category": "ekadashi",
@@ -1169,12 +1645,52 @@
       "template": "kamika_ekadashi"
     },
     {
+      "date": "2026-08-10",
+      "name": "Soma Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2026-08-16",
+      "name": "Nag Panchami",
+      "category": "festival",
+      "tithi": "Panchami",
+      "paksha": "",
+      "template": "nag_panchami"
+    },
+    {
+      "date": "2026-08-21",
+      "name": "Varalakshmi Vrat",
+      "category": "vrat",
+      "tithi": "Friday",
+      "paksha": "",
+      "template": "varalakshmi_vrat"
+    },
+    {
       "date": "2026-08-23",
       "name": "Shravana Putrada Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "shravana_putrada_ekadashi"
+    },
+    {
+      "date": "2026-08-25",
+      "name": "Bhauma Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2026-08-27",
+      "name": "Rakhi",
+      "category": "festival",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "raksha_bandhan"
     },
     {
       "date": "2026-08-27",
@@ -1185,15 +1701,23 @@
       "template": "raksha_bandhan"
     },
     {
-      "date": "2026-09-04",
-      "name": "Krishna Janmashtami",
-      "category": "festival",
-      "tithi": "Ashtami",
+      "date": "2026-08-31",
+      "name": "Heramba Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
       "paksha": "Krishna Paksha",
-      "template": "janmashtami"
+      "template": "sankashti"
     },
     {
-      "date": "2026-09-07",
+      "date": "2026-09-04",
+      "name": "Dahi Handi",
+      "category": "festival",
+      "tithi": "Ashtami",
+      "paksha": "",
+      "template": "dahi_handi"
+    },
+    {
+      "date": "2026-09-06",
       "name": "Aja Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
@@ -1201,12 +1725,53 @@
       "template": "aja_ekadashi"
     },
     {
+      "date": "2026-09-08",
+      "name": "Bhauma Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2026-09-14",
+      "name": "Ganesh Chaturthi",
+      "category": "festival",
+      "tithi": "Chaturthi",
+      "paksha": "",
+      "template": "ganesh_chaturthi",
+      "pujaId": "ganesh-puja"
+    },
+    {
       "date": "2026-09-22",
-      "name": "Parivartini Ekadashi",
+      "name": "Parsva Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
+      "paksha": "Krishna Paksha",
+      "template": "parama_ekadashi"
+    },
+    {
+      "date": "2026-09-23",
+      "name": "Budha Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
       "paksha": "Shukla Paksha",
-      "template": "parivartini_ekadashi"
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2026-09-26",
+      "name": "Pitrupaksha Begins",
+      "category": "vrat",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "pitrupaksha"
+    },
+    {
+      "date": "2026-09-29",
+      "name": "Vighnaraja Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2026-10-06",
@@ -1217,11 +1782,35 @@
       "template": "indira_ekadashi"
     },
     {
+      "date": "2026-10-07",
+      "name": "Budha Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2026-10-09",
+      "name": "Sarva Pitru Amavasya",
+      "category": "vrat",
+      "tithi": "Amavasya",
+      "paksha": "Krishna Paksha",
+      "template": "pitrupaksha"
+    },
+    {
+      "date": "2026-10-11",
+      "name": "Ghatasthapana",
+      "category": "festival",
+      "tithi": "Pratipada",
+      "paksha": "",
+      "template": "navratri"
+    },
+    {
       "date": "2026-10-11",
       "name": "Navratri Begins",
       "category": "festival",
       "tithi": "Pratipada",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "navratri"
     },
     {
@@ -1229,7 +1818,7 @@
       "name": "Maha Navami",
       "category": "festival",
       "tithi": "Navami",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "maha_navami"
     },
     {
@@ -1237,7 +1826,7 @@
       "name": "Dussehra",
       "category": "festival",
       "tithi": "Dashami",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "dussehra"
     },
     {
@@ -1245,16 +1834,32 @@
       "name": "Papankusha Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "papankusha_ekadashi"
     },
     {
-      "date": "2026-10-29",
+      "date": "2026-10-23",
+      "name": "Shukra Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2026-10-28",
       "name": "Karwa Chauth",
       "category": "vrat",
       "tithi": "Chaturthi",
-      "paksha": "Krishna Paksha",
+      "paksha": "",
       "template": "karwa_chauth"
+    },
+    {
+      "date": "2026-10-28",
+      "name": "Vakratunda Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2026-11-04",
@@ -1269,8 +1874,16 @@
       "name": "Dhanteras",
       "category": "festival",
       "tithi": "Trayodashi",
-      "paksha": "Krishna Paksha",
+      "paksha": "",
       "template": "dhanteras"
+    },
+    {
+      "date": "2026-11-06",
+      "name": "Shukra Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
     },
     {
       "date": "2026-11-08",
@@ -1281,19 +1894,27 @@
       "template": "diwali"
     },
     {
+      "date": "2026-11-08",
+      "name": "Lakshmi Puja",
+      "category": "festival",
+      "tithi": "Amavasya",
+      "paksha": "Krishna Paksha",
+      "template": "diwali"
+    },
+    {
       "date": "2026-11-09",
       "name": "Govardhan Puja",
       "category": "festival",
       "tithi": "Pratipada",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "govardhan_puja"
     },
     {
       "date": "2026-11-10",
-      "name": "Bhai Dooj",
+      "name": "Bhaiya Dooj",
       "category": "festival",
       "tithi": "Dwitiya",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "bhai_dooj"
     },
     {
@@ -1301,16 +1922,32 @@
       "name": "Chhath Puja",
       "category": "vrat",
       "tithi": "Shashthi",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "chhath_puja"
     },
     {
-      "date": "2026-11-20",
-      "name": "Devutthana Ekadashi",
-      "category": "ekadashi",
-      "tithi": "Ekadashi",
+      "date": "2026-11-21",
+      "name": "Shani Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
       "paksha": "Shukla Paksha",
-      "template": "devutthana_ekadashi"
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2026-11-21",
+      "name": "Tulasi Vivah",
+      "category": "festival",
+      "tithi": "Dwadashi",
+      "paksha": "",
+      "template": "tulasi_vivah"
+    },
+    {
+      "date": "2026-11-27",
+      "name": "Ganadhipa Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2026-12-04",
@@ -1321,12 +1958,36 @@
       "template": "utpanna_ekadashi"
     },
     {
-      "date": "2026-12-20",
+      "date": "2026-12-05",
+      "name": "Shani Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2026-12-19",
       "name": "Mokshada Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "mokshada_ekadashi"
+    },
+    {
+      "date": "2026-12-21",
+      "name": "Soma Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2026-12-26",
+      "name": "Akhuratha Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2027-01-02",
@@ -1337,20 +1998,76 @@
       "template": "saphala_ekadashi"
     },
     {
-      "date": "2027-01-15",
-      "name": "Makar Sankranti",
+      "date": "2027-01-04",
+      "name": "Soma Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2027-01-14",
+      "name": "Makara Sankranti",
       "category": "festival",
       "tithi": "Sankranti",
       "paksha": "",
       "template": "makar_sankranti"
     },
     {
+      "date": "2027-01-14",
+      "name": "Pongal",
+      "category": "festival",
+      "tithi": "Sankranti",
+      "paksha": "",
+      "template": "pongal"
+    },
+    {
       "date": "2027-01-18",
-      "name": "Putrada Ekadashi",
+      "name": "Pausha Putrada Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "putrada_ekadashi"
+    },
+    {
+      "date": "2027-01-19",
+      "name": "Bhauma Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2027-01-22",
+      "name": "Pausha Purnima",
+      "category": "purnima",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "pausha_purnima"
+    },
+    {
+      "date": "2027-01-22",
+      "name": "Shakambhari Purnima",
+      "category": "purnima",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "pausha_purnima"
+    },
+    {
+      "date": "2027-01-25",
+      "name": "Lambodara Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
+    },
+    {
+      "date": "2027-01-25",
+      "name": "Sakat Chauth",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "",
+      "template": "sakat_chauth"
     },
     {
       "date": "2027-02-01",
@@ -1361,20 +2078,68 @@
       "template": "shattila_ekadashi"
     },
     {
+      "date": "2027-02-03",
+      "name": "Budha Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2027-02-06",
+      "name": "Magha Amavasya",
+      "category": "vrat",
+      "tithi": "Amavasya",
+      "paksha": "Krishna Paksha",
+      "template": "generic_festival"
+    },
+    {
+      "date": "2027-02-06",
+      "name": "Mauni Amavas",
+      "category": "vrat",
+      "tithi": "Amavasya",
+      "paksha": "Krishna Paksha",
+      "template": "generic_festival"
+    },
+    {
       "date": "2027-02-11",
       "name": "Vasant Panchami",
       "category": "festival",
       "tithi": "Panchami",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "vasant_panchami"
     },
     {
-      "date": "2027-02-17",
+      "date": "2027-02-16",
       "name": "Jaya Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "jaya_ekadashi"
+    },
+    {
+      "date": "2027-02-18",
+      "name": "Guru Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2027-02-20",
+      "name": "Magha Purnima",
+      "category": "purnima",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "magha_purnima"
+    },
+    {
+      "date": "2027-02-23",
+      "name": "Dwijapriya Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2027-03-03",
@@ -1385,21 +2150,77 @@
       "template": "vijaya_ekadashi"
     },
     {
+      "date": "2027-03-05",
+      "name": "Shukra Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
       "date": "2027-03-06",
       "name": "Maha Shivaratri",
       "category": "vrat",
       "tithi": "Chaturdashi",
-      "paksha": "Krishna Paksha",
+      "paksha": "",
       "template": "maha_shivaratri",
       "pujaId": "shiva-puja"
+    },
+    {
+      "date": "2027-03-09",
+      "name": "Phulera Dooj",
+      "category": "festival",
+      "tithi": "Dwitiya",
+      "paksha": "",
+      "template": "phulera_dooj"
     },
     {
       "date": "2027-03-18",
       "name": "Amalaki Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "amalaki_ekadashi"
+    },
+    {
+      "date": "2027-03-19",
+      "name": "Shukra Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2027-03-21",
+      "name": "Chhoti Holi",
+      "category": "festival",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "holi"
+    },
+    {
+      "date": "2027-03-21",
+      "name": "Holika Dahan",
+      "category": "festival",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "holika_dahan"
+    },
+    {
+      "date": "2027-03-21",
+      "name": "Phalguna Purnima",
+      "category": "festival",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "holi"
+    },
+    {
+      "date": "2027-03-21",
+      "name": "Vasanta Purnima",
+      "category": "festival",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "holi"
     },
     {
       "date": "2027-03-22",
@@ -1410,27 +2231,59 @@
       "template": "holi"
     },
     {
+      "date": "2027-03-23",
+      "name": "Bhai Dooj",
+      "category": "festival",
+      "tithi": "Dwitiya",
+      "paksha": "",
+      "template": "bhai_dooj"
+    },
+    {
+      "date": "2027-03-25",
+      "name": "Bhalachandra Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
+    },
+    {
       "date": "2027-04-02",
-      "name": "Papmochani Ekadashi",
+      "name": "Papamochani Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
       "paksha": "Krishna Paksha",
       "template": "papmochani_ekadashi"
     },
     {
+      "date": "2027-04-03",
+      "name": "Shani Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
       "date": "2027-04-07",
       "name": "Gudi Padwa",
       "category": "festival",
       "tithi": "Pratipada",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "gudi_padwa"
     },
     {
+      "date": "2027-04-07",
+      "name": "Ugadi",
+      "category": "festival",
+      "tithi": "Pratipada",
+      "paksha": "",
+      "template": "ugadi"
+    },
+    {
       "date": "2027-04-14",
-      "name": "Ram Navami",
+      "name": "Rama Navami",
       "category": "festival",
       "tithi": "Navami",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "ram_navami",
       "pujaId": "sriramanavami-puja"
     },
@@ -1439,8 +2292,40 @@
       "name": "Kamada Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "kamada_ekadashi"
+    },
+    {
+      "date": "2027-04-18",
+      "name": "Ravi Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2027-04-20",
+      "name": "Hanuman Janmotsava",
+      "category": "festival",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "hanuman_jayanti"
+    },
+    {
+      "date": "2027-04-20",
+      "name": "Hanuman Jayanti",
+      "category": "festival",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "hanuman_jayanti"
+    },
+    {
+      "date": "2027-04-23",
+      "name": "Vikata Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2027-05-02",
@@ -1451,15 +2336,47 @@
       "template": "varuthini_ekadashi"
     },
     {
+      "date": "2027-05-03",
+      "name": "Soma Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2027-05-08",
+      "name": "Akshaya Tritiya",
+      "category": "auspicious",
+      "tithi": "Tritiya",
+      "paksha": "",
+      "template": "akshaya_tritiya"
+    },
+    {
       "date": "2027-05-16",
       "name": "Mohini Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "mohini_ekadashi"
     },
     {
-      "date": "2027-06-01",
+      "date": "2027-05-17",
+      "name": "Soma Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2027-05-23",
+      "name": "Ekadanta Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
+    },
+    {
+      "date": "2027-05-31",
       "name": "Apara Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
@@ -1467,12 +2384,36 @@
       "template": "apara_ekadashi"
     },
     {
+      "date": "2027-06-02",
+      "name": "Budha Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
       "date": "2027-06-14",
       "name": "Nirjala Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "nirjala_ekadashi"
+    },
+    {
+      "date": "2027-06-15",
+      "name": "Bhauma Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2027-06-22",
+      "name": "Krishnapingala Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2027-06-30",
@@ -1483,12 +2424,28 @@
       "template": "yogini_ekadashi"
     },
     {
+      "date": "2027-07-01",
+      "name": "Guru Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
       "date": "2027-07-13",
       "name": "Devshayani Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "devshayani_ekadashi"
+    },
+    {
+      "date": "2027-07-15",
+      "name": "Guru Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
     },
     {
       "date": "2027-07-18",
@@ -1499,6 +2456,14 @@
       "template": "guru_purnima"
     },
     {
+      "date": "2027-07-21",
+      "name": "Gajanana Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
+    },
+    {
       "date": "2027-07-29",
       "name": "Kamika Ekadashi",
       "category": "ekadashi",
@@ -1507,12 +2472,52 @@
       "template": "kamika_ekadashi"
     },
     {
+      "date": "2027-07-30",
+      "name": "Shukra Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2027-08-06",
+      "name": "Nag Panchami",
+      "category": "festival",
+      "tithi": "Panchami",
+      "paksha": "",
+      "template": "nag_panchami"
+    },
+    {
       "date": "2027-08-12",
       "name": "Shravana Putrada Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "shravana_putrada_ekadashi"
+    },
+    {
+      "date": "2027-08-13",
+      "name": "Varalakshmi Vrat",
+      "category": "vrat",
+      "tithi": "Friday",
+      "paksha": "",
+      "template": "varalakshmi_vrat"
+    },
+    {
+      "date": "2027-08-14",
+      "name": "Shani Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2027-08-16",
+      "name": "Rakhi",
+      "category": "festival",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "raksha_bandhan"
     },
     {
       "date": "2027-08-16",
@@ -1523,12 +2528,28 @@
       "template": "raksha_bandhan"
     },
     {
+      "date": "2027-08-20",
+      "name": "Heramba Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
+    },
+    {
       "date": "2027-08-25",
       "name": "Krishna Janmashtami",
       "category": "festival",
       "tithi": "Ashtami",
-      "paksha": "Krishna Paksha",
+      "paksha": "",
       "template": "janmashtami"
+    },
+    {
+      "date": "2027-08-26",
+      "name": "Dahi Handi",
+      "category": "festival",
+      "tithi": "Ashtami",
+      "paksha": "",
+      "template": "dahi_handi"
     },
     {
       "date": "2027-08-27",
@@ -1539,21 +2560,53 @@
       "template": "aja_ekadashi"
     },
     {
+      "date": "2027-08-29",
+      "name": "Ravi Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
       "date": "2027-09-03",
       "name": "Ganesh Chaturthi",
       "category": "festival",
       "tithi": "Chaturthi",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "ganesh_chaturthi",
       "pujaId": "ganesh-puja"
     },
     {
       "date": "2027-09-11",
-      "name": "Parivartini Ekadashi",
+      "name": "Parsva Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
+      "paksha": "Krishna Paksha",
+      "template": "parama_ekadashi"
+    },
+    {
+      "date": "2027-09-12",
+      "name": "Ravi Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
       "paksha": "Shukla Paksha",
-      "template": "parivartini_ekadashi"
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2027-09-16",
+      "name": "Pitrupaksha Begins",
+      "category": "vrat",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "pitrupaksha"
+    },
+    {
+      "date": "2027-09-19",
+      "name": "Vighnaraja Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2027-09-26",
@@ -1564,11 +2617,35 @@
       "template": "indira_ekadashi"
     },
     {
+      "date": "2027-09-27",
+      "name": "Soma Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2027-09-29",
+      "name": "Sarva Pitru Amavasya",
+      "category": "vrat",
+      "tithi": "Amavasya",
+      "paksha": "Krishna Paksha",
+      "template": "pitrupaksha"
+    },
+    {
+      "date": "2027-09-30",
+      "name": "Ghatasthapana",
+      "category": "festival",
+      "tithi": "Pratipada",
+      "paksha": "",
+      "template": "navratri"
+    },
+    {
       "date": "2027-09-30",
       "name": "Navratri Begins",
       "category": "festival",
       "tithi": "Pratipada",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "navratri"
     },
     {
@@ -1576,7 +2653,7 @@
       "name": "Maha Navami",
       "category": "festival",
       "tithi": "Navami",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "maha_navami"
     },
     {
@@ -1584,7 +2661,7 @@
       "name": "Dussehra",
       "category": "festival",
       "tithi": "Dashami",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "dussehra"
     },
     {
@@ -1592,16 +2669,32 @@
       "name": "Papankusha Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "papankusha_ekadashi"
     },
     {
-      "date": "2027-10-19",
+      "date": "2027-10-12",
+      "name": "Bhauma Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2027-10-18",
       "name": "Karwa Chauth",
       "category": "vrat",
       "tithi": "Chaturthi",
-      "paksha": "Krishna Paksha",
+      "paksha": "",
       "template": "karwa_chauth"
+    },
+    {
+      "date": "2027-10-18",
+      "name": "Vakratunda Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2027-10-25",
@@ -1612,15 +2705,23 @@
       "template": "rama_ekadashi"
     },
     {
-      "date": "2027-10-27",
+      "date": "2027-10-26",
+      "name": "Bhauma Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2027-10-26",
       "name": "Dhanteras",
       "category": "festival",
       "tithi": "Trayodashi",
-      "paksha": "Krishna Paksha",
+      "paksha": "",
       "template": "dhanteras"
     },
     {
-      "date": "2027-10-29",
+      "date": "2027-10-28",
       "name": "Diwali",
       "category": "festival",
       "tithi": "Amavasya",
@@ -1628,19 +2729,27 @@
       "template": "diwali"
     },
     {
-      "date": "2027-10-30",
+      "date": "2027-10-28",
+      "name": "Lakshmi Puja",
+      "category": "festival",
+      "tithi": "Amavasya",
+      "paksha": "Krishna Paksha",
+      "template": "diwali"
+    },
+    {
+      "date": "2027-10-29",
       "name": "Govardhan Puja",
       "category": "festival",
       "tithi": "Pratipada",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "govardhan_puja"
     },
     {
-      "date": "2027-10-31",
-      "name": "Bhai Dooj",
+      "date": "2027-10-30",
+      "name": "Bhaiya Dooj",
       "category": "festival",
       "tithi": "Dwitiya",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "bhai_dooj"
     },
     {
@@ -1648,16 +2757,32 @@
       "name": "Chhath Puja",
       "category": "vrat",
       "tithi": "Shashthi",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "chhath_puja"
     },
     {
-      "date": "2027-11-09",
-      "name": "Devutthana Ekadashi",
-      "category": "ekadashi",
-      "tithi": "Ekadashi",
+      "date": "2027-11-10",
+      "name": "Tulasi Vivah",
+      "category": "festival",
+      "tithi": "Dwadashi",
+      "paksha": "",
+      "template": "tulasi_vivah"
+    },
+    {
+      "date": "2027-11-13",
+      "name": "Dev Diwali",
+      "category": "festival",
+      "tithi": "Purnima",
       "paksha": "Shukla Paksha",
-      "template": "devutthana_ekadashi"
+      "template": "kartik_purnima"
+    },
+    {
+      "date": "2027-11-16",
+      "name": "Ganadhipa Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2027-11-23",
@@ -1668,12 +2793,36 @@
       "template": "utpanna_ekadashi"
     },
     {
+      "date": "2027-11-25",
+      "name": "Guru Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
       "date": "2027-12-09",
       "name": "Mokshada Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "mokshada_ekadashi"
+    },
+    {
+      "date": "2027-12-10",
+      "name": "Shukra Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2027-12-16",
+      "name": "Akhuratha Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2027-12-23",
@@ -1684,20 +2833,76 @@
       "template": "saphala_ekadashi"
     },
     {
+      "date": "2027-12-24",
+      "name": "Shukra Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
       "date": "2028-01-08",
-      "name": "Putrada Ekadashi",
+      "name": "Pausha Putrada Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "putrada_ekadashi"
     },
     {
+      "date": "2028-01-09",
+      "name": "Ravi Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2028-01-11",
+      "name": "Pausha Purnima",
+      "category": "purnima",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "pausha_purnima"
+    },
+    {
+      "date": "2028-01-11",
+      "name": "Shakambhari Purnima",
+      "category": "purnima",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "pausha_purnima"
+    },
+    {
+      "date": "2028-01-14",
+      "name": "Lambodara Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
+    },
+    {
+      "date": "2028-01-14",
+      "name": "Sakat Chauth",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "",
+      "template": "sakat_chauth"
+    },
+    {
       "date": "2028-01-15",
-      "name": "Makar Sankranti",
+      "name": "Makara Sankranti",
       "category": "festival",
       "tithi": "Sankranti",
       "paksha": "",
       "template": "makar_sankranti"
+    },
+    {
+      "date": "2028-01-15",
+      "name": "Pongal",
+      "category": "festival",
+      "tithi": "Sankranti",
+      "paksha": "",
+      "template": "pongal"
     },
     {
       "date": "2028-01-21",
@@ -1708,11 +2913,35 @@
       "template": "shattila_ekadashi"
     },
     {
+      "date": "2028-01-23",
+      "name": "Ravi Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2028-01-26",
+      "name": "Magha Amavasya",
+      "category": "vrat",
+      "tithi": "Amavasya",
+      "paksha": "Krishna Paksha",
+      "template": "generic_festival"
+    },
+    {
+      "date": "2028-01-26",
+      "name": "Mauni Amavas",
+      "category": "vrat",
+      "tithi": "Amavasya",
+      "paksha": "Krishna Paksha",
+      "template": "generic_festival"
+    },
+    {
       "date": "2028-01-31",
       "name": "Vasant Panchami",
       "category": "festival",
       "tithi": "Panchami",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "vasant_panchami"
     },
     {
@@ -1720,8 +2949,32 @@
       "name": "Jaya Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "jaya_ekadashi"
+    },
+    {
+      "date": "2028-02-08",
+      "name": "Bhauma Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2028-02-10",
+      "name": "Magha Purnima",
+      "category": "purnima",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "magha_purnima"
+    },
+    {
+      "date": "2028-02-13",
+      "name": "Dwijapriya Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2028-02-20",
@@ -1732,24 +2985,80 @@
       "template": "vijaya_ekadashi"
     },
     {
+      "date": "2028-02-22",
+      "name": "Bhauma Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
       "date": "2028-02-23",
       "name": "Maha Shivaratri",
       "category": "vrat",
       "tithi": "Chaturdashi",
-      "paksha": "Krishna Paksha",
+      "paksha": "",
       "template": "maha_shivaratri",
       "pujaId": "shiva-puja"
+    },
+    {
+      "date": "2028-02-27",
+      "name": "Phulera Dooj",
+      "category": "festival",
+      "tithi": "Dwitiya",
+      "paksha": "",
+      "template": "phulera_dooj"
     },
     {
       "date": "2028-03-07",
       "name": "Amalaki Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "amalaki_ekadashi"
     },
     {
+      "date": "2028-03-08",
+      "name": "Budha Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
       "date": "2028-03-10",
+      "name": "Chhoti Holi",
+      "category": "festival",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "holi"
+    },
+    {
+      "date": "2028-03-10",
+      "name": "Holika Dahan",
+      "category": "festival",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "holika_dahan"
+    },
+    {
+      "date": "2028-03-10",
+      "name": "Phalguna Purnima",
+      "category": "festival",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "holi"
+    },
+    {
+      "date": "2028-03-10",
+      "name": "Vasanta Purnima",
+      "category": "festival",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "holi"
+    },
+    {
+      "date": "2028-03-11",
       "name": "Holi",
       "category": "festival",
       "tithi": "Purnima",
@@ -1757,27 +3066,59 @@
       "template": "holi"
     },
     {
+      "date": "2028-03-12",
+      "name": "Bhai Dooj",
+      "category": "festival",
+      "tithi": "Dwitiya",
+      "paksha": "",
+      "template": "bhai_dooj"
+    },
+    {
+      "date": "2028-03-13",
+      "name": "Bhalachandra Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
+    },
+    {
       "date": "2028-03-21",
-      "name": "Papmochani Ekadashi",
+      "name": "Papamochani Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
       "paksha": "Krishna Paksha",
       "template": "papmochani_ekadashi"
     },
     {
+      "date": "2028-03-22",
+      "name": "Budha Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
       "date": "2028-03-26",
       "name": "Gudi Padwa",
       "category": "festival",
       "tithi": "Pratipada",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "gudi_padwa"
     },
     {
+      "date": "2028-03-26",
+      "name": "Ugadi",
+      "category": "festival",
+      "tithi": "Pratipada",
+      "paksha": "",
+      "template": "ugadi"
+    },
+    {
       "date": "2028-04-03",
-      "name": "Ram Navami",
+      "name": "Rama Navami",
       "category": "festival",
       "tithi": "Navami",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "ram_navami",
       "pujaId": "sriramanavami-puja"
     },
@@ -1786,8 +3127,40 @@
       "name": "Kamada Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "kamada_ekadashi"
+    },
+    {
+      "date": "2028-04-06",
+      "name": "Guru Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2028-04-08",
+      "name": "Hanuman Janmotsava",
+      "category": "festival",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "hanuman_jayanti"
+    },
+    {
+      "date": "2028-04-08",
+      "name": "Hanuman Jayanti",
+      "category": "festival",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "hanuman_jayanti"
+    },
+    {
+      "date": "2028-04-12",
+      "name": "Vikata Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2028-04-20",
@@ -1798,12 +3171,44 @@
       "template": "varuthini_ekadashi"
     },
     {
+      "date": "2028-04-21",
+      "name": "Shukra Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2028-04-27",
+      "name": "Akshaya Tritiya",
+      "category": "auspicious",
+      "tithi": "Tritiya",
+      "paksha": "",
+      "template": "akshaya_tritiya"
+    },
+    {
       "date": "2028-05-04",
       "name": "Mohini Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "mohini_ekadashi"
+    },
+    {
+      "date": "2028-05-06",
+      "name": "Shani Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2028-05-11",
+      "name": "Ekadanta Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2028-05-19",
@@ -1814,12 +3219,36 @@
       "template": "apara_ekadashi"
     },
     {
+      "date": "2028-05-21",
+      "name": "Ravi Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
       "date": "2028-06-03",
       "name": "Nirjala Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "nirjala_ekadashi"
+    },
+    {
+      "date": "2028-06-04",
+      "name": "Ravi Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2028-06-10",
+      "name": "Krishnapingala Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2028-06-18",
@@ -1830,12 +3259,28 @@
       "template": "yogini_ekadashi"
     },
     {
+      "date": "2028-06-19",
+      "name": "Soma Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
       "date": "2028-07-02",
       "name": "Devshayani Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "devshayani_ekadashi"
+    },
+    {
+      "date": "2028-07-03",
+      "name": "Soma Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
     },
     {
       "date": "2028-07-06",
@@ -1846,6 +3291,14 @@
       "template": "guru_purnima"
     },
     {
+      "date": "2028-07-09",
+      "name": "Gajanana Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
+    },
+    {
       "date": "2028-07-18",
       "name": "Kamika Ekadashi",
       "category": "ekadashi",
@@ -1854,12 +3307,44 @@
       "template": "kamika_ekadashi"
     },
     {
-      "date": "2028-07-30",
+      "date": "2028-07-19",
+      "name": "Budha Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2028-07-25",
+      "name": "Nag Panchami",
+      "category": "festival",
+      "tithi": "Panchami",
+      "paksha": "",
+      "template": "nag_panchami"
+    },
+    {
+      "date": "2028-07-31",
       "name": "Shravana Putrada Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "shravana_putrada_ekadashi"
+    },
+    {
+      "date": "2028-08-02",
+      "name": "Budha Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2028-08-04",
+      "name": "Rakhi",
+      "category": "festival",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "raksha_bandhan"
     },
     {
       "date": "2028-08-04",
@@ -1870,12 +3355,28 @@
       "template": "raksha_bandhan"
     },
     {
+      "date": "2028-08-04",
+      "name": "Varalakshmi Vrat",
+      "category": "vrat",
+      "tithi": "Friday",
+      "paksha": "",
+      "template": "varalakshmi_vrat"
+    },
+    {
+      "date": "2028-08-08",
+      "name": "Heramba Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
+    },
+    {
       "date": "2028-08-13",
-      "name": "Krishna Janmashtami",
+      "name": "Dahi Handi",
       "category": "festival",
       "tithi": "Ashtami",
-      "paksha": "Krishna Paksha",
-      "template": "janmashtami"
+      "paksha": "",
+      "template": "dahi_handi"
     },
     {
       "date": "2028-08-16",
@@ -1886,21 +3387,53 @@
       "template": "aja_ekadashi"
     },
     {
+      "date": "2028-08-17",
+      "name": "Guru Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
       "date": "2028-08-23",
       "name": "Ganesh Chaturthi",
       "category": "festival",
       "tithi": "Chaturthi",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "ganesh_chaturthi",
       "pujaId": "ganesh-puja"
     },
     {
       "date": "2028-08-30",
-      "name": "Parivartini Ekadashi",
+      "name": "Parsva Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
+      "paksha": "Krishna Paksha",
+      "template": "parama_ekadashi"
+    },
+    {
+      "date": "2028-08-31",
+      "name": "Guru Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
       "paksha": "Shukla Paksha",
-      "template": "parivartini_ekadashi"
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2028-09-04",
+      "name": "Pitrupaksha Begins",
+      "category": "vrat",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "pitrupaksha"
+    },
+    {
+      "date": "2028-09-07",
+      "name": "Vighnaraja Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2028-09-14",
@@ -1911,11 +3444,35 @@
       "template": "indira_ekadashi"
     },
     {
+      "date": "2028-09-16",
+      "name": "Shani Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2028-09-18",
+      "name": "Sarva Pitru Amavasya",
+      "category": "vrat",
+      "tithi": "Amavasya",
+      "paksha": "Krishna Paksha",
+      "template": "pitrupaksha"
+    },
+    {
+      "date": "2028-09-19",
+      "name": "Ghatasthapana",
+      "category": "festival",
+      "tithi": "Pratipada",
+      "paksha": "",
+      "template": "navratri"
+    },
+    {
       "date": "2028-09-19",
       "name": "Navratri Begins",
       "category": "festival",
       "tithi": "Pratipada",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "navratri"
     },
     {
@@ -1923,7 +3480,7 @@
       "name": "Maha Navami",
       "category": "festival",
       "tithi": "Navami",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "maha_navami"
     },
     {
@@ -1931,7 +3488,7 @@
       "name": "Dussehra",
       "category": "festival",
       "tithi": "Dashami",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "dussehra"
     },
     {
@@ -1939,16 +3496,32 @@
       "name": "Papankusha Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "papankusha_ekadashi"
     },
     {
-      "date": "2028-10-07",
+      "date": "2028-09-30",
+      "name": "Shani Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2028-10-06",
       "name": "Karwa Chauth",
       "category": "vrat",
       "tithi": "Chaturthi",
-      "paksha": "Krishna Paksha",
+      "paksha": "",
       "template": "karwa_chauth"
+    },
+    {
+      "date": "2028-10-06",
+      "name": "Vakratunda Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2028-10-14",
@@ -1963,8 +3536,16 @@
       "name": "Dhanteras",
       "category": "festival",
       "tithi": "Trayodashi",
-      "paksha": "Krishna Paksha",
+      "paksha": "",
       "template": "dhanteras"
+    },
+    {
+      "date": "2028-10-15",
+      "name": "Ravi Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
     },
     {
       "date": "2028-10-17",
@@ -1975,19 +3556,27 @@
       "template": "diwali"
     },
     {
+      "date": "2028-10-17",
+      "name": "Lakshmi Puja",
+      "category": "festival",
+      "tithi": "Amavasya",
+      "paksha": "Krishna Paksha",
+      "template": "diwali"
+    },
+    {
       "date": "2028-10-18",
       "name": "Govardhan Puja",
       "category": "festival",
       "tithi": "Pratipada",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "govardhan_puja"
     },
     {
       "date": "2028-10-19",
-      "name": "Bhai Dooj",
+      "name": "Bhaiya Dooj",
       "category": "festival",
       "tithi": "Dwitiya",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "bhai_dooj"
     },
     {
@@ -1995,16 +3584,32 @@
       "name": "Chhath Puja",
       "category": "vrat",
       "tithi": "Shashthi",
-      "paksha": "Shukla Paksha",
+      "paksha": "",
       "template": "chhath_puja"
     },
     {
-      "date": "2028-10-28",
-      "name": "Devutthana Ekadashi",
-      "category": "ekadashi",
-      "tithi": "Ekadashi",
+      "date": "2028-10-29",
+      "name": "Tulasi Vivah",
+      "category": "festival",
+      "tithi": "Dwadashi",
+      "paksha": "",
+      "template": "tulasi_vivah"
+    },
+    {
+      "date": "2028-11-01",
+      "name": "Dev Diwali",
+      "category": "festival",
+      "tithi": "Purnima",
       "paksha": "Shukla Paksha",
-      "template": "devutthana_ekadashi"
+      "template": "kartik_purnima"
+    },
+    {
+      "date": "2028-11-05",
+      "name": "Ganadhipa Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2028-11-12",
@@ -2015,12 +3620,36 @@
       "template": "utpanna_ekadashi"
     },
     {
+      "date": "2028-11-13",
+      "name": "Soma Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
       "date": "2028-11-27",
       "name": "Mokshada Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "mokshada_ekadashi"
+    },
+    {
+      "date": "2028-11-29",
+      "name": "Budha Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2028-12-05",
+      "name": "Akhuratha Sankashti",
+      "category": "vrat",
+      "tithi": "Chaturthi",
+      "paksha": "Krishna Paksha",
+      "template": "sankashti"
     },
     {
       "date": "2028-12-11",
@@ -2031,12 +3660,44 @@
       "template": "saphala_ekadashi"
     },
     {
+      "date": "2028-12-13",
+      "name": "Budha Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
       "date": "2028-12-27",
-      "name": "Putrada Ekadashi",
+      "name": "Pausha Putrada Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
-      "paksha": "Shukla Paksha",
+      "paksha": "Krishna Paksha",
       "template": "putrada_ekadashi"
+    },
+    {
+      "date": "2028-12-28",
+      "name": "Guru Pradosh Vrat",
+      "category": "vrat",
+      "tithi": "Trayodashi",
+      "paksha": "Shukla Paksha",
+      "template": "pradosh_vrat"
+    },
+    {
+      "date": "2028-12-31",
+      "name": "Pausha Purnima",
+      "category": "purnima",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "pausha_purnima"
+    },
+    {
+      "date": "2028-12-31",
+      "name": "Shakambhari Purnima",
+      "category": "purnima",
+      "tithi": "Purnima",
+      "paksha": "Shukla Paksha",
+      "template": "pausha_purnima"
     },
     {
       "date": "2029-01-10",
@@ -2096,7 +3757,7 @@
       "template": "amalaki_ekadashi"
     },
     {
-      "date": "2029-02-28",
+      "date": "2029-03-01",
       "name": "Holi",
       "category": "festival",
       "tithi": "Purnima",
@@ -2112,7 +3773,7 @@
       "template": "papmochani_ekadashi"
     },
     {
-      "date": "2029-03-26",
+      "date": "2029-03-25",
       "name": "Kamada Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
@@ -2128,7 +3789,7 @@
       "template": "varuthini_ekadashi"
     },
     {
-      "date": "2029-04-22",
+      "date": "2029-04-23",
       "name": "Ram Navami",
       "category": "festival",
       "tithi": "Navami",
@@ -2169,7 +3830,7 @@
       "template": "yogini_ekadashi"
     },
     {
-      "date": "2029-06-22",
+      "date": "2029-06-21",
       "name": "Devshayani Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
@@ -2177,7 +3838,7 @@
       "template": "devshayani_ekadashi"
     },
     {
-      "date": "2029-07-07",
+      "date": "2029-07-06",
       "name": "Kamika Ekadashi",
       "category": "ekadashi",
       "tithi": "Ekadashi",
