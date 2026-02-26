@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "description": "Hindu Calendar - Festivals, Vrats & Ekadashi (2025-2030)",
   "sources": ["TithiToday", "calendar-bharat", "prokerala", "drikpanchang"],
   "templates": {
@@ -247,6 +247,11 @@
       "significance": "Most sacred Purnima. Light diyas and take holy bath.",
       "practices": ["Light diyas", "Holy bath", "Charity"],
       "avoid": ["Darkness", "Sins"]
+    },
+    "ratha_saptami": {
+      "significance": "Sun God's birthday. Worship Surya for health, prosperity, and victory.",
+      "practices": ["Surya puja at sunrise", "Offer arghya", "Eat jaggery and sesame"],
+      "avoid": ["Sleeping late", "Disrespect to elders"]
     }
   },
   "events": [
@@ -300,6 +305,7 @@
     {"date": "2026-01-29", "name": "Jaya Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "jaya_ekadashi"},
     {"date": "2026-02-13", "name": "Vijaya Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "vijaya_ekadashi"},
     {"date": "2026-02-15", "name": "Maha Shivaratri", "category": "vrat", "tithi": "Chaturdashi", "paksha": "Krishna Paksha", "template": "maha_shivaratri", "pujaId": "shiva-puja"},
+    {"date": "2026-02-20", "name": "Ratha Saptami", "category": "festival", "tithi": "Saptami", "paksha": "Shukla Paksha", "template": "ratha_saptami"},
     {"date": "2026-02-27", "name": "Amalaki Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Shukla Paksha", "template": "amalaki_ekadashi"},
     {"date": "2026-03-04", "name": "Holi", "category": "festival", "tithi": "Purnima", "paksha": "Shukla Paksha", "template": "holi"},
     {"date": "2026-03-14", "name": "Papmochani Ekadashi", "category": "ekadashi", "tithi": "Ekadashi", "paksha": "Krishna Paksha", "template": "papmochani_ekadashi"},
