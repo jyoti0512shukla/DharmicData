@@ -2,23 +2,23 @@
   "image_cache_days": 7,
   "lyrics_type_labels": {
     "aarti": {
-      "hi": "आरती",
+      "hi": "\u0906\u0930\u0924\u0940",
       "en": "Aarti"
     },
     "chalisa": {
-      "hi": "चालीसा",
+      "hi": "\u091a\u093e\u0932\u0940\u0938\u093e",
       "en": "Chalisa"
     },
     "bhajan": {
-      "hi": "भजन",
+      "hi": "\u092d\u091c\u0928",
       "en": "Bhajan"
     },
     "mantra": {
-      "hi": "मंत्र",
+      "hi": "\u092e\u0902\u0924\u094d\u0930",
       "en": "Mantra"
     },
     "stotra": {
-      "hi": "स्तोत्र",
+      "hi": "\u0938\u094d\u0924\u094b\u0924\u094d\u0930",
       "en": "Stotra"
     }
   },
@@ -35,5 +35,6 @@
   "darshan_remote_url": "https://raw.githubusercontent.com/jyoti0512shukla/DharmicData/main/live-darshan-catalog.json",
   "temples_catalog_url": "https://raw.githubusercontent.com/jyoti0512shukla/DharmicData/main/temples-catalog.json",
   "calendar_remote_url": "https://raw.githubusercontent.com/jyoti0512shukla/DharmicData/main/hindu-calendar.json",
-  "feedback_email": "jyoti0512shukla@gmail.com"
+  "feedback_email": "jyoti0512shukla@gmail.com",
+  "calendar_remote_base_url": "https://raw.githubusercontent.com/jyoti0512shukla/DharmicData/main/"
 }
